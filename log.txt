@@ -1000,3 +1000,4 @@
 94333. refactor: clean up auth middleware #94333
 33350. refactor: refactor quiz grading logic #33350
 39375. test: test user registration edge cases #39375
+77728. test: increase coverage on auth module #77728

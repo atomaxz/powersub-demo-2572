@@ -999,3 +999,4 @@
 20306. feat: create admin dashboard #20306
 94333. refactor: clean up auth middleware #94333
 33350. refactor: refactor quiz grading logic #33350
+39375. test: test user registration edge cases #39375

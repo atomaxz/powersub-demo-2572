@@ -5,3 +5,4 @@
 46208. fix: prevent crash on empty input #46208
 92149. style: standardize quote style #92149
 72061. docs: update README with setup steps #72061
+23104. docs: write FAQ section #23104

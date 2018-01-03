@@ -6,3 +6,4 @@
 92149. style: standardize quote style #92149
 72061. docs: update README with setup steps #72061
 23104. docs: write FAQ section #23104
+79967. perf: lazy-load components #79967

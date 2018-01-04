@@ -1007,3 +1007,4 @@
 5310. feat: add user authentication #5310
 88847. perf: cache repeated calculations #88847
 6582. fix: correct typo in registration form #6582
+86822. docs: write FAQ section #86822

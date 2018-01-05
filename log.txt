@@ -2010,3 +2010,4 @@
 82302. style: apply consistent indentation #82302
 8489. docs: clarify environment setup #8489
 0871. feat: add user authentication #871
+84797. docs: update README with setup steps #84797

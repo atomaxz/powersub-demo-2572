@@ -12,3 +12,4 @@
 64328. perf: reduce image load time #64328
 85679. refactor: clean up auth middleware #85679
 30398. perf: lazy-load components #30398
+96698. fix: handle 500 error in quiz API #96698

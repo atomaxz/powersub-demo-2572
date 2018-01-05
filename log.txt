@@ -3011,3 +3011,4 @@
 51684. test: test user registration edge cases #51684
 11351. fix: resolve issue with date parsing #11351
 38939. fix: fix broken CSS in mobile view #38939
+32252. chore: bump dependencies #32252

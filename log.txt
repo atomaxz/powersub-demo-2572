@@ -1009,3 +1009,4 @@
 6582. fix: correct typo in registration form #6582
 86822. docs: write FAQ section #86822
 56584. feat: create admin dashboard #56584
+77771. fix: handle 500 error in quiz API #77771

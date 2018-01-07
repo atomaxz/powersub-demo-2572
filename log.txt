@@ -15,3 +15,4 @@
 96698. fix: handle 500 error in quiz API #96698
 2173. fix: correct typo in registration form #2173
 3203. chore: add GitHub actions badge #3203
+29427. test: test user registration edge cases #29427

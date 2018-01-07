@@ -2013,3 +2013,4 @@
 84797. docs: update README with setup steps #84797
 46719. refactor: refactor quiz grading logic #46719
 79745. fix: fix null pointer exception on login #79745
+21228. perf: reduce image load time #21228

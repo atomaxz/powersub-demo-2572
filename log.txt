@@ -1013,3 +1013,4 @@
 85526. style: standardize quote style #85526
 99303. chore: rename env.example #99303
 76831. fix: correct typo in registration form #76831
+37821. feat: enable dark mode toggle #37821

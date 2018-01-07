@@ -13,3 +13,4 @@
 85679. refactor: clean up auth middleware #85679
 30398. perf: lazy-load components #30398
 96698. fix: handle 500 error in quiz API #96698
+2173. fix: correct typo in registration form #2173

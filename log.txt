@@ -16,3 +16,4 @@
 2173. fix: correct typo in registration form #2173
 3203. chore: add GitHub actions badge #3203
 29427. test: test user registration edge cases #29427
+76457. perf: cache repeated calculations #76457

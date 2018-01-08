@@ -19,3 +19,4 @@
 76457. perf: cache repeated calculations #76457
 35418. docs: write FAQ section #35418
 97019. test: mock database connection in test suite #97019
+71029. test: add unit test for quiz service #71029

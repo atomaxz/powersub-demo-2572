@@ -18,3 +18,4 @@
 29427. test: test user registration edge cases #29427
 76457. perf: cache repeated calculations #76457
 35418. docs: write FAQ section #35418
+97019. test: mock database connection in test suite #97019

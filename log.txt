@@ -3019,3 +3019,4 @@
 49155. docs: clarify environment setup #49155
 79912. perf: reduce image load time #79912
 72169. perf: optimize database query for quiz results #72169
+50787. test: increase coverage on auth module #50787

@@ -2016,3 +2016,4 @@
 21228. perf: reduce image load time #21228
 32369. fix: prevent crash on empty input #32369
 60731. perf: cache repeated calculations #60731
+24129. chore: clean up unused files #24129

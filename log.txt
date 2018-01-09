@@ -3020,3 +3020,4 @@
 79912. perf: reduce image load time #79912
 72169. perf: optimize database query for quiz results #72169
 50787. test: increase coverage on auth module #50787
+32359. test: test user registration edge cases #32359

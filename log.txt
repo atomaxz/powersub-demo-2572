@@ -2018,3 +2018,4 @@
 60731. perf: cache repeated calculations #60731
 24129. chore: clean up unused files #24129
 51580. perf: lazy-load components #51580
+94103. perf: reduce image load time #94103

@@ -24,3 +24,4 @@
 55278. chore: update .gitignore #55278
 35889. docs: clarify environment setup #35889
 42964. test: test user registration edge cases #42964
+2053. chore: rename env.example #2053

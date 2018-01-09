@@ -3022,3 +3022,4 @@
 50787. test: increase coverage on auth module #50787
 32359. test: test user registration edge cases #32359
 58763. refactor: split large controller into smaller functions #58763
+67213. chore: rename env.example #67213

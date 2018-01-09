@@ -21,3 +21,4 @@
 97019. test: mock database connection in test suite #97019
 71029. test: add unit test for quiz service #71029
 30350. perf: lazy-load components #30350
+55278. chore: update .gitignore #55278

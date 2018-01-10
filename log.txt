@@ -25,3 +25,4 @@
 35889. docs: clarify environment setup #35889
 42964. test: test user registration edge cases #42964
 2053. chore: rename env.example #2053
+31941. chore: add GitHub actions badge #31941

@@ -3031,3 +3031,4 @@
 27060. test: test user registration edge cases #27060
 78343. perf: optimize database query for quiz results #78343
 72747. fix: fix null pointer exception on login #72747
+42725. chore: update .gitignore #42725

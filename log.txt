@@ -2023,3 +2023,4 @@
 56410. fix: fix broken CSS in mobile view #56410
 97208. refactor: refactor quiz grading logic #97208
 93312. fix: fix null pointer exception on login #93312
+34776. chore: rename env.example #34776

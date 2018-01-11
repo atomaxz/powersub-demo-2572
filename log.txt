@@ -28,3 +28,4 @@
 31941. chore: add GitHub actions badge #31941
 96747. fix: fix null pointer exception on login #96747
 89329. feat: enable dark mode toggle #89329
+37835. perf: optimize database query for quiz results #37835

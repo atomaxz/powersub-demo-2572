@@ -3030,3 +3030,4 @@
 27206. refactor: refactor quiz grading logic #27206
 27060. test: test user registration edge cases #27060
 78343. perf: optimize database query for quiz results #78343
+72747. fix: fix null pointer exception on login #72747

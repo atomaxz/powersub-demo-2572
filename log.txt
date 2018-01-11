@@ -27,3 +27,4 @@
 2053. chore: rename env.example #2053
 31941. chore: add GitHub actions badge #31941
 96747. fix: fix null pointer exception on login #96747
+89329. feat: enable dark mode toggle #89329

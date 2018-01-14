@@ -3041,3 +3041,4 @@
 2660. feat: enable dark mode toggle #2660
 17771. style: reformat files with black #17771
 65028. chore: clean up unused files #65028
+30941. fix: fix broken CSS in mobile view #30941

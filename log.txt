@@ -1028,3 +1028,4 @@
 64251. fix: fix null pointer exception on login #64251
 32861. docs: improve code comments in utils #32861
 45376. docs: document token refresh logic #45376
+64622. chore: add GitHub actions badge #64622

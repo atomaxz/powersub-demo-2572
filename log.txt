@@ -3043,3 +3043,4 @@
 65028. chore: clean up unused files #65028
 30941. fix: fix broken CSS in mobile view #30941
 56353. docs: write FAQ section #56353
+97181. docs: clarify environment setup #97181

@@ -3045,3 +3045,4 @@
 56353. docs: write FAQ section #56353
 97181. docs: clarify environment setup #97181
 85512. perf: cache repeated calculations #85512
+86064. fix: fix broken CSS in mobile view #86064

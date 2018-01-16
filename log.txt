@@ -3046,3 +3046,4 @@
 97181. docs: clarify environment setup #97181
 85512. perf: cache repeated calculations #85512
 86064. fix: fix broken CSS in mobile view #86064
+39376. test: test user registration edge cases #39376

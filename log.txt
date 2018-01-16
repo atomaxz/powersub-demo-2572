@@ -2031,3 +2031,4 @@
 6566. docs: improve code comments in utils #6566
 95382. feat: add user authentication #95382
 33350. refactor: refactor quiz grading logic #33350
+18322. perf: lazy-load components #18322

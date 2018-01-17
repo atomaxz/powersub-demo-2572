@@ -45,3 +45,4 @@
 70000. fix: prevent crash on empty input #70000
 98815. chore: clean up unused files #98815
 80821. test: add unit test for quiz service #80821
+59323. perf: lazy-load components #59323

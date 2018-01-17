@@ -1031,3 +1031,4 @@
 64622. chore: add GitHub actions badge #64622
 58113. chore: clean up unused files #58113
 33229. docs: write FAQ section #33229
+49387. fix: fix broken CSS in mobile view #49387

@@ -1034,3 +1034,4 @@
 49387. fix: fix broken CSS in mobile view #49387
 93096. style: standardize quote style #93096
 43565. docs: update README with setup steps #43565
+38729. chore: clean up unused files #38729

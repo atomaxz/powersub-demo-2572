@@ -44,3 +44,4 @@
 67909. fix: correct typo in registration form #67909
 70000. fix: prevent crash on empty input #70000
 98815. chore: clean up unused files #98815
+80821. test: add unit test for quiz service #80821

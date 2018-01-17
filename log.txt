@@ -2036,3 +2036,4 @@
 8309. chore: add GitHub actions badge #8309
 82124. chore: add GitHub actions badge #82124
 47312. docs: add API usage examples #47312
+36975. docs: write FAQ section #36975

@@ -2039,3 +2039,4 @@
 36975. docs: write FAQ section #36975
 40209. fix: handle 500 error in quiz API #40209
 50362. style: apply consistent indentation #50362
+31787. test: increase coverage on auth module #31787

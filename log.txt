@@ -50,3 +50,4 @@
 30705. refactor: refactor quiz grading logic #30705
 14668. refactor: clean up auth middleware #14668
 39145. chore: add GitHub actions badge #39145
+38124. chore: update .gitignore #38124

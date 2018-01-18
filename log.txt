@@ -2040,3 +2040,4 @@
 40209. fix: handle 500 error in quiz API #40209
 50362. style: apply consistent indentation #50362
 31787. test: increase coverage on auth module #31787
+92507. feat: support email verification #92507

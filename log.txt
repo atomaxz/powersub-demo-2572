@@ -52,3 +52,4 @@
 39145. chore: add GitHub actions badge #39145
 38124. chore: update .gitignore #38124
 12922. fix: correct typo in registration form #12922
+31968. style: standardize quote style #31968

@@ -49,3 +49,4 @@
 64567. feat: add export to CSV option #64567
 30705. refactor: refactor quiz grading logic #30705
 14668. refactor: clean up auth middleware #14668
+39145. chore: add GitHub actions badge #39145

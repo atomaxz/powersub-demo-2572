@@ -3055,3 +3055,4 @@
 59518. test: mock database connection in test suite #59518
 94675. feat: implement quiz timer feature #94675
 77880. feat: enable dark mode toggle #77880
+5181. perf: lazy-load components #5181

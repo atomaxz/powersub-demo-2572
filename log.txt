@@ -1045,3 +1045,4 @@
 76804. refactor: remove redundant code blocks #76804
 19171. refactor: organize models into subfolders #19171
 78448. chore: rename env.example #78448
+1652. fix: prevent crash on empty input #1652

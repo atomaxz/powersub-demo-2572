@@ -2048,3 +2048,4 @@
 60896. test: add integration test for /submit endpoint #60896
 2538. test: add unit test for quiz service #2538
 43026. style: remove trailing whitespace #43026
+43886. chore: update .gitignore #43886

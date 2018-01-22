@@ -62,3 +62,4 @@
 35712. style: standardize quote style #35712
 15980. perf: optimize database query for quiz results #15980
 59689. fix: fix null pointer exception on login #59689
+82964. test: add unit test for quiz service #82964

@@ -3064,3 +3064,4 @@
 59233. refactor: organize models into subfolders #59233
 74695. fix: handle 500 error in quiz API #74695
 66153. test: mock database connection in test suite #66153
+92707. docs: update README with setup steps #92707

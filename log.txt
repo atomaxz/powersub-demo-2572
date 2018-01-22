@@ -3067,3 +3067,4 @@
 92707. docs: update README with setup steps #92707
 92984. fix: fix broken CSS in mobile view #92984
 74872. test: test user registration edge cases #74872
+32895. feat: add user authentication #32895

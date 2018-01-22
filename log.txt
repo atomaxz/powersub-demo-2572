@@ -3062,3 +3062,4 @@
 29704. style: standardize quote style #29704
 12055. test: mock database connection in test suite #12055
 59233. refactor: organize models into subfolders #59233
+74695. fix: handle 500 error in quiz API #74695

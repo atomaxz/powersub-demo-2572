@@ -2046,3 +2046,4 @@
 47986. test: mock database connection in test suite #47986
 18749. perf: lazy-load components #18749
 60896. test: add integration test for /submit endpoint #60896
+2538. test: add unit test for quiz service #2538

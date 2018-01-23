@@ -64,3 +64,4 @@
 59689. fix: fix null pointer exception on login #59689
 82964. test: add unit test for quiz service #82964
 8909. fix: fix broken CSS in mobile view #8909
+50296. chore: bump dependencies #50296

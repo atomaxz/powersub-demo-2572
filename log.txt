@@ -2057,3 +2057,4 @@
 71608. docs: update README with setup steps #71608
 98864. feat: support email verification #98864
 19358. feat: enable dark mode toggle #19358
+16081. test: mock database connection in test suite #16081

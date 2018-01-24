@@ -3069,3 +3069,4 @@
 74872. test: test user registration edge cases #74872
 32895. feat: add user authentication #32895
 96629. fix: correct typo in registration form #96629
+73807. test: add unit test for quiz service #73807

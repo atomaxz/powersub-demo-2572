@@ -1058,3 +1058,4 @@
 55899. perf: cache repeated calculations #55899
 9635. docs: add API usage examples #9635
 56771. refactor: clean up auth middleware #56771
+10009. fix: fix broken CSS in mobile view #10009

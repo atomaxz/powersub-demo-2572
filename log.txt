@@ -3071,3 +3071,4 @@
 96629. fix: correct typo in registration form #96629
 73807. test: add unit test for quiz service #73807
 46896. test: mock database connection in test suite #46896
+66856. perf: optimize database query for quiz results #66856

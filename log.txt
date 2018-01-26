@@ -68,3 +68,4 @@
 23517. test: add unit test for quiz service #23517
 15865. docs: write FAQ section #15865
 63910. test: test user registration edge cases #63910
+34039. perf: optimize database query for quiz results #34039

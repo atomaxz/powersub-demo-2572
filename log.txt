@@ -2067,3 +2067,4 @@
 70840. fix: correct typo in registration form #70840
 29502. chore: bump dependencies #29502
 51647. perf: lazy-load components #51647
+98537. feat: support email verification #98537

@@ -71,3 +71,4 @@
 34039. perf: optimize database query for quiz results #34039
 0874. perf: reduce image load time #874
 52866. feat: add user authentication #52866
+43376. docs: write FAQ section #43376

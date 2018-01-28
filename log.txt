@@ -2073,3 +2073,4 @@
 72394. style: reformat files with black #72394
 43863. feat: add export to CSV option #43863
 3063. fix: fix null pointer exception on login #3063
+42729. style: standardize quote style #42729

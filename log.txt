@@ -73,3 +73,4 @@
 52866. feat: add user authentication #52866
 43376. docs: write FAQ section #43376
 22599. perf: lazy-load components #22599
+14506. feat: create admin dashboard #14506

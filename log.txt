@@ -74,3 +74,4 @@
 43376. docs: write FAQ section #43376
 22599. perf: lazy-load components #22599
 14506. feat: create admin dashboard #14506
+97731. test: mock database connection in test suite #97731

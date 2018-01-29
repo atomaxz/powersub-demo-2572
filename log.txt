@@ -76,3 +76,4 @@
 14506. feat: create admin dashboard #14506
 97731. test: mock database connection in test suite #97731
 21520. feat: create admin dashboard #21520
+49476. perf: optimize database query for quiz results #49476

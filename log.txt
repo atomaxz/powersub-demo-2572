@@ -1072,3 +1072,4 @@
 20899. style: apply consistent indentation #20899
 40073. feat: create admin dashboard #40073
 85370. style: rename variables for clarity #85370
+86444. test: increase coverage on auth module #86444

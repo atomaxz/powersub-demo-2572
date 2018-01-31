@@ -2079,3 +2079,4 @@
 28408. test: increase coverage on auth module #28408
 44774. chore: rename env.example #44774
 53523. fix: prevent crash on empty input #53523
+26882. chore: update .gitignore #26882

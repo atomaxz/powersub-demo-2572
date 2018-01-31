@@ -80,3 +80,4 @@
 33568. chore: rename env.example #33568
 87054. feat: create admin dashboard #87054
 87563. test: mock database connection in test suite #87563
+74328. perf: lazy-load components #74328

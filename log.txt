@@ -3085,3 +3085,4 @@
 81729. style: remove trailing whitespace #81729
 89736. feat: create admin dashboard #89736
 43481. chore: rename env.example #43481
+15604. test: test user registration edge cases #15604

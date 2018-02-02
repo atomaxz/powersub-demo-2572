@@ -3094,3 +3094,4 @@
 80838. perf: cache repeated calculations #80838
 92578. docs: document token refresh logic #92578
 87249. fix: fix broken CSS in mobile view #87249
+83941. fix: correct typo in registration form #83941

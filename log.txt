@@ -3097,3 +3097,4 @@
 83941. fix: correct typo in registration form #83941
 13966. fix: resolve issue with date parsing #13966
 64456. refactor: split large controller into smaller functions #64456
+65338. docs: write FAQ section #65338

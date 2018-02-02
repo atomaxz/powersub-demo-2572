@@ -3090,3 +3090,4 @@
 37753. feat: add export to CSV option #37753
 15596. perf: optimize database query for quiz results #15596
 97157. feat: add user authentication #97157
+72975. test: mock database connection in test suite #72975

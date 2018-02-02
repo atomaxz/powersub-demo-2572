@@ -84,3 +84,4 @@
 20051. refactor: organize models into subfolders #20051
 55726. feat: implement quiz timer feature #55726
 5126. fix: resolve issue with date parsing #5126
+4066. refactor: clean up auth middleware #4066

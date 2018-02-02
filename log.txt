@@ -3092,3 +3092,4 @@
 97157. feat: add user authentication #97157
 72975. test: mock database connection in test suite #72975
 80838. perf: cache repeated calculations #80838
+92578. docs: document token refresh logic #92578

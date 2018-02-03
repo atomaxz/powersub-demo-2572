@@ -2088,3 +2088,4 @@
 12193. docs: add API usage examples #12193
 22141. refactor: remove redundant code blocks #22141
 90840. docs: clarify environment setup #90840
+42554. refactor: clean up auth middleware #42554

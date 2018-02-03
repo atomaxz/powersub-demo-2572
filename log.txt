@@ -3098,3 +3098,4 @@
 13966. fix: resolve issue with date parsing #13966
 64456. refactor: split large controller into smaller functions #64456
 65338. docs: write FAQ section #65338
+59069. fix: fix broken CSS in mobile view #59069

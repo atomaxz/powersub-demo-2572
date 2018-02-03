@@ -1083,3 +1083,4 @@
 4412. test: increase coverage on auth module #4412
 97222. style: rename variables for clarity #97222
 34026. perf: optimize database query for quiz results #34026
+0764. fix: fix broken CSS in mobile view #764

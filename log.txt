@@ -89,3 +89,4 @@
 86546. feat: implement quiz timer feature #86546
 11771. docs: improve code comments in utils #11771
 40465. feat: add export to CSV option #40465
+99610. perf: lazy-load components #99610

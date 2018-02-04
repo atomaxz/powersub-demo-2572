@@ -94,3 +94,4 @@
 78480. refactor: refactor quiz grading logic #78480
 4594. feat: implement quiz timer feature #4594
 84741. perf: lazy-load components #84741
+35805. feat: add user authentication #35805

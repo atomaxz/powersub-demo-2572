@@ -1089,3 +1089,4 @@
 68395. feat: create admin dashboard #68395
 46278. perf: reduce image load time #46278
 59038. fix: prevent crash on empty input #59038
+66739. refactor: remove redundant code blocks #66739

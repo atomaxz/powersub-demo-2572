@@ -3105,3 +3105,4 @@
 91680. test: increase coverage on auth module #91680
 27138. docs: write FAQ section #27138
 10158. docs: write FAQ section #10158
+16245. perf: cache repeated calculations #16245

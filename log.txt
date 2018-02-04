@@ -1088,3 +1088,4 @@
 37722. docs: write FAQ section #37722
 68395. feat: create admin dashboard #68395
 46278. perf: reduce image load time #46278
+59038. fix: prevent crash on empty input #59038

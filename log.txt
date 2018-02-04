@@ -3102,3 +3102,4 @@
 27980. feat: add user authentication #27980
 0922. docs: add API usage examples #922
 55718. chore: clean up unused files #55718
+91680. test: increase coverage on auth module #91680

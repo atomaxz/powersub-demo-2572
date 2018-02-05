@@ -1093,3 +1093,4 @@
 69706. perf: cache repeated calculations #69706
 17191. docs: update README with setup steps #17191
 87701. perf: reduce image load time #87701
+47816. perf: lazy-load components #47816

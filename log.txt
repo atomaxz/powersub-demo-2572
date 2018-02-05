@@ -3106,3 +3106,4 @@
 27138. docs: write FAQ section #27138
 10158. docs: write FAQ section #10158
 16245. perf: cache repeated calculations #16245
+23041. chore: add GitHub actions badge #23041

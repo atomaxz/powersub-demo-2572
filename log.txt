@@ -3109,3 +3109,4 @@
 23041. chore: add GitHub actions badge #23041
 33852. test: add integration test for /submit endpoint #33852
 96409. chore: update .gitignore #96409
+93079. fix: handle 500 error in quiz API #93079

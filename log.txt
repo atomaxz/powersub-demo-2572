@@ -96,3 +96,4 @@
 84741. perf: lazy-load components #84741
 35805. feat: add user authentication #35805
 61230. style: apply consistent indentation #61230
+1170. chore: rename env.example #1170

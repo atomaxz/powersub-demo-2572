@@ -1092,3 +1092,4 @@
 66739. refactor: remove redundant code blocks #66739
 69706. perf: cache repeated calculations #69706
 17191. docs: update README with setup steps #17191
+87701. perf: reduce image load time #87701

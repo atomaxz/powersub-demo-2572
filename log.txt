@@ -2099,3 +2099,4 @@
 5821. fix: fix null pointer exception on login #5821
 81214. refactor: clean up auth middleware #81214
 71928. docs: update README with setup steps #71928
+24382. style: standardize quote style #24382

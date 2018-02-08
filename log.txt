@@ -1100,3 +1100,4 @@
 75638. chore: add GitHub actions badge #75638
 69950. style: remove trailing whitespace #69950
 0149. perf: lazy-load components #149
+86920. docs: clarify environment setup #86920

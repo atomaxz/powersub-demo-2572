@@ -3115,3 +3115,4 @@
 92531. perf: reduce image load time #92531
 6208. perf: reduce image load time #6208
 24255. refactor: organize models into subfolders #24255
+57932. docs: update README with setup steps #57932

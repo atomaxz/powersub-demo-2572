@@ -1102,3 +1102,4 @@
 0149. perf: lazy-load components #149
 86920. docs: clarify environment setup #86920
 93189. feat: add export to CSV option #93189
+3431. style: apply consistent indentation #3431

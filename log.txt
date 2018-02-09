@@ -2105,3 +2105,4 @@
 8789. docs: add API usage examples #8789
 68207. style: remove trailing whitespace #68207
 1334. chore: add GitHub actions badge #1334
+38587. perf: reduce image load time #38587

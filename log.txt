@@ -102,3 +102,4 @@
 27605. chore: rename env.example #27605
 42618. refactor: remove redundant code blocks #42618
 38725. refactor: remove redundant code blocks #38725
+40020. style: reformat files with black #40020

@@ -2112,3 +2112,4 @@
 3324. fix: fix broken CSS in mobile view #3324
 46571. test: increase coverage on auth module #46571
 15420. test: test user registration edge cases #15420
+8165. test: add integration test for /submit endpoint #8165

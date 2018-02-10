@@ -1107,3 +1107,4 @@
 84192. test: test user registration edge cases #84192
 58917. docs: add API usage examples #58917
 87743. style: remove trailing whitespace #87743
+15304. feat: enable dark mode toggle #15304

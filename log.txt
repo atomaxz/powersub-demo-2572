@@ -2110,3 +2110,4 @@
 56921. chore: add GitHub actions badge #56921
 59553. fix: correct typo in registration form #59553
 3324. fix: fix broken CSS in mobile view #3324
+46571. test: increase coverage on auth module #46571

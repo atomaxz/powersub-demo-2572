@@ -1104,3 +1104,4 @@
 93189. feat: add export to CSV option #93189
 3431. style: apply consistent indentation #3431
 31418. test: mock database connection in test suite #31418
+84192. test: test user registration edge cases #84192

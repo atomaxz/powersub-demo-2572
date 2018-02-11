@@ -104,3 +104,4 @@
 38725. refactor: remove redundant code blocks #38725
 40020. style: reformat files with black #40020
 72764. refactor: refactor quiz grading logic #72764
+70525. perf: lazy-load components #70525

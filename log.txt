@@ -108,3 +108,4 @@
 36132. fix: fix broken CSS in mobile view #36132
 57863. perf: reduce image load time #57863
 19748. feat: implement quiz timer feature #19748
+56890. perf: optimize database query for quiz results #56890

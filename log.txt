@@ -2117,3 +2117,4 @@
 72457. docs: update README with setup steps #72457
 77545. refactor: refactor quiz grading logic #77545
 90301. test: mock database connection in test suite #90301
+72038. feat: add user authentication #72038

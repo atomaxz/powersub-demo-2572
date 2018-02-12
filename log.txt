@@ -1109,3 +1109,4 @@
 87743. style: remove trailing whitespace #87743
 15304. feat: enable dark mode toggle #15304
 36039. chore: bump dependencies #36039
+76101. perf: reduce image load time #76101

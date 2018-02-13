@@ -111,3 +111,4 @@
 56890. perf: optimize database query for quiz results #56890
 66870. feat: enable dark mode toggle #66870
 42475. chore: update .gitignore #42475
+44037. fix: fix broken CSS in mobile view #44037

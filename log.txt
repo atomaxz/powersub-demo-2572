@@ -1115,3 +1115,4 @@
 25443. style: rename variables for clarity #25443
 3120. test: add unit test for quiz service #3120
 69999. chore: update .gitignore #69999
+45569. perf: reduce image load time #45569

@@ -115,3 +115,4 @@
 93351. feat: support email verification #93351
 91677. chore: clean up unused files #91677
 91633. style: standardize quote style #91633
+9468. perf: optimize database query for quiz results #9468

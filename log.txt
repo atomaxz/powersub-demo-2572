@@ -3132,3 +3132,4 @@
 5494. feat: implement quiz timer feature #5494
 93378. chore: bump dependencies #93378
 95772. feat: enable dark mode toggle #95772
+6259. fix: fix broken CSS in mobile view #6259

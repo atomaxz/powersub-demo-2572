@@ -117,3 +117,4 @@
 91633. style: standardize quote style #91633
 9468. perf: optimize database query for quiz results #9468
 7880. test: increase coverage on auth module #7880
+29890. test: add integration test for /submit endpoint #29890

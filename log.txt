@@ -1119,3 +1119,4 @@
 40526. refactor: organize models into subfolders #40526
 8803. feat: implement quiz timer feature #8803
 7104. fix: fix broken CSS in mobile view #7104
+60947. perf: lazy-load components #60947

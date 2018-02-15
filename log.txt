@@ -3131,3 +3131,4 @@
 14838. docs: write FAQ section #14838
 5494. feat: implement quiz timer feature #5494
 93378. chore: bump dependencies #93378
+95772. feat: enable dark mode toggle #95772

@@ -3138,3 +3138,4 @@
 73743. style: standardize quote style #73743
 81009. perf: optimize database query for quiz results #81009
 29291. refactor: refactor quiz grading logic #29291
+36040. test: increase coverage on auth module #36040

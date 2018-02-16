@@ -122,3 +122,4 @@
 82420. feat: enable dark mode toggle #82420
 83125. chore: add GitHub actions badge #83125
 3813. docs: write FAQ section #3813
+14273. feat: create admin dashboard #14273

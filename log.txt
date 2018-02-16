@@ -121,3 +121,4 @@
 46907. docs: add API usage examples #46907
 82420. feat: enable dark mode toggle #82420
 83125. chore: add GitHub actions badge #83125
+3813. docs: write FAQ section #3813

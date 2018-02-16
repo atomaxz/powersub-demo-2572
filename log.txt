@@ -119,3 +119,4 @@
 7880. test: increase coverage on auth module #7880
 29890. test: add integration test for /submit endpoint #29890
 46907. docs: add API usage examples #46907
+82420. feat: enable dark mode toggle #82420

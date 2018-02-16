@@ -3136,3 +3136,4 @@
 32447. refactor: refactor quiz grading logic #32447
 9401. perf: reduce image load time #9401
 73743. style: standardize quote style #73743
+81009. perf: optimize database query for quiz results #81009

@@ -1121,3 +1121,4 @@
 7104. fix: fix broken CSS in mobile view #7104
 60947. perf: lazy-load components #60947
 5420. style: rename variables for clarity #5420
+47762. docs: document token refresh logic #47762

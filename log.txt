@@ -2131,3 +2131,4 @@
 48898. refactor: refactor quiz grading logic #48898
 28688. refactor: split large controller into smaller functions #28688
 61316. fix: resolve issue with date parsing #61316
+32611. fix: fix null pointer exception on login #32611

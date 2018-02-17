@@ -2135,3 +2135,4 @@
 13465. fix: correct typo in registration form #13465
 23287. docs: write FAQ section #23287
 94093. style: apply consistent indentation #94093
+91779. test: test user registration edge cases #91779

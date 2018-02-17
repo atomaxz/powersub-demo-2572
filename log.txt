@@ -2133,3 +2133,4 @@
 61316. fix: resolve issue with date parsing #61316
 32611. fix: fix null pointer exception on login #32611
 13465. fix: correct typo in registration form #13465
+23287. docs: write FAQ section #23287

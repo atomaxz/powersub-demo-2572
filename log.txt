@@ -123,3 +123,4 @@
 83125. chore: add GitHub actions badge #83125
 3813. docs: write FAQ section #3813
 14273. feat: create admin dashboard #14273
+14171. chore: add GitHub actions badge #14171

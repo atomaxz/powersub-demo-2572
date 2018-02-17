@@ -2134,3 +2134,4 @@
 32611. fix: fix null pointer exception on login #32611
 13465. fix: correct typo in registration form #13465
 23287. docs: write FAQ section #23287
+94093. style: apply consistent indentation #94093

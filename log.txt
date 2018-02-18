@@ -125,3 +125,4 @@
 14273. feat: create admin dashboard #14273
 14171. chore: add GitHub actions badge #14171
 23155. chore: bump dependencies #23155
+26634. refactor: remove redundant code blocks #26634

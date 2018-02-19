@@ -130,3 +130,4 @@
 30178. chore: update .gitignore #30178
 71401. docs: write FAQ section #71401
 90227. perf: cache repeated calculations #90227
+31295. refactor: organize models into subfolders #31295

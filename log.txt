@@ -131,3 +131,4 @@
 71401. docs: write FAQ section #71401
 90227. perf: cache repeated calculations #90227
 31295. refactor: organize models into subfolders #31295
+83197. feat: enable dark mode toggle #83197

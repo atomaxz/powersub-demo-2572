@@ -3153,3 +3153,4 @@
 76916. feat: create admin dashboard #76916
 43254. style: remove trailing whitespace #43254
 58730. test: increase coverage on auth module #58730
+16721. fix: prevent crash on empty input #16721

@@ -2141,3 +2141,4 @@
 27880. chore: bump dependencies #27880
 73757. style: reformat files with black #73757
 19514. perf: reduce image load time #19514
+69075. fix: prevent crash on empty input #69075

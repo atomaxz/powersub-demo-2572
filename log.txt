@@ -2146,3 +2146,4 @@
 61318. fix: prevent crash on empty input #61318
 22193. docs: add API usage examples #22193
 15923. style: apply consistent indentation #15923
+56874. style: remove trailing whitespace #56874

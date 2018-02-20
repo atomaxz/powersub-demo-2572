@@ -134,3 +134,4 @@
 83197. feat: enable dark mode toggle #83197
 83866. refactor: clean up auth middleware #83866
 92352. feat: support email verification #92352
+7372. chore: add GitHub actions badge #7372

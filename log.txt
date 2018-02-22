@@ -136,3 +136,4 @@
 92352. feat: support email verification #92352
 7372. chore: add GitHub actions badge #7372
 60990. test: add unit test for quiz service #60990
+56274. docs: update README with setup steps #56274

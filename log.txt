@@ -1134,3 +1134,4 @@
 36086. style: apply consistent indentation #36086
 77311. fix: correct typo in registration form #77311
 48339. fix: resolve issue with date parsing #48339
+20836. feat: support email verification #20836

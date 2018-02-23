@@ -1136,3 +1136,4 @@
 48339. fix: resolve issue with date parsing #48339
 20836. feat: support email verification #20836
 80050. perf: lazy-load components #80050
+45740. style: remove trailing whitespace #45740

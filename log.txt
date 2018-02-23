@@ -139,3 +139,4 @@
 56274. docs: update README with setup steps #56274
 94268. refactor: remove redundant code blocks #94268
 33068. chore: add GitHub actions badge #33068
+39769. test: increase coverage on auth module #39769

@@ -3162,3 +3162,4 @@
 65540. feat: add export to CSV option #65540
 10119. docs: improve code comments in utils #10119
 77090. perf: optimize database query for quiz results #77090
+0168. fix: prevent crash on empty input #168

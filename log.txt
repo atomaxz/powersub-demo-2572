@@ -2149,3 +2149,4 @@
 56874. style: remove trailing whitespace #56874
 52327. test: increase coverage on auth module #52327
 75055. feat: create admin dashboard #75055
+75211. feat: support email verification #75211

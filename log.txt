@@ -2150,3 +2150,4 @@
 52327. test: increase coverage on auth module #52327
 75055. feat: create admin dashboard #75055
 75211. feat: support email verification #75211
+94726. perf: lazy-load components #94726

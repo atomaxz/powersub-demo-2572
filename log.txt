@@ -1144,3 +1144,4 @@
 18360. perf: optimize database query for quiz results #18360
 74339. feat: create admin dashboard #74339
 62469. test: add unit test for quiz service #62469
+10109. fix: prevent crash on empty input #10109

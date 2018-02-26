@@ -146,3 +146,4 @@
 4445. perf: cache repeated calculations #4445
 91799. docs: document token refresh logic #91799
 43028. test: test user registration edge cases #43028
+81966. style: reformat files with black #81966

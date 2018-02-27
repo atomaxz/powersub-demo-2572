@@ -148,3 +148,4 @@
 43028. test: test user registration edge cases #43028
 81966. style: reformat files with black #81966
 10120. docs: clarify environment setup #10120
+40552. chore: update .gitignore #40552

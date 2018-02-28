@@ -150,3 +150,4 @@
 10120. docs: clarify environment setup #10120
 40552. chore: update .gitignore #40552
 39907. feat: add export to CSV option #39907
+43069. fix: fix broken CSS in mobile view #43069

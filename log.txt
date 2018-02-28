@@ -152,3 +152,4 @@
 39907. feat: add export to CSV option #39907
 43069. fix: fix broken CSS in mobile view #43069
 60125. perf: optimize database query for quiz results #60125
+75246. test: increase coverage on auth module #75246

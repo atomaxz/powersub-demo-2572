@@ -151,3 +151,4 @@
 40552. chore: update .gitignore #40552
 39907. feat: add export to CSV option #39907
 43069. fix: fix broken CSS in mobile view #43069
+60125. perf: optimize database query for quiz results #60125

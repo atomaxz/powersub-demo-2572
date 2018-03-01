@@ -2159,3 +2159,4 @@
 13672. style: standardize quote style #13672
 32173. docs: document token refresh logic #32173
 34052. refactor: split large controller into smaller functions #34052
+96291. perf: lazy-load components #96291

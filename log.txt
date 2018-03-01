@@ -3172,3 +3172,4 @@
 20165. style: standardize quote style #20165
 15586. test: test user registration edge cases #15586
 53948. test: mock database connection in test suite #53948
+47449. fix: prevent crash on empty input #47449

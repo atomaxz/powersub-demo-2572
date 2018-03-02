@@ -3175,3 +3175,4 @@
 47449. fix: prevent crash on empty input #47449
 75718. test: add integration test for /submit endpoint #75718
 76120. fix: resolve issue with date parsing #76120
+51232. fix: handle 500 error in quiz API #51232

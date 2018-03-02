@@ -1152,3 +1152,4 @@
 74845. style: apply consistent indentation #74845
 35318. docs: add API usage examples #35318
 66112. perf: reduce image load time #66112
+30527. test: add integration test for /submit endpoint #30527

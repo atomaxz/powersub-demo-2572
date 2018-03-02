@@ -156,3 +156,4 @@
 90443. feat: add user authentication #90443
 10096. test: add unit test for quiz service #10096
 45494. feat: create admin dashboard #45494
+26104. feat: support email verification #26104

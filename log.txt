@@ -1157,3 +1157,4 @@
 4189. perf: reduce image load time #4189
 35327. test: add unit test for quiz service #35327
 28577. fix: fix broken CSS in mobile view #28577
+59169. feat: support email verification #59169

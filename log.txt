@@ -158,3 +158,4 @@
 45494. feat: create admin dashboard #45494
 26104. feat: support email verification #26104
 86561. chore: rename env.example #86561
+31374. feat: support email verification #31374

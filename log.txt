@@ -3180,3 +3180,4 @@
 97136. docs: clarify environment setup #97136
 48479. feat: enable dark mode toggle #48479
 76698. test: test user registration edge cases #76698
+74571. perf: optimize database query for quiz results #74571

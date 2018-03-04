@@ -1159,3 +1159,4 @@
 28577. fix: fix broken CSS in mobile view #28577
 59169. feat: support email verification #59169
 59880. test: increase coverage on auth module #59880
+22871. refactor: clean up auth middleware #22871

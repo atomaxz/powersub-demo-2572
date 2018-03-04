@@ -160,3 +160,4 @@
 86561. chore: rename env.example #86561
 31374. feat: support email verification #31374
 92719. chore: update .gitignore #92719
+14647. docs: document token refresh logic #14647

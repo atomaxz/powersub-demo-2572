@@ -1161,3 +1161,4 @@
 59880. test: increase coverage on auth module #59880
 22871. refactor: clean up auth middleware #22871
 46097. feat: support email verification #46097
+78274. fix: fix null pointer exception on login #78274

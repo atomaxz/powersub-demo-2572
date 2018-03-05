@@ -3187,3 +3187,4 @@
 3174. style: standardize quote style #3174
 79446. chore: bump dependencies #79446
 65945. fix: fix null pointer exception on login #65945
+15696. test: test user registration edge cases #15696

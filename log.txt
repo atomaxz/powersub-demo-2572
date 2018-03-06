@@ -168,3 +168,4 @@
 53327. chore: rename env.example #53327
 43972. test: add unit test for quiz service #43972
 14146. docs: document token refresh logic #14146
+82071. style: remove trailing whitespace #82071

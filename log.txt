@@ -3191,3 +3191,4 @@
 96738. fix: fix broken CSS in mobile view #96738
 99104. refactor: refactor quiz grading logic #99104
 15871. style: apply consistent indentation #15871
+43341. test: add unit test for quiz service #43341

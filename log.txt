@@ -171,3 +171,4 @@
 82071. style: remove trailing whitespace #82071
 9195. docs: improve code comments in utils #9195
 22402. refactor: refactor quiz grading logic #22402
+17199. fix: correct typo in registration form #17199

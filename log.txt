@@ -3193,3 +3193,4 @@
 15871. style: apply consistent indentation #15871
 43341. test: add unit test for quiz service #43341
 99217. perf: lazy-load components #99217
+46234. perf: optimize database query for quiz results #46234

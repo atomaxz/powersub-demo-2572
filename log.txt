@@ -1169,3 +1169,4 @@
 37270. style: apply consistent indentation #37270
 69649. style: rename variables for clarity #69649
 8850. perf: optimize database query for quiz results #8850
+2945. test: add integration test for /submit endpoint #2945

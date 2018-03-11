@@ -1172,3 +1172,4 @@
 2945. test: add integration test for /submit endpoint #2945
 63381. perf: optimize database query for quiz results #63381
 32131. docs: write FAQ section #32131
+61989. chore: clean up unused files #61989

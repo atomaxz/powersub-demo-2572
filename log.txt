@@ -2184,3 +2184,4 @@
 10472. refactor: refactor quiz grading logic #10472
 43073. chore: rename env.example #43073
 53982. perf: optimize database query for quiz results #53982
+63262. chore: update .gitignore #63262

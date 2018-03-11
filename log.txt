@@ -3201,3 +3201,4 @@
 78026. fix: prevent crash on empty input #78026
 37416. refactor: refactor quiz grading logic #37416
 50832. feat: add user authentication #50832
+97120. perf: optimize database query for quiz results #97120

@@ -181,3 +181,4 @@
 39937. feat: support email verification #39937
 89971. fix: fix broken CSS in mobile view #89971
 19183. refactor: organize models into subfolders #19183
+58153. chore: bump dependencies #58153

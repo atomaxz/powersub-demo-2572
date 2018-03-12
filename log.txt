@@ -1175,3 +1175,4 @@
 61989. chore: clean up unused files #61989
 87499. refactor: clean up auth middleware #87499
 46659. feat: support email verification #46659
+95912. fix: prevent crash on empty input #95912

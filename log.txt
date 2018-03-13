@@ -3206,3 +3206,4 @@
 25410. chore: add GitHub actions badge #25410
 85856. chore: rename env.example #85856
 76828. fix: handle 500 error in quiz API #76828
+1276. fix: correct typo in registration form #1276

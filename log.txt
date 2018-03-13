@@ -3210,3 +3210,4 @@
 84265. docs: add API usage examples #84265
 37456. test: increase coverage on auth module #37456
 95037. fix: correct typo in registration form #95037
+41392. test: mock database connection in test suite #41392

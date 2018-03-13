@@ -3209,3 +3209,4 @@
 1276. fix: correct typo in registration form #1276
 84265. docs: add API usage examples #84265
 37456. test: increase coverage on auth module #37456
+95037. fix: correct typo in registration form #95037

@@ -1178,3 +1178,4 @@
 95912. fix: prevent crash on empty input #95912
 76476. refactor: refactor quiz grading logic #76476
 15919. docs: write FAQ section #15919
+50830. feat: add export to CSV option #50830

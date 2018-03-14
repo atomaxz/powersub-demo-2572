@@ -2193,3 +2193,4 @@
 67894. fix: resolve issue with date parsing #67894
 36670. refactor: organize models into subfolders #36670
 1097. test: add integration test for /submit endpoint #1097
+82956. test: test user registration edge cases #82956

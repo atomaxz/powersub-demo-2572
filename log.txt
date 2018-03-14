@@ -2194,3 +2194,4 @@
 36670. refactor: organize models into subfolders #36670
 1097. test: add integration test for /submit endpoint #1097
 82956. test: test user registration edge cases #82956
+67621. fix: prevent crash on empty input #67621

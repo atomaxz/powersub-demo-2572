@@ -1182,3 +1182,4 @@
 67898. chore: add GitHub actions badge #67898
 20125. fix: fix null pointer exception on login #20125
 48633. docs: write FAQ section #48633
+10695. fix: fix broken CSS in mobile view #10695

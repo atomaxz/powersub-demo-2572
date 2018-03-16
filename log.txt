@@ -192,3 +192,4 @@
 34264. chore: add GitHub actions badge #34264
 71251. perf: cache repeated calculations #71251
 69553. perf: cache repeated calculations #69553
+39412. refactor: clean up auth middleware #39412

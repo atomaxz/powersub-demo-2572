@@ -194,3 +194,4 @@
 69553. perf: cache repeated calculations #69553
 39412. refactor: clean up auth middleware #39412
 53893. test: increase coverage on auth module #53893
+40161. fix: correct typo in registration form #40161

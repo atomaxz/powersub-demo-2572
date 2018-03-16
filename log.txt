@@ -2198,3 +2198,4 @@
 23057. feat: enable dark mode toggle #23057
 36604. style: reformat files with black #36604
 52147. feat: create admin dashboard #52147
+69728. feat: create admin dashboard #69728

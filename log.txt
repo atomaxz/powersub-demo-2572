@@ -1186,3 +1186,4 @@
 65423. chore: clean up unused files #65423
 88028. fix: fix null pointer exception on login #88028
 89827. docs: document token refresh logic #89827
+1739. fix: correct typo in registration form #1739

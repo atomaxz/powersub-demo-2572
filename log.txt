@@ -198,3 +198,4 @@
 88551. refactor: refactor quiz grading logic #88551
 51963. style: remove trailing whitespace #51963
 22889. docs: add API usage examples #22889
+50612. docs: write FAQ section #50612

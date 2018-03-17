@@ -2203,3 +2203,4 @@
 81954. style: rename variables for clarity #81954
 35322. fix: correct typo in registration form #35322
 25890. docs: update README with setup steps #25890
+27719. test: add unit test for quiz service #27719

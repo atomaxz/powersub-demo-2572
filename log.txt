@@ -1185,3 +1185,4 @@
 10695. fix: fix broken CSS in mobile view #10695
 65423. chore: clean up unused files #65423
 88028. fix: fix null pointer exception on login #88028
+89827. docs: document token refresh logic #89827

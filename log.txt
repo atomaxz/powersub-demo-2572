@@ -1195,3 +1195,4 @@
 45238. perf: lazy-load components #45238
 24132. refactor: remove redundant code blocks #24132
 88972. feat: create admin dashboard #88972
+5765. fix: fix broken CSS in mobile view #5765

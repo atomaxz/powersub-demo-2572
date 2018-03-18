@@ -2204,3 +2204,4 @@
 35322. fix: correct typo in registration form #35322
 25890. docs: update README with setup steps #25890
 27719. test: add unit test for quiz service #27719
+59339. docs: clarify environment setup #59339

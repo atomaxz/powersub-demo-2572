@@ -201,3 +201,4 @@
 50612. docs: write FAQ section #50612
 93945. fix: correct typo in registration form #93945
 10275. test: add unit test for quiz service #10275
+7832. test: mock database connection in test suite #7832

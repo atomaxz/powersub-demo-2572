@@ -1192,3 +1192,4 @@
 91283. test: increase coverage on auth module #91283
 79438. test: test user registration edge cases #79438
 84373. refactor: refactor quiz grading logic #84373
+45238. perf: lazy-load components #45238

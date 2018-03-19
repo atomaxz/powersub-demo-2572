@@ -3228,3 +3228,4 @@
 39123. test: increase coverage on auth module #39123
 85038. style: rename variables for clarity #85038
 18575. chore: bump dependencies #18575
+32715. test: test user registration edge cases #32715

@@ -2210,3 +2210,4 @@
 32510. chore: clean up unused files #32510
 67722. fix: correct typo in registration form #67722
 2616. perf: lazy-load components #2616
+95275. feat: add user authentication #95275

@@ -207,3 +207,4 @@
 86852. perf: cache repeated calculations #86852
 80861. feat: implement quiz timer feature #80861
 62153. feat: add user authentication #62153
+9297. chore: clean up unused files #9297

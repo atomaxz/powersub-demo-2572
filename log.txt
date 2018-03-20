@@ -210,3 +210,4 @@
 9297. chore: clean up unused files #9297
 93120. perf: lazy-load components #93120
 53271. fix: correct typo in registration form #53271
+21444. chore: update .gitignore #21444

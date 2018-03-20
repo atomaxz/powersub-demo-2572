@@ -206,3 +206,4 @@
 4159. docs: document token refresh logic #4159
 86852. perf: cache repeated calculations #86852
 80861. feat: implement quiz timer feature #80861
+62153. feat: add user authentication #62153

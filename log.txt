@@ -2216,3 +2216,4 @@
 68101. refactor: refactor quiz grading logic #68101
 30946. feat: add user authentication #30946
 50196. perf: cache repeated calculations #50196
+77576. feat: enable dark mode toggle #77576

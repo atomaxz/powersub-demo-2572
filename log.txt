@@ -2214,3 +2214,4 @@
 90702. docs: clarify environment setup #90702
 86056. chore: bump dependencies #86056
 68101. refactor: refactor quiz grading logic #68101
+30946. feat: add user authentication #30946

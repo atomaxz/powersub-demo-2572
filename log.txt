@@ -211,3 +211,4 @@
 93120. perf: lazy-load components #93120
 53271. fix: correct typo in registration form #53271
 21444. chore: update .gitignore #21444
+87080. chore: bump dependencies #87080

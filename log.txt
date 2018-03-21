@@ -1198,3 +1198,4 @@
 5765. fix: fix broken CSS in mobile view #5765
 68521. feat: create admin dashboard #68521
 16417. refactor: clean up auth middleware #16417
+87397. style: reformat files with black #87397

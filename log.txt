@@ -2217,3 +2217,4 @@
 30946. feat: add user authentication #30946
 50196. perf: cache repeated calculations #50196
 77576. feat: enable dark mode toggle #77576
+15747. feat: support email verification #15747

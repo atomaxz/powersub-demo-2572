@@ -1202,3 +1202,4 @@
 34164. docs: document token refresh logic #34164
 58247. refactor: refactor quiz grading logic #58247
 71002. feat: create admin dashboard #71002
+3801. fix: fix null pointer exception on login #3801

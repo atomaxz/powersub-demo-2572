@@ -3237,3 +3237,4 @@
 5704. test: add unit test for quiz service #5704
 9981. docs: document token refresh logic #9981
 59498. chore: add GitHub actions badge #59498
+21115. docs: document token refresh logic #21115

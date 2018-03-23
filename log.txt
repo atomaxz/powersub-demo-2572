@@ -3238,3 +3238,4 @@
 9981. docs: document token refresh logic #9981
 59498. chore: add GitHub actions badge #59498
 21115. docs: document token refresh logic #21115
+90809. feat: support email verification #90809

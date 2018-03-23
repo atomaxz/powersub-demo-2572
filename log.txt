@@ -1205,3 +1205,4 @@
 3801. fix: fix null pointer exception on login #3801
 42797. style: standardize quote style #42797
 2406. feat: add user authentication #2406
+84816. refactor: organize models into subfolders #84816

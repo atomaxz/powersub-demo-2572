@@ -1204,3 +1204,4 @@
 71002. feat: create admin dashboard #71002
 3801. fix: fix null pointer exception on login #3801
 42797. style: standardize quote style #42797
+2406. feat: add user authentication #2406

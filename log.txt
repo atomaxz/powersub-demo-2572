@@ -1206,3 +1206,4 @@
 42797. style: standardize quote style #42797
 2406. feat: add user authentication #2406
 84816. refactor: organize models into subfolders #84816
+68986. perf: optimize database query for quiz results #68986

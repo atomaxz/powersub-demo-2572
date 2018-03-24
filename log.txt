@@ -216,3 +216,4 @@
 62833. docs: write FAQ section #62833
 37519. perf: lazy-load components #37519
 75007. perf: lazy-load components #75007
+15026. test: increase coverage on auth module #15026

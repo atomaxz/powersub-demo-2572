@@ -2226,3 +2226,4 @@
 33113. style: reformat files with black #33113
 77807. style: apply consistent indentation #77807
 29319. perf: cache repeated calculations #29319
+92328. docs: document token refresh logic #92328

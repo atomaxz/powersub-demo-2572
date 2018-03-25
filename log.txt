@@ -1211,3 +1211,4 @@
 55494. refactor: clean up auth middleware #55494
 36113. fix: resolve issue with date parsing #36113
 79211. perf: optimize database query for quiz results #79211
+92833. test: add integration test for /submit endpoint #92833

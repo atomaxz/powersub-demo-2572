@@ -2231,3 +2231,4 @@
 44929. test: increase coverage on auth module #44929
 76165. feat: create admin dashboard #76165
 2814. perf: cache repeated calculations #2814
+38126. style: apply consistent indentation #38126

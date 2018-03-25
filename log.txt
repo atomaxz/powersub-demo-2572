@@ -218,3 +218,4 @@
 75007. perf: lazy-load components #75007
 15026. test: increase coverage on auth module #15026
 27908. test: add unit test for quiz service #27908
+7073. fix: fix null pointer exception on login #7073

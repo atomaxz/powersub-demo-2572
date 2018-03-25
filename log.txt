@@ -1208,3 +1208,4 @@
 84816. refactor: organize models into subfolders #84816
 68986. perf: optimize database query for quiz results #68986
 12141. test: add integration test for /submit endpoint #12141
+55494. refactor: clean up auth middleware #55494

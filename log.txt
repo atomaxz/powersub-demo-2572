@@ -2233,3 +2233,4 @@
 2814. perf: cache repeated calculations #2814
 38126. style: apply consistent indentation #38126
 65621. chore: bump dependencies #65621
+26727. docs: update README with setup steps #26727

@@ -1213,3 +1213,4 @@
 79211. perf: optimize database query for quiz results #79211
 92833. test: add integration test for /submit endpoint #92833
 99486. feat: create admin dashboard #99486
+30901. chore: add GitHub actions badge #30901

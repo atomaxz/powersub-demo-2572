@@ -221,3 +221,4 @@
 7073. fix: fix null pointer exception on login #7073
 93011. fix: prevent crash on empty input #93011
 83665. test: add integration test for /submit endpoint #83665
+24996. fix: correct typo in registration form #24996

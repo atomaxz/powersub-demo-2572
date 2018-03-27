@@ -1215,3 +1215,4 @@
 99486. feat: create admin dashboard #99486
 30901. chore: add GitHub actions badge #30901
 45963. perf: reduce image load time #45963
+57240. refactor: organize models into subfolders #57240

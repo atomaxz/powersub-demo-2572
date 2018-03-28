@@ -2240,3 +2240,4 @@
 5008. docs: update README with setup steps #5008
 9984. refactor: organize models into subfolders #9984
 42199. docs: clarify environment setup #42199
+95473. perf: reduce image load time #95473

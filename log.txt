@@ -2239,3 +2239,4 @@
 20622. feat: enable dark mode toggle #20622
 5008. docs: update README with setup steps #5008
 9984. refactor: organize models into subfolders #9984
+42199. docs: clarify environment setup #42199

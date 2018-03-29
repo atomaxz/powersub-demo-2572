@@ -1223,3 +1223,4 @@
 61768. test: add unit test for quiz service #61768
 34594. chore: rename env.example #34594
 68367. refactor: refactor quiz grading logic #68367
+49564. fix: handle 500 error in quiz API #49564

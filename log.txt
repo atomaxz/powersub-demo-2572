@@ -1227,3 +1227,4 @@
 82772. docs: write FAQ section #82772
 40043. feat: support email verification #40043
 52181. docs: update README with setup steps #52181
+1168. perf: reduce image load time #1168

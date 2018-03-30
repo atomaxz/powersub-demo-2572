@@ -1226,3 +1226,4 @@
 49564. fix: handle 500 error in quiz API #49564
 82772. docs: write FAQ section #82772
 40043. feat: support email verification #40043
+52181. docs: update README with setup steps #52181

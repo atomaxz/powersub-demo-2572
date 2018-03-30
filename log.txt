@@ -3254,3 +3254,4 @@
 9862. style: remove trailing whitespace #9862
 32742. fix: prevent crash on empty input #32742
 18012. feat: create admin dashboard #18012
+45049. test: add integration test for /submit endpoint #45049

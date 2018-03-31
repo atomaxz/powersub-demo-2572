@@ -1228,3 +1228,4 @@
 40043. feat: support email verification #40043
 52181. docs: update README with setup steps #52181
 1168. perf: reduce image load time #1168
+26729. chore: add GitHub actions badge #26729

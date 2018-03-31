@@ -3258,3 +3258,4 @@
 63906. perf: optimize database query for quiz results #63906
 61887. refactor: remove redundant code blocks #61887
 93155. feat: create admin dashboard #93155
+69581. fix: prevent crash on empty input #69581

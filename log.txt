@@ -3262,3 +3262,4 @@
 12254. style: reformat files with black #12254
 73461. chore: rename env.example #73461
 78464. chore: rename env.example #78464
+54961. perf: lazy-load components #54961

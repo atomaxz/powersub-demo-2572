@@ -1229,3 +1229,4 @@
 52181. docs: update README with setup steps #52181
 1168. perf: reduce image load time #1168
 26729. chore: add GitHub actions badge #26729
+25754. perf: lazy-load components #25754

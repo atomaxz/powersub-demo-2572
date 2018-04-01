@@ -2247,3 +2247,4 @@
 3489. feat: support email verification #3489
 99911. style: standardize quote style #99911
 7345. docs: clarify environment setup #7345
+61263. refactor: organize models into subfolders #61263

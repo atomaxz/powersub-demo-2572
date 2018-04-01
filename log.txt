@@ -2249,3 +2249,4 @@
 7345. docs: clarify environment setup #7345
 61263. refactor: organize models into subfolders #61263
 53604. feat: create admin dashboard #53604
+10420. perf: reduce image load time #10420

@@ -1237,3 +1237,4 @@
 56847. feat: create admin dashboard #56847
 11047. style: reformat files with black #11047
 65761. fix: correct typo in registration form #65761
+41066. feat: add user authentication #41066

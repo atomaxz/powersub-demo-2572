@@ -1239,3 +1239,4 @@
 65761. fix: correct typo in registration form #65761
 41066. feat: add user authentication #41066
 37569. test: add unit test for quiz service #37569
+13210. refactor: split large controller into smaller functions #13210

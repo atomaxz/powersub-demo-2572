@@ -3268,3 +3268,4 @@
 79471. docs: add API usage examples #79471
 45699. fix: correct typo in registration form #45699
 60895. chore: update .gitignore #60895
+99274. style: remove trailing whitespace #99274

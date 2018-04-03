@@ -239,3 +239,4 @@
 30513. refactor: refactor quiz grading logic #30513
 86519. style: remove trailing whitespace #86519
 28340. perf: cache repeated calculations #28340
+40531. fix: correct typo in registration form #40531

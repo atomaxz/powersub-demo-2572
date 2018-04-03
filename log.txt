@@ -237,3 +237,4 @@
 9094. perf: cache repeated calculations #9094
 24895. refactor: organize models into subfolders #24895
 30513. refactor: refactor quiz grading logic #30513
+86519. style: remove trailing whitespace #86519

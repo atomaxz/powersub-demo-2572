@@ -2255,3 +2255,4 @@
 24850. docs: update README with setup steps #24850
 95970. docs: improve code comments in utils #95970
 36460. docs: update README with setup steps #36460
+28198. perf: cache repeated calculations #28198

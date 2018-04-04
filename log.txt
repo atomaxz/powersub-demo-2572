@@ -3275,3 +3275,4 @@
 50292. feat: create admin dashboard #50292
 63104. refactor: organize models into subfolders #63104
 47524. style: remove trailing whitespace #47524
+69392. perf: lazy-load components #69392

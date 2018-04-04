@@ -241,3 +241,4 @@
 28340. perf: cache repeated calculations #28340
 40531. fix: correct typo in registration form #40531
 52819. chore: clean up unused files #52819
+3325. feat: support email verification #3325

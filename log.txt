@@ -1243,3 +1243,4 @@
 59797. chore: bump dependencies #59797
 10942. docs: add API usage examples #10942
 13646. style: reformat files with black #13646
+28570. perf: lazy-load components #28570

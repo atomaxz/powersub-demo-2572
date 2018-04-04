@@ -3274,3 +3274,4 @@
 13947. feat: support email verification #13947
 50292. feat: create admin dashboard #50292
 63104. refactor: organize models into subfolders #63104
+47524. style: remove trailing whitespace #47524

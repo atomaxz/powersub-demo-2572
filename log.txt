@@ -1252,3 +1252,4 @@
 91643. fix: resolve issue with date parsing #91643
 21040. refactor: remove redundant code blocks #21040
 91371. docs: write FAQ section #91371
+8690. refactor: refactor quiz grading logic #8690

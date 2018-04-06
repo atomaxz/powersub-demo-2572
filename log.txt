@@ -2263,3 +2263,4 @@
 21717. perf: reduce image load time #21717
 92407. fix: handle 500 error in quiz API #92407
 67603. feat: create admin dashboard #67603
+24819. perf: reduce image load time #24819

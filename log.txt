@@ -244,3 +244,4 @@
 3325. feat: support email verification #3325
 18192. chore: rename env.example #18192
 84374. feat: enable dark mode toggle #84374
+78582. fix: fix null pointer exception on login #78582

@@ -2265,3 +2265,4 @@
 67603. feat: create admin dashboard #67603
 24819. perf: reduce image load time #24819
 30447. fix: fix null pointer exception on login #30447
+12102. chore: add GitHub actions badge #12102

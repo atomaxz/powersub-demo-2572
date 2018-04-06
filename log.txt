@@ -243,3 +243,4 @@
 52819. chore: clean up unused files #52819
 3325. feat: support email verification #3325
 18192. chore: rename env.example #18192
+84374. feat: enable dark mode toggle #84374

@@ -2261,3 +2261,4 @@
 37631. style: rename variables for clarity #37631
 27435. feat: implement quiz timer feature #27435
 21717. perf: reduce image load time #21717
+92407. fix: handle 500 error in quiz API #92407

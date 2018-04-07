@@ -3284,3 +3284,4 @@
 74028. refactor: refactor quiz grading logic #74028
 43084. chore: clean up unused files #43084
 31979. style: rename variables for clarity #31979
+5491. fix: fix broken CSS in mobile view #5491

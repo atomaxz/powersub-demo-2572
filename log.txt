@@ -253,3 +253,4 @@
 38034. fix: prevent crash on empty input #38034
 64916. refactor: refactor quiz grading logic #64916
 28493. test: test user registration edge cases #28493
+74408. docs: document token refresh logic #74408

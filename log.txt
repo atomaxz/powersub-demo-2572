@@ -250,3 +250,4 @@
 14589. test: mock database connection in test suite #14589
 84712. feat: implement quiz timer feature #84712
 75566. perf: optimize database query for quiz results #75566
+38034. fix: prevent crash on empty input #38034

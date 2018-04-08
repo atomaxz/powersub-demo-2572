@@ -2270,3 +2270,4 @@
 48965. docs: add API usage examples #48965
 79739. refactor: clean up auth middleware #79739
 6023. test: add unit test for quiz service #6023
+66331. fix: handle 500 error in quiz API #66331

@@ -1256,3 +1256,4 @@
 7090. docs: write FAQ section #7090
 6428. refactor: refactor quiz grading logic #6428
 89559. feat: add export to CSV option #89559
+62492. fix: correct typo in registration form #62492

@@ -3288,3 +3288,4 @@
 93519. style: reformat files with black #93519
 45547. fix: fix broken CSS in mobile view #45547
 51876. feat: create admin dashboard #51876
+72710. refactor: organize models into subfolders #72710

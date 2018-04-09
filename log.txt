@@ -259,3 +259,4 @@
 23826. test: mock database connection in test suite #23826
 31318. chore: rename env.example #31318
 57464. docs: document token refresh logic #57464
+81743. fix: fix broken CSS in mobile view #81743

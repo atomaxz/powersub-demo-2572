@@ -1259,3 +1259,4 @@
 62492. fix: correct typo in registration form #62492
 95702. test: add unit test for quiz service #95702
 42812. fix: fix null pointer exception on login #42812
+65819. perf: lazy-load components #65819

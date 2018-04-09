@@ -2272,3 +2272,4 @@
 6023. test: add unit test for quiz service #6023
 66331. fix: handle 500 error in quiz API #66331
 59476. feat: create admin dashboard #59476
+24859. feat: enable dark mode toggle #24859

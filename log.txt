@@ -1260,3 +1260,4 @@
 95702. test: add unit test for quiz service #95702
 42812. fix: fix null pointer exception on login #42812
 65819. perf: lazy-load components #65819
+25234. perf: optimize database query for quiz results #25234

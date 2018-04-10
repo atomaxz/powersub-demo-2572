@@ -3291,3 +3291,4 @@
 72710. refactor: organize models into subfolders #72710
 25167. docs: improve code comments in utils #25167
 84800. feat: enable dark mode toggle #84800
+66238. perf: lazy-load components #66238

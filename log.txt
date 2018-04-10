@@ -3292,3 +3292,4 @@
 25167. docs: improve code comments in utils #25167
 84800. feat: enable dark mode toggle #84800
 66238. perf: lazy-load components #66238
+82078. docs: write FAQ section #82078

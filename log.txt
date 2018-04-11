@@ -261,3 +261,4 @@
 57464. docs: document token refresh logic #57464
 81743. fix: fix broken CSS in mobile view #81743
 50962. refactor: clean up auth middleware #50962
+10013. chore: bump dependencies #10013

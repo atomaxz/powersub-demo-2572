@@ -2277,3 +2277,4 @@
 94936. refactor: refactor quiz grading logic #94936
 44793. fix: resolve issue with date parsing #44793
 27986. chore: bump dependencies #27986
+30877. chore: add GitHub actions badge #30877

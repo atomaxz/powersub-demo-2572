@@ -2280,3 +2280,4 @@
 30877. chore: add GitHub actions badge #30877
 38367. style: apply consistent indentation #38367
 72006. fix: prevent crash on empty input #72006
+26463. fix: fix null pointer exception on login #26463

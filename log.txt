@@ -1267,3 +1267,4 @@
 68994. refactor: remove redundant code blocks #68994
 47237. chore: rename env.example #47237
 93356. perf: optimize database query for quiz results #93356
+87501. chore: bump dependencies #87501

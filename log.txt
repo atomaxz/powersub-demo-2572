@@ -1269,3 +1269,4 @@
 93356. perf: optimize database query for quiz results #93356
 87501. chore: bump dependencies #87501
 31458. fix: fix null pointer exception on login #31458
+59441. refactor: split large controller into smaller functions #59441

@@ -3297,3 +3297,4 @@
 10518. fix: fix broken CSS in mobile view #10518
 92115. style: rename variables for clarity #92115
 14708. style: standardize quote style #14708
+43755. fix: prevent crash on empty input #43755

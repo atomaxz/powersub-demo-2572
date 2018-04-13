@@ -1273,3 +1273,4 @@
 3461. refactor: organize models into subfolders #3461
 71430. chore: update .gitignore #71430
 68042. feat: add user authentication #68042
+27417. test: add unit test for quiz service #27417

@@ -1278,3 +1278,4 @@
 53404. docs: write FAQ section #53404
 0836. fix: handle 500 error in quiz API #836
 84226. feat: add user authentication #84226
+62532. chore: rename env.example #62532

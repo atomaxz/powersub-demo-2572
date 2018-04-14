@@ -2286,3 +2286,4 @@
 74747. chore: rename env.example #74747
 95221. perf: reduce image load time #95221
 75871. fix: prevent crash on empty input #75871
+8171. test: increase coverage on auth module #8171

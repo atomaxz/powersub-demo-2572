@@ -3305,3 +3305,4 @@
 69730. style: rename variables for clarity #69730
 90406. feat: support email verification #90406
 44848. chore: rename env.example #44848
+61003. chore: add GitHub actions badge #61003

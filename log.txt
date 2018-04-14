@@ -1276,3 +1276,4 @@
 27417. test: add unit test for quiz service #27417
 16794. style: apply consistent indentation #16794
 53404. docs: write FAQ section #53404
+0836. fix: handle 500 error in quiz API #836

@@ -1277,3 +1277,4 @@
 16794. style: apply consistent indentation #16794
 53404. docs: write FAQ section #53404
 0836. fix: handle 500 error in quiz API #836
+84226. feat: add user authentication #84226

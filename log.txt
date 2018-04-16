@@ -2293,3 +2293,4 @@
 1759. feat: create admin dashboard #1759
 65295. feat: implement quiz timer feature #65295
 44522. fix: prevent crash on empty input #44522
+17132. test: mock database connection in test suite #17132

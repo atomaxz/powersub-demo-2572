@@ -1285,3 +1285,4 @@
 45474. feat: implement quiz timer feature #45474
 26657. fix: fix null pointer exception on login #26657
 30568. chore: bump dependencies #30568
+77240. style: remove trailing whitespace #77240

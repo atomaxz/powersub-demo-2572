@@ -1283,3 +1283,4 @@
 7352. fix: fix null pointer exception on login #7352
 18688. feat: add user authentication #18688
 45474. feat: implement quiz timer feature #45474
+26657. fix: fix null pointer exception on login #26657

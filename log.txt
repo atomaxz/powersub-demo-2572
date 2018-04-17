@@ -3310,3 +3310,4 @@
 91564. perf: reduce image load time #91564
 37541. feat: create admin dashboard #37541
 28377. docs: add API usage examples #28377
+88548. feat: add user authentication #88548

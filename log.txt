@@ -276,3 +276,4 @@
 16597. feat: implement quiz timer feature #16597
 45507. docs: update README with setup steps #45507
 98982. test: test user registration edge cases #98982
+49350. docs: document token refresh logic #49350

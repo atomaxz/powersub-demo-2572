@@ -278,3 +278,4 @@
 98982. test: test user registration edge cases #98982
 49350. docs: document token refresh logic #49350
 86469. chore: clean up unused files #86469
+19305. feat: enable dark mode toggle #19305

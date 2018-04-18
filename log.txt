@@ -2297,3 +2297,4 @@
 3397. docs: document token refresh logic #3397
 11503. fix: resolve issue with date parsing #11503
 66228. refactor: remove redundant code blocks #66228
+93802. perf: lazy-load components #93802

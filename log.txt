@@ -2304,3 +2304,4 @@
 73066. style: apply consistent indentation #73066
 75046. docs: improve code comments in utils #75046
 20575. style: apply consistent indentation #20575
+66681. fix: fix broken CSS in mobile view #66681

@@ -1287,3 +1287,4 @@
 30568. chore: bump dependencies #30568
 77240. style: remove trailing whitespace #77240
 16951. fix: fix broken CSS in mobile view #16951
+22562. feat: create admin dashboard #22562

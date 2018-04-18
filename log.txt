@@ -2298,3 +2298,4 @@
 11503. fix: resolve issue with date parsing #11503
 66228. refactor: remove redundant code blocks #66228
 93802. perf: lazy-load components #93802
+91946. chore: add GitHub actions badge #91946

@@ -281,3 +281,4 @@
 19305. feat: enable dark mode toggle #19305
 28341. chore: bump dependencies #28341
 31152. refactor: clean up auth middleware #31152
+53088. chore: add GitHub actions badge #53088

@@ -3313,3 +3313,4 @@
 88548. feat: add user authentication #88548
 27938. docs: add API usage examples #27938
 64691. perf: reduce image load time #64691
+43820. fix: prevent crash on empty input #43820

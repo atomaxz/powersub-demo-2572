@@ -1288,3 +1288,4 @@
 77240. style: remove trailing whitespace #77240
 16951. fix: fix broken CSS in mobile view #16951
 22562. feat: create admin dashboard #22562
+79524. feat: add user authentication #79524

@@ -3314,3 +3314,4 @@
 27938. docs: add API usage examples #27938
 64691. perf: reduce image load time #64691
 43820. fix: prevent crash on empty input #43820
+3319. perf: reduce image load time #3319

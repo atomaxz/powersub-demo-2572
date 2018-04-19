@@ -2307,3 +2307,4 @@
 66681. fix: fix broken CSS in mobile view #66681
 44187. docs: write FAQ section #44187
 36262. test: test user registration edge cases #36262
+54150. perf: lazy-load components #54150

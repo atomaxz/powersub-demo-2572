@@ -1294,3 +1294,4 @@
 48415. fix: handle 500 error in quiz API #48415
 37637. refactor: remove redundant code blocks #37637
 25055. perf: cache repeated calculations #25055
+14551. test: mock database connection in test suite #14551

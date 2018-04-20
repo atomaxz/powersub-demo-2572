@@ -1291,3 +1291,4 @@
 79524. feat: add user authentication #79524
 31080. docs: improve code comments in utils #31080
 25495. test: increase coverage on auth module #25495
+48415. fix: handle 500 error in quiz API #48415

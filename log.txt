@@ -287,3 +287,4 @@
 61547. refactor: refactor quiz grading logic #61547
 12511. refactor: clean up auth middleware #12511
 35415. fix: resolve issue with date parsing #35415
+31175. feat: add user authentication #31175

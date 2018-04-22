@@ -1299,3 +1299,4 @@
 0383. feat: create admin dashboard #383
 76851. style: apply consistent indentation #76851
 80322. feat: add export to CSV option #80322
+52527. fix: fix broken CSS in mobile view #52527

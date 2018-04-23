@@ -3320,3 +3320,4 @@
 99779. docs: write FAQ section #99779
 56976. style: remove trailing whitespace #56976
 13075. perf: reduce image load time #13075
+30662. feat: support email verification #30662

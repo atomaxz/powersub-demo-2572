@@ -1302,3 +1302,4 @@
 52527. fix: fix broken CSS in mobile view #52527
 19563. chore: rename env.example #19563
 33771. chore: update .gitignore #33771
+5483. feat: enable dark mode toggle #5483

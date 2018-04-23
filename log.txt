@@ -291,3 +291,4 @@
 68735. fix: correct typo in registration form #68735
 8660. refactor: clean up auth middleware #8660
 59747. refactor: organize models into subfolders #59747
+72457. docs: update README with setup steps #72457

@@ -289,3 +289,4 @@
 35415. fix: resolve issue with date parsing #35415
 31175. feat: add user authentication #31175
 68735. fix: correct typo in registration form #68735
+8660. refactor: clean up auth middleware #8660

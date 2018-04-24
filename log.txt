@@ -3321,3 +3321,4 @@
 56976. style: remove trailing whitespace #56976
 13075. perf: reduce image load time #13075
 30662. feat: support email verification #30662
+1703. docs: document token refresh logic #1703

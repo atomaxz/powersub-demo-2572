@@ -1305,3 +1305,4 @@
 5483. feat: enable dark mode toggle #5483
 85631. perf: lazy-load components #85631
 22679. test: add unit test for quiz service #22679
+8031. fix: handle 500 error in quiz API #8031

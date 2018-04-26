@@ -1306,3 +1306,4 @@
 85631. perf: lazy-load components #85631
 22679. test: add unit test for quiz service #22679
 8031. fix: handle 500 error in quiz API #8031
+74958. perf: lazy-load components #74958

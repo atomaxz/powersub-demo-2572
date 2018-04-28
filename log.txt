@@ -1310,3 +1310,4 @@
 40342. feat: add user authentication #40342
 56196. style: rename variables for clarity #56196
 26240. fix: correct typo in registration form #26240
+37306. test: add integration test for /submit endpoint #37306

@@ -2331,3 +2331,4 @@
 31939. refactor: refactor quiz grading logic #31939
 5935. docs: improve code comments in utils #5935
 97003. chore: bump dependencies #97003
+24551. feat: add user authentication #24551

@@ -3332,3 +3332,4 @@
 82030. perf: cache repeated calculations #82030
 56872. chore: add GitHub actions badge #56872
 21839. docs: clarify environment setup #21839
+97017. docs: add API usage examples #97017

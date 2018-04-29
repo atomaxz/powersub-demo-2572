@@ -308,3 +308,4 @@
 74452. chore: bump dependencies #74452
 10656. style: remove trailing whitespace #10656
 49226. test: test user registration edge cases #49226
+89090. feat: support email verification #89090

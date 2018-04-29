@@ -2335,3 +2335,4 @@
 20389. style: rename variables for clarity #20389
 76399. perf: optimize database query for quiz results #76399
 44600. style: rename variables for clarity #44600
+84692. docs: document token refresh logic #84692

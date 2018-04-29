@@ -310,3 +310,4 @@
 49226. test: test user registration edge cases #49226
 89090. feat: support email verification #89090
 40946. style: reformat files with black #40946
+74195. style: standardize quote style #74195

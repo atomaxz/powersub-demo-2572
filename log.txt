@@ -2337,3 +2337,4 @@
 44600. style: rename variables for clarity #44600
 84692. docs: document token refresh logic #84692
 8571. refactor: refactor quiz grading logic #8571
+32823. fix: prevent crash on empty input #32823

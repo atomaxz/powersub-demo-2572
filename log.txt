@@ -313,3 +313,4 @@
 74195. style: standardize quote style #74195
 71451. feat: enable dark mode toggle #71451
 42614. style: apply consistent indentation #42614
+63287. chore: bump dependencies #63287

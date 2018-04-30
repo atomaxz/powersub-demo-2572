@@ -3334,3 +3334,4 @@
 21839. docs: clarify environment setup #21839
 97017. docs: add API usage examples #97017
 64355. test: test user registration edge cases #64355
+23860. feat: create admin dashboard #23860

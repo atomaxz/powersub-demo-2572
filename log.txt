@@ -318,3 +318,4 @@
 10883. test: add unit test for quiz service #10883
 76976. style: rename variables for clarity #76976
 92943. refactor: refactor quiz grading logic #92943
+54507. feat: add user authentication #54507

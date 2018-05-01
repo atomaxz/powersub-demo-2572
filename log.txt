@@ -1319,3 +1319,4 @@
 76832. fix: fix broken CSS in mobile view #76832
 5313. docs: clarify environment setup #5313
 77294. fix: resolve issue with date parsing #77294
+42248. chore: rename env.example #42248

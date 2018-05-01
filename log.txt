@@ -320,3 +320,4 @@
 92943. refactor: refactor quiz grading logic #92943
 54507. feat: add user authentication #54507
 30768. perf: cache repeated calculations #30768
+18579. feat: support email verification #18579

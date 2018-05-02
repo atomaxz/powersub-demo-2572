@@ -3338,3 +3338,4 @@
 67879. style: apply consistent indentation #67879
 74597. feat: add export to CSV option #74597
 27893. perf: lazy-load components #27893
+77159. docs: write FAQ section #77159

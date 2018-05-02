@@ -321,3 +321,4 @@
 54507. feat: add user authentication #54507
 30768. perf: cache repeated calculations #30768
 18579. feat: support email verification #18579
+71386. docs: update README with setup steps #71386

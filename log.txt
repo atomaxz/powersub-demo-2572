@@ -1321,3 +1321,4 @@
 77294. fix: resolve issue with date parsing #77294
 42248. chore: rename env.example #42248
 55717. docs: clarify environment setup #55717
+44382. chore: add GitHub actions badge #44382

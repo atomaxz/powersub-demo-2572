@@ -3337,3 +3337,4 @@
 23860. feat: create admin dashboard #23860
 67879. style: apply consistent indentation #67879
 74597. feat: add export to CSV option #74597
+27893. perf: lazy-load components #27893

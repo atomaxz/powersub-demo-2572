@@ -3339,3 +3339,4 @@
 74597. feat: add export to CSV option #74597
 27893. perf: lazy-load components #27893
 77159. docs: write FAQ section #77159
+39152. test: increase coverage on auth module #39152

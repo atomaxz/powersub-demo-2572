@@ -1329,3 +1329,4 @@
 89244. fix: correct typo in registration form #89244
 12939. feat: create admin dashboard #12939
 60744. perf: reduce image load time #60744
+33449. perf: reduce image load time #33449

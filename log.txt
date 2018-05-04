@@ -2344,3 +2344,4 @@
 7267. feat: enable dark mode toggle #7267
 86299. feat: add export to CSV option #86299
 14926. docs: clarify environment setup #14926
+95979. perf: optimize database query for quiz results #95979

@@ -3343,3 +3343,4 @@
 18090. test: add unit test for quiz service #18090
 63155. fix: resolve issue with date parsing #63155
 45115. docs: add API usage examples #45115
+33694. fix: fix null pointer exception on login #33694

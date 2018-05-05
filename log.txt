@@ -323,3 +323,4 @@
 18579. feat: support email verification #18579
 71386. docs: update README with setup steps #71386
 41151. chore: clean up unused files #41151
+28638. fix: prevent crash on empty input #28638

@@ -2349,3 +2349,4 @@
 1403. docs: update README with setup steps #1403
 85047. chore: add GitHub actions badge #85047
 19387. docs: add API usage examples #19387
+79357. chore: rename env.example #79357

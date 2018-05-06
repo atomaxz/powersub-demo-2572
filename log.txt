@@ -2354,3 +2354,4 @@
 49349. feat: support email verification #49349
 13509. perf: reduce image load time #13509
 30980. test: increase coverage on auth module #30980
+30367. style: standardize quote style #30367

@@ -2358,3 +2358,4 @@
 54162. refactor: remove redundant code blocks #54162
 75705. docs: write FAQ section #75705
 37671. docs: clarify environment setup #37671
+50367. perf: optimize database query for quiz results #50367

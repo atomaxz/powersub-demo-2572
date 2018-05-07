@@ -3346,3 +3346,4 @@
 33694. fix: fix null pointer exception on login #33694
 27216. docs: document token refresh logic #27216
 17280. style: reformat files with black #17280
+75571. test: increase coverage on auth module #75571

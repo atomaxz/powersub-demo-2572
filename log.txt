@@ -2359,3 +2359,4 @@
 75705. docs: write FAQ section #75705
 37671. docs: clarify environment setup #37671
 50367. perf: optimize database query for quiz results #50367
+96981. fix: fix null pointer exception on login #96981

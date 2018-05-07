@@ -2361,3 +2361,4 @@
 50367. perf: optimize database query for quiz results #50367
 96981. fix: fix null pointer exception on login #96981
 17833. perf: lazy-load components #17833
+80879. fix: handle 500 error in quiz API #80879

@@ -1332,3 +1332,4 @@
 33449. perf: reduce image load time #33449
 63471. feat: implement quiz timer feature #63471
 61224. perf: optimize database query for quiz results #61224
+41216. feat: add export to CSV option #41216

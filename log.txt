@@ -2363,3 +2363,4 @@
 17833. perf: lazy-load components #17833
 80879. fix: handle 500 error in quiz API #80879
 22171. style: reformat files with black #22171
+63686. refactor: remove redundant code blocks #63686

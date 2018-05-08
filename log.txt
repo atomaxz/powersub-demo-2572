@@ -3348,3 +3348,4 @@
 17280. style: reformat files with black #17280
 75571. test: increase coverage on auth module #75571
 12522. test: test user registration edge cases #12522
+42158. refactor: organize models into subfolders #42158

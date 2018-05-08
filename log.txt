@@ -331,3 +331,4 @@
 26345. style: reformat files with black #26345
 81450. refactor: clean up auth middleware #81450
 35108. docs: update README with setup steps #35108
+39546. chore: clean up unused files #39546

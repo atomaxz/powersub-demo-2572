@@ -3350,3 +3350,4 @@
 12522. test: test user registration edge cases #12522
 42158. refactor: organize models into subfolders #42158
 75790. test: increase coverage on auth module #75790
+56095. refactor: clean up auth middleware #56095

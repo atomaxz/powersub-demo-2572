@@ -1335,3 +1335,4 @@
 41216. feat: add export to CSV option #41216
 76156. chore: rename env.example #76156
 78655. test: add integration test for /submit endpoint #78655
+69120. chore: update .gitignore #69120

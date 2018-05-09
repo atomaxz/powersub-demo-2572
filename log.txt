@@ -3353,3 +3353,4 @@
 56095. refactor: clean up auth middleware #56095
 61542. fix: fix broken CSS in mobile view #61542
 54780. refactor: clean up auth middleware #54780
+20893. perf: optimize database query for quiz results #20893

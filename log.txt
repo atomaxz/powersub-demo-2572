@@ -3352,3 +3352,4 @@
 75790. test: increase coverage on auth module #75790
 56095. refactor: clean up auth middleware #56095
 61542. fix: fix broken CSS in mobile view #61542
+54780. refactor: clean up auth middleware #54780

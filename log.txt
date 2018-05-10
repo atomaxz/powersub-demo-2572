@@ -2371,3 +2371,4 @@
 56148. chore: clean up unused files #56148
 20542. fix: prevent crash on empty input #20542
 66797. perf: optimize database query for quiz results #66797
+18817. test: add unit test for quiz service #18817

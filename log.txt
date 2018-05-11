@@ -2373,3 +2373,4 @@
 66797. perf: optimize database query for quiz results #66797
 18817. test: add unit test for quiz service #18817
 59240. chore: bump dependencies #59240
+50393. refactor: remove redundant code blocks #50393

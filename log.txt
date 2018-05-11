@@ -1345,3 +1345,4 @@
 56471. chore: bump dependencies #56471
 8026. feat: add export to CSV option #8026
 94197. style: remove trailing whitespace #94197
+57374. docs: document token refresh logic #57374

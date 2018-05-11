@@ -339,3 +339,4 @@
 56981. chore: clean up unused files #56981
 48724. fix: fix null pointer exception on login #48724
 6775. chore: bump dependencies #6775
+53148. feat: support email verification #53148

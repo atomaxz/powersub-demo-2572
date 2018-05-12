@@ -1349,3 +1349,4 @@
 13455. feat: support email verification #13455
 28674. test: increase coverage on auth module #28674
 74436. test: increase coverage on auth module #74436
+63561. test: test user registration edge cases #63561

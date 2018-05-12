@@ -3359,3 +3359,4 @@
 86040. docs: clarify environment setup #86040
 47181. refactor: split large controller into smaller functions #47181
 90027. refactor: remove redundant code blocks #90027
+94214. fix: prevent crash on empty input #94214

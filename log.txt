@@ -3361,3 +3361,4 @@
 90027. refactor: remove redundant code blocks #90027
 94214. fix: prevent crash on empty input #94214
 55798. feat: support email verification #55798
+0795. fix: correct typo in registration form #795

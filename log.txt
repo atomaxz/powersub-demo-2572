@@ -345,3 +345,4 @@
 92271. fix: resolve issue with date parsing #92271
 70035. style: standardize quote style #70035
 13302. chore: update .gitignore #13302
+63342. fix: correct typo in registration form #63342

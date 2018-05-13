@@ -1350,3 +1350,4 @@
 28674. test: increase coverage on auth module #28674
 74436. test: increase coverage on auth module #74436
 63561. test: test user registration edge cases #63561
+39084. docs: update README with setup steps #39084

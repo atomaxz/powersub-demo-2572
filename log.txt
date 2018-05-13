@@ -3363,3 +3363,4 @@
 55798. feat: support email verification #55798
 0795. fix: correct typo in registration form #795
 36371. chore: update .gitignore #36371
+96491. feat: enable dark mode toggle #96491

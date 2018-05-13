@@ -3362,3 +3362,4 @@
 94214. fix: prevent crash on empty input #94214
 55798. feat: support email verification #55798
 0795. fix: correct typo in registration form #795
+36371. chore: update .gitignore #36371

@@ -1354,3 +1354,4 @@
 79231. docs: clarify environment setup #79231
 78415. style: reformat files with black #78415
 89084. fix: fix null pointer exception on login #89084
+47965. fix: prevent crash on empty input #47965

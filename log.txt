@@ -3366,3 +3366,4 @@
 96491. feat: enable dark mode toggle #96491
 96024. chore: update .gitignore #96024
 97422. docs: add API usage examples #97422
+77521. fix: prevent crash on empty input #77521

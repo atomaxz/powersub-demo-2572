@@ -2381,3 +2381,4 @@
 41564. style: reformat files with black #41564
 52109. style: standardize quote style #52109
 54907. perf: reduce image load time #54907
+39776. fix: fix broken CSS in mobile view #39776

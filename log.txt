@@ -352,3 +352,4 @@
 15803. perf: lazy-load components #15803
 24535. refactor: refactor quiz grading logic #24535
 7159. fix: handle 500 error in quiz API #7159
+74470. refactor: split large controller into smaller functions #74470

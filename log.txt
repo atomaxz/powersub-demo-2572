@@ -3373,3 +3373,4 @@
 71226. feat: support email verification #71226
 51394. feat: implement quiz timer feature #51394
 97218. test: mock database connection in test suite #97218
+75114. test: increase coverage on auth module #75114

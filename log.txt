@@ -2383,3 +2383,4 @@
 54907. perf: reduce image load time #54907
 39776. fix: fix broken CSS in mobile view #39776
 72587. style: apply consistent indentation #72587
+64999. style: remove trailing whitespace #64999

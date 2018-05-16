@@ -357,3 +357,4 @@
 49313. chore: rename env.example #49313
 63693. docs: document token refresh logic #63693
 35138. refactor: split large controller into smaller functions #35138
+78199. docs: write FAQ section #78199

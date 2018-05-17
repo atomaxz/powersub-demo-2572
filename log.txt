@@ -3375,3 +3375,4 @@
 97218. test: mock database connection in test suite #97218
 75114. test: increase coverage on auth module #75114
 1395. docs: document token refresh logic #1395
+48875. test: add unit test for quiz service #48875

@@ -1361,3 +1361,4 @@
 60840. chore: add GitHub actions badge #60840
 51069. test: add integration test for /submit endpoint #51069
 85746. feat: create admin dashboard #85746
+14227. feat: add user authentication #14227

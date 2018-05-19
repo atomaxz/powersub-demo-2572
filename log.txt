@@ -364,3 +364,4 @@
 40903. chore: bump dependencies #40903
 57169. feat: support email verification #57169
 73737. docs: update README with setup steps #73737
+19788. chore: rename env.example #19788

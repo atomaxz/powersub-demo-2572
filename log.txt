@@ -3385,3 +3385,4 @@
 30810. style: reformat files with black #30810
 6673. style: standardize quote style #6673
 60786. test: test user registration edge cases #60786
+57534. fix: handle 500 error in quiz API #57534

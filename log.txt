@@ -3384,3 +3384,4 @@
 83802. chore: clean up unused files #83802
 30810. style: reformat files with black #30810
 6673. style: standardize quote style #6673
+60786. test: test user registration edge cases #60786

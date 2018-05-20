@@ -3388,3 +3388,4 @@
 57534. fix: handle 500 error in quiz API #57534
 83569. feat: implement quiz timer feature #83569
 9559. docs: improve code comments in utils #9559
+74220. feat: add user authentication #74220

@@ -369,3 +369,4 @@
 74715. feat: implement quiz timer feature #74715
 89440. test: mock database connection in test suite #89440
 35949. test: mock database connection in test suite #35949
+70017. perf: reduce image load time #70017

@@ -1368,3 +1368,4 @@
 53431. style: reformat files with black #53431
 72271. style: rename variables for clarity #72271
 65132. perf: lazy-load components #65132
+75616. test: add integration test for /submit endpoint #75616

@@ -1369,3 +1369,4 @@
 72271. style: rename variables for clarity #72271
 65132. perf: lazy-load components #65132
 75616. test: add integration test for /submit endpoint #75616
+28462. fix: fix broken CSS in mobile view #28462

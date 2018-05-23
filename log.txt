@@ -375,3 +375,4 @@
 98218. feat: add export to CSV option #98218
 34696. feat: add user authentication #34696
 19485. fix: resolve issue with date parsing #19485
+76287. perf: lazy-load components #76287

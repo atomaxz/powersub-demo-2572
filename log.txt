@@ -377,3 +377,4 @@
 19485. fix: resolve issue with date parsing #19485
 76287. perf: lazy-load components #76287
 67167. test: mock database connection in test suite #67167
+36548. feat: enable dark mode toggle #36548

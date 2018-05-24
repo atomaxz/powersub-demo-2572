@@ -1378,3 +1378,4 @@
 88536. fix: fix broken CSS in mobile view #88536
 71274. test: add integration test for /submit endpoint #71274
 35615. test: add unit test for quiz service #35615
+90473. refactor: remove redundant code blocks #90473

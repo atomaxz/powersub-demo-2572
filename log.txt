@@ -3390,3 +3390,4 @@
 9559. docs: improve code comments in utils #9559
 74220. feat: add user authentication #74220
 25235. fix: fix null pointer exception on login #25235
+77667. fix: fix broken CSS in mobile view #77667

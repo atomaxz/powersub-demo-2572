@@ -2405,3 +2405,4 @@
 85299. docs: update README with setup steps #85299
 91406. feat: implement quiz timer feature #91406
 45865. test: add unit test for quiz service #45865
+12367. test: test user registration edge cases #12367

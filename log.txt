@@ -3396,3 +3396,4 @@
 5789. test: test user registration edge cases #5789
 91719. refactor: clean up auth middleware #91719
 59853. fix: correct typo in registration form #59853
+97458. refactor: remove redundant code blocks #97458

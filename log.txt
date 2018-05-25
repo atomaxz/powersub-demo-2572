@@ -3397,3 +3397,4 @@
 91719. refactor: clean up auth middleware #91719
 59853. fix: correct typo in registration form #59853
 97458. refactor: remove redundant code blocks #97458
+37244. chore: update .gitignore #37244

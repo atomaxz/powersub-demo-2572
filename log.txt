@@ -380,3 +380,4 @@
 36548. feat: enable dark mode toggle #36548
 13475. feat: support email verification #13475
 34348. feat: add user authentication #34348
+97926. test: add unit test for quiz service #97926

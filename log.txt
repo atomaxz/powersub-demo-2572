@@ -1382,3 +1382,4 @@
 29256. chore: add GitHub actions badge #29256
 43574. style: remove trailing whitespace #43574
 73011. perf: reduce image load time #73011
+71985. refactor: clean up auth middleware #71985

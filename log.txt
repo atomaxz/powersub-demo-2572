@@ -391,3 +391,4 @@
 69943. fix: prevent crash on empty input #69943
 34874. fix: handle 500 error in quiz API #34874
 38122. chore: bump dependencies #38122
+10821. test: add unit test for quiz service #10821

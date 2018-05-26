@@ -388,3 +388,4 @@
 55990. chore: add GitHub actions badge #55990
 22439. chore: bump dependencies #22439
 10237. test: increase coverage on auth module #10237
+69943. fix: prevent crash on empty input #69943

@@ -389,3 +389,4 @@
 22439. chore: bump dependencies #22439
 10237. test: increase coverage on auth module #10237
 69943. fix: prevent crash on empty input #69943
+34874. fix: handle 500 error in quiz API #34874

@@ -3400,3 +3400,4 @@
 37244. chore: update .gitignore #37244
 29065. docs: improve code comments in utils #29065
 51382. docs: write FAQ section #51382
+7697. chore: add GitHub actions badge #7697

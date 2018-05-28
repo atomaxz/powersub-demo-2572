@@ -2413,3 +2413,4 @@
 81673. perf: cache repeated calculations #81673
 52799. chore: add GitHub actions badge #52799
 19031. fix: prevent crash on empty input #19031
+89703. test: increase coverage on auth module #89703

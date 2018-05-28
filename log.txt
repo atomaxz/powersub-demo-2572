@@ -1388,3 +1388,4 @@
 59861. chore: rename env.example #59861
 63660. style: remove trailing whitespace #63660
 31661. fix: handle 500 error in quiz API #31661
+66306. perf: lazy-load components #66306

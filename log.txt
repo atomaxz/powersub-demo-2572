@@ -1387,3 +1387,4 @@
 56815. feat: implement quiz timer feature #56815
 59861. chore: rename env.example #59861
 63660. style: remove trailing whitespace #63660
+31661. fix: handle 500 error in quiz API #31661

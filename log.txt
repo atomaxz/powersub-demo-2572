@@ -2415,3 +2415,4 @@
 19031. fix: prevent crash on empty input #19031
 89703. test: increase coverage on auth module #89703
 12513. chore: bump dependencies #12513
+36074. fix: correct typo in registration form #36074

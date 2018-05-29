@@ -2417,3 +2417,4 @@
 12513. chore: bump dependencies #12513
 36074. fix: correct typo in registration form #36074
 61988. fix: correct typo in registration form #61988
+97103. docs: document token refresh logic #97103

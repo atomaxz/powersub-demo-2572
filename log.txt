@@ -400,3 +400,4 @@
 16121. docs: clarify environment setup #16121
 63856. chore: bump dependencies #63856
 60952. chore: clean up unused files #60952
+93971. chore: update .gitignore #93971

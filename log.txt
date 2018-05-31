@@ -403,3 +403,4 @@
 93971. chore: update .gitignore #93971
 7701. docs: add API usage examples #7701
 97661. perf: reduce image load time #97661
+41528. docs: update README with setup steps #41528

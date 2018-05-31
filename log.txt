@@ -2420,3 +2420,4 @@
 97103. docs: document token refresh logic #97103
 39490. docs: write FAQ section #39490
 59242. style: standardize quote style #59242
+43673. style: rename variables for clarity #43673

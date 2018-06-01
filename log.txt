@@ -404,3 +404,4 @@
 7701. docs: add API usage examples #7701
 97661. perf: reduce image load time #97661
 41528. docs: update README with setup steps #41528
+83827. test: add integration test for /submit endpoint #83827

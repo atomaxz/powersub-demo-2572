@@ -1403,3 +1403,4 @@
 33044. feat: support email verification #33044
 22960. docs: add API usage examples #22960
 5920. perf: cache repeated calculations #5920
+70080. feat: enable dark mode toggle #70080

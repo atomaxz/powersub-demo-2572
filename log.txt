@@ -1405,3 +1405,4 @@
 5920. perf: cache repeated calculations #5920
 70080. feat: enable dark mode toggle #70080
 82995. refactor: remove redundant code blocks #82995
+71838. style: apply consistent indentation #71838

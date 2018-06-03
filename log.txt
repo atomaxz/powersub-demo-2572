@@ -411,3 +411,4 @@
 49007. style: standardize quote style #49007
 9216. perf: optimize database query for quiz results #9216
 12526. docs: clarify environment setup #12526
+20876. feat: enable dark mode toggle #20876

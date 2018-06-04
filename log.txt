@@ -415,3 +415,4 @@
 51140. test: test user registration edge cases #51140
 13029. test: add integration test for /submit endpoint #13029
 60957. style: apply consistent indentation #60957
+93304. chore: bump dependencies #93304

@@ -3421,3 +3421,4 @@
 99766. style: rename variables for clarity #99766
 12986. docs: clarify environment setup #12986
 99964. perf: optimize database query for quiz results #99964
+8980. test: mock database connection in test suite #8980

@@ -1406,3 +1406,4 @@
 70080. feat: enable dark mode toggle #70080
 82995. refactor: remove redundant code blocks #82995
 71838. style: apply consistent indentation #71838
+86057. perf: optimize database query for quiz results #86057

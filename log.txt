@@ -1409,3 +1409,4 @@
 86057. perf: optimize database query for quiz results #86057
 79325. chore: clean up unused files #79325
 43383. feat: add export to CSV option #43383
+90104. perf: optimize database query for quiz results #90104

@@ -3423,3 +3423,4 @@
 99964. perf: optimize database query for quiz results #99964
 8980. test: mock database connection in test suite #8980
 31812. style: rename variables for clarity #31812
+62796. fix: fix broken CSS in mobile view #62796

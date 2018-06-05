@@ -417,3 +417,4 @@
 60957. style: apply consistent indentation #60957
 93304. chore: bump dependencies #93304
 85428. feat: enable dark mode toggle #85428
+94812. chore: add GitHub actions badge #94812

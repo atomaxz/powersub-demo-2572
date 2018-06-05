@@ -2427,3 +2427,4 @@
 74270. perf: optimize database query for quiz results #74270
 36378. refactor: remove redundant code blocks #36378
 88490. style: remove trailing whitespace #88490
+57902. perf: lazy-load components #57902

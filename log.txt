@@ -1413,3 +1413,4 @@
 0466. feat: enable dark mode toggle #466
 8903. chore: rename env.example #8903
 43028. test: test user registration edge cases #43028
+11808. style: standardize quote style #11808

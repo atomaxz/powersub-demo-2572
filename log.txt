@@ -2436,3 +2436,4 @@
 24288. refactor: refactor quiz grading logic #24288
 37534. style: standardize quote style #37534
 14334. docs: update README with setup steps #14334
+15465. fix: prevent crash on empty input #15465

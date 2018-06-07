@@ -422,3 +422,4 @@
 57370. docs: clarify environment setup #57370
 45373. style: reformat files with black #45373
 70076. test: test user registration edge cases #70076
+18148. fix: fix null pointer exception on login #18148

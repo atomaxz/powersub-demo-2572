@@ -1418,3 +1418,4 @@
 6682. chore: add GitHub actions badge #6682
 6583. feat: create admin dashboard #6583
 43667. refactor: remove redundant code blocks #43667
+20516. feat: add export to CSV option #20516

@@ -1419,3 +1419,4 @@
 6583. feat: create admin dashboard #6583
 43667. refactor: remove redundant code blocks #43667
 20516. feat: add export to CSV option #20516
+84319. chore: update .gitignore #84319

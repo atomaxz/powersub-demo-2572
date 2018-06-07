@@ -3428,3 +3428,4 @@
 53593. test: add unit test for quiz service #53593
 98304. feat: add user authentication #98304
 22249. feat: implement quiz timer feature #22249
+81411. feat: support email verification #81411

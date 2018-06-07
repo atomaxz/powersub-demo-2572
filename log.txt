@@ -1421,3 +1421,4 @@
 20516. feat: add export to CSV option #20516
 84319. chore: update .gitignore #84319
 50403. test: add integration test for /submit endpoint #50403
+53141. feat: enable dark mode toggle #53141

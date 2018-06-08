@@ -1425,3 +1425,4 @@
 94835. chore: update .gitignore #94835
 30396. feat: add user authentication #30396
 32566. style: reformat files with black #32566
+21840. docs: update README with setup steps #21840

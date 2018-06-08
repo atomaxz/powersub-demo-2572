@@ -1427,3 +1427,4 @@
 32566. style: reformat files with black #32566
 21840. docs: update README with setup steps #21840
 29122. test: add integration test for /submit endpoint #29122
+15496. test: increase coverage on auth module #15496

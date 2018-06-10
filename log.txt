@@ -1430,3 +1430,4 @@
 15496. test: increase coverage on auth module #15496
 35506. fix: fix broken CSS in mobile view #35506
 64901. style: standardize quote style #64901
+1488. docs: clarify environment setup #1488

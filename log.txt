@@ -442,3 +442,4 @@
 18705. fix: fix null pointer exception on login #18705
 83511. style: reformat files with black #83511
 88737. perf: optimize database query for quiz results #88737
+5325. refactor: clean up auth middleware #5325

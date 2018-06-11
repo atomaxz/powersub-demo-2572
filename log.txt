@@ -3439,3 +3439,4 @@
 39238. docs: write FAQ section #39238
 92625. test: add integration test for /submit endpoint #92625
 31906. refactor: split large controller into smaller functions #31906
+69172. docs: document token refresh logic #69172

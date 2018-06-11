@@ -1432,3 +1432,4 @@
 64901. style: standardize quote style #64901
 1488. docs: clarify environment setup #1488
 54765. test: test user registration edge cases #54765
+0340. docs: write FAQ section #340

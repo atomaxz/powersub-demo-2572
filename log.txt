@@ -2449,3 +2449,4 @@
 40729. perf: cache repeated calculations #40729
 50822. test: mock database connection in test suite #50822
 39860. style: standardize quote style #39860
+62051. chore: add GitHub actions badge #62051

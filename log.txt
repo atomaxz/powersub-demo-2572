@@ -453,3 +453,4 @@
 65963. fix: prevent crash on empty input #65963
 61297. chore: bump dependencies #61297
 6494. refactor: remove redundant code blocks #6494
+57702. fix: resolve issue with date parsing #57702

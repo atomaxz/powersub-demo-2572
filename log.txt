@@ -2467,3 +2467,4 @@
 80618. feat: add export to CSV option #80618
 79789. fix: prevent crash on empty input #79789
 20247. test: mock database connection in test suite #20247
+4601. chore: rename env.example #4601

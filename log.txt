@@ -455,3 +455,4 @@
 6494. refactor: remove redundant code blocks #6494
 57702. fix: resolve issue with date parsing #57702
 98215. refactor: split large controller into smaller functions #98215
+14450. perf: reduce image load time #14450

@@ -2465,3 +2465,4 @@
 19205. chore: add GitHub actions badge #19205
 12286. perf: reduce image load time #12286
 80618. feat: add export to CSV option #80618
+79789. fix: prevent crash on empty input #79789

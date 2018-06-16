@@ -3449,3 +3449,4 @@
 47680. refactor: split large controller into smaller functions #47680
 44530. chore: bump dependencies #44530
 49213. fix: resolve issue with date parsing #49213
+12525. docs: write FAQ section #12525

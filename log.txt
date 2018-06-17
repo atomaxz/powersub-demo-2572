@@ -3452,3 +3452,4 @@
 12525. docs: write FAQ section #12525
 7997. test: test user registration edge cases #7997
 33902. refactor: refactor quiz grading logic #33902
+41718. perf: cache repeated calculations #41718

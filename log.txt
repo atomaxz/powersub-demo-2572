@@ -1452,3 +1452,4 @@
 67210. docs: update README with setup steps #67210
 51008. docs: write FAQ section #51008
 43338. docs: clarify environment setup #43338
+92055. test: test user registration edge cases #92055

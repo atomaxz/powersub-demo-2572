@@ -1457,3 +1457,4 @@
 44221. chore: add GitHub actions badge #44221
 66436. fix: resolve issue with date parsing #66436
 36310. fix: handle 500 error in quiz API #36310
+93280. perf: reduce image load time #93280

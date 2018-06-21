@@ -464,3 +464,4 @@
 56412. style: apply consistent indentation #56412
 86486. chore: clean up unused files #86486
 82425. style: remove trailing whitespace #82425
+9857. refactor: clean up auth middleware #9857

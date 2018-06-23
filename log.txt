@@ -3461,3 +3461,4 @@
 7488. perf: cache repeated calculations #7488
 13034. docs: clarify environment setup #13034
 78588. docs: clarify environment setup #78588
+50976. fix: fix broken CSS in mobile view #50976

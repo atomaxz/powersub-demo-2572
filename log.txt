@@ -3464,3 +3464,4 @@
 50976. fix: fix broken CSS in mobile view #50976
 3039. fix: handle 500 error in quiz API #3039
 37392. docs: write FAQ section #37392
+2138. style: apply consistent indentation #2138

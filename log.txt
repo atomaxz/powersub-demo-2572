@@ -2482,3 +2482,4 @@
 52471. fix: correct typo in registration form #52471
 62669. fix: fix broken CSS in mobile view #62669
 41169. feat: add export to CSV option #41169
+88690. test: add unit test for quiz service #88690

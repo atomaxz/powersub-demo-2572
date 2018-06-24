@@ -2479,3 +2479,4 @@
 9226. chore: add GitHub actions badge #9226
 1373. style: rename variables for clarity #1373
 96865. test: add unit test for quiz service #96865
+52471. fix: correct typo in registration form #52471

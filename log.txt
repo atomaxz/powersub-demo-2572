@@ -2480,3 +2480,4 @@
 1373. style: rename variables for clarity #1373
 96865. test: add unit test for quiz service #96865
 52471. fix: correct typo in registration form #52471
+62669. fix: fix broken CSS in mobile view #62669

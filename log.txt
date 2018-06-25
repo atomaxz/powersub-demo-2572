@@ -1468,3 +1468,4 @@
 1994. docs: improve code comments in utils #1994
 40588. feat: add user authentication #40588
 47189. refactor: refactor quiz grading logic #47189
+31785. fix: handle 500 error in quiz API #31785

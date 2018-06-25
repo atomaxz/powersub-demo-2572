@@ -3467,3 +3467,4 @@
 2138. style: apply consistent indentation #2138
 1892. chore: update .gitignore #1892
 6236. test: increase coverage on auth module #6236
+69610. fix: correct typo in registration form #69610

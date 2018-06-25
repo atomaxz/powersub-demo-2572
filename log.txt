@@ -3466,3 +3466,4 @@
 37392. docs: write FAQ section #37392
 2138. style: apply consistent indentation #2138
 1892. chore: update .gitignore #1892
+6236. test: increase coverage on auth module #6236

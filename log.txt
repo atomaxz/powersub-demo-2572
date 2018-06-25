@@ -472,3 +472,4 @@
 80841. refactor: split large controller into smaller functions #80841
 50816. test: add unit test for quiz service #50816
 91749. style: apply consistent indentation #91749
+38214. chore: add GitHub actions badge #38214

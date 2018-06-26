@@ -474,3 +474,4 @@
 91749. style: apply consistent indentation #91749
 38214. chore: add GitHub actions badge #38214
 19057. docs: update README with setup steps #19057
+2136. test: increase coverage on auth module #2136

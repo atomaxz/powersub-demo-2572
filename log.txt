@@ -3470,3 +3470,4 @@
 69610. fix: correct typo in registration form #69610
 8872. perf: optimize database query for quiz results #8872
 28968. test: add integration test for /submit endpoint #28968
+46558. docs: clarify environment setup #46558

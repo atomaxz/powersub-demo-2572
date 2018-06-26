@@ -2485,3 +2485,4 @@
 88690. test: add unit test for quiz service #88690
 85824. feat: add user authentication #85824
 40458. feat: add export to CSV option #40458
+45744. perf: cache repeated calculations #45744

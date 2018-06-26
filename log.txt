@@ -2487,3 +2487,4 @@
 40458. feat: add export to CSV option #40458
 45744. perf: cache repeated calculations #45744
 76445. style: standardize quote style #76445
+14484. style: rename variables for clarity #14484

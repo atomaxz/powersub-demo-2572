@@ -1477,3 +1477,4 @@
 11802. fix: correct typo in registration form #11802
 0678. chore: bump dependencies #678
 51368. fix: resolve issue with date parsing #51368
+29004. fix: correct typo in registration form #29004

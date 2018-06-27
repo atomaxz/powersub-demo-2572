@@ -1473,3 +1473,4 @@
 8963. docs: clarify environment setup #8963
 67406. feat: add export to CSV option #67406
 81399. docs: clarify environment setup #81399
+8868. perf: optimize database query for quiz results #8868

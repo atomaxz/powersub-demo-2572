@@ -1476,3 +1476,4 @@
 8868. perf: optimize database query for quiz results #8868
 11802. fix: correct typo in registration form #11802
 0678. chore: bump dependencies #678
+51368. fix: resolve issue with date parsing #51368

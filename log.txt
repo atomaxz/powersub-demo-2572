@@ -1483,3 +1483,4 @@
 9274. test: increase coverage on auth module #9274
 9025. style: apply consistent indentation #9025
 67811. feat: add export to CSV option #67811
+44394. fix: resolve issue with date parsing #44394

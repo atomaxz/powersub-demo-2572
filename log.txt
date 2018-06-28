@@ -1482,3 +1482,4 @@
 88641. feat: enable dark mode toggle #88641
 9274. test: increase coverage on auth module #9274
 9025. style: apply consistent indentation #9025
+67811. feat: add export to CSV option #67811

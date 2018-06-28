@@ -1479,3 +1479,4 @@
 51368. fix: resolve issue with date parsing #51368
 29004. fix: correct typo in registration form #29004
 54729. style: reformat files with black #54729
+88641. feat: enable dark mode toggle #88641

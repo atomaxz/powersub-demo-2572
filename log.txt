@@ -480,3 +480,4 @@
 87674. style: rename variables for clarity #87674
 46029. docs: document token refresh logic #46029
 26641. style: rename variables for clarity #26641
+88132. refactor: clean up auth middleware #88132

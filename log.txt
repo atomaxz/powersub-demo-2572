@@ -2493,3 +2493,4 @@
 83065. test: add unit test for quiz service #83065
 33055. feat: support email verification #33055
 71717. style: rename variables for clarity #71717
+21497. feat: enable dark mode toggle #21497

@@ -3480,3 +3480,4 @@
 8104. perf: lazy-load components #8104
 50316. style: apply consistent indentation #50316
 60279. refactor: clean up auth middleware #60279
+88667. docs: write FAQ section #88667

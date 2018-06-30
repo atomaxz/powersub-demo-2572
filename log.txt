@@ -1489,3 +1489,4 @@
 85764. feat: add export to CSV option #85764
 14723. fix: fix broken CSS in mobile view #14723
 68318. docs: improve code comments in utils #68318
+15378. chore: rename env.example #15378

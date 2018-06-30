@@ -2500,3 +2500,4 @@
 19833. feat: enable dark mode toggle #19833
 90538. fix: correct typo in registration form #90538
 0543. perf: cache repeated calculations #543
+80712. docs: add API usage examples #80712

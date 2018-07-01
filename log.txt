@@ -2501,3 +2501,4 @@
 90538. fix: correct typo in registration form #90538
 0543. perf: cache repeated calculations #543
 80712. docs: add API usage examples #80712
+50738. perf: lazy-load components #50738

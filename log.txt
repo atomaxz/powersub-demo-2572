@@ -1494,3 +1494,4 @@
 89473. refactor: remove redundant code blocks #89473
 20240. refactor: clean up auth middleware #20240
 37728. chore: bump dependencies #37728
+22602. feat: enable dark mode toggle #22602

@@ -3483,3 +3483,4 @@
 88667. docs: write FAQ section #88667
 45790. docs: write FAQ section #45790
 91131. feat: enable dark mode toggle #91131
+50620. feat: add user authentication #50620

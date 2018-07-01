@@ -1493,3 +1493,4 @@
 76248. docs: write FAQ section #76248
 89473. refactor: remove redundant code blocks #89473
 20240. refactor: clean up auth middleware #20240
+37728. chore: bump dependencies #37728

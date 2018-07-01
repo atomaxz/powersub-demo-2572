@@ -483,3 +483,4 @@
 88132. refactor: clean up auth middleware #88132
 2715. fix: correct typo in registration form #2715
 98995. fix: handle 500 error in quiz API #98995
+60421. refactor: clean up auth middleware #60421

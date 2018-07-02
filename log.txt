@@ -2503,3 +2503,4 @@
 80712. docs: add API usage examples #80712
 50738. perf: lazy-load components #50738
 41433. docs: clarify environment setup #41433
+2630. feat: enable dark mode toggle #2630

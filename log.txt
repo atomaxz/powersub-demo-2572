@@ -3486,3 +3486,4 @@
 50620. feat: add user authentication #50620
 14658. style: rename variables for clarity #14658
 97798. refactor: clean up auth middleware #97798
+53880. test: mock database connection in test suite #53880

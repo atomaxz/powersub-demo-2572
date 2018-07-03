@@ -1497,3 +1497,4 @@
 22602. feat: enable dark mode toggle #22602
 50377. perf: reduce image load time #50377
 21116. test: mock database connection in test suite #21116
+88914. chore: add GitHub actions badge #88914

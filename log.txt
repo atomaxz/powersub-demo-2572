@@ -2505,3 +2505,4 @@
 41433. docs: clarify environment setup #41433
 2630. feat: enable dark mode toggle #2630
 24820. chore: add GitHub actions badge #24820
+23935. perf: lazy-load components #23935

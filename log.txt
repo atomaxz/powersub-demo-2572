@@ -489,3 +489,4 @@
 48817. docs: update README with setup steps #48817
 57714. chore: bump dependencies #57714
 63493. chore: bump dependencies #63493
+95180. perf: cache repeated calculations #95180

@@ -487,3 +487,4 @@
 70077. perf: cache repeated calculations #70077
 68089. docs: add API usage examples #68089
 48817. docs: update README with setup steps #48817
+57714. chore: bump dependencies #57714

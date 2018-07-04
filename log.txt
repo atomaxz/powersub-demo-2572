@@ -495,3 +495,4 @@
 81203. refactor: clean up auth middleware #81203
 39666. chore: rename env.example #39666
 49441. test: test user registration edge cases #49441
+60460. fix: prevent crash on empty input #60460

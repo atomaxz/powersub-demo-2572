@@ -1499,3 +1499,4 @@
 21116. test: mock database connection in test suite #21116
 88914. chore: add GitHub actions badge #88914
 55912. refactor: organize models into subfolders #55912
+13495. chore: bump dependencies #13495

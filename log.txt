@@ -1501,3 +1501,4 @@
 55912. refactor: organize models into subfolders #55912
 13495. chore: bump dependencies #13495
 98048. perf: optimize database query for quiz results #98048
+80035. fix: prevent crash on empty input #80035

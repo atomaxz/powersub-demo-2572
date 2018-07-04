@@ -2508,3 +2508,4 @@
 23935. perf: lazy-load components #23935
 86897. refactor: organize models into subfolders #86897
 88949. test: add unit test for quiz service #88949
+56434. test: increase coverage on auth module #56434

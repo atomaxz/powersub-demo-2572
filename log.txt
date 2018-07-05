@@ -498,3 +498,4 @@
 60460. fix: prevent crash on empty input #60460
 82189. test: test user registration edge cases #82189
 55190. style: remove trailing whitespace #55190
+25266. perf: lazy-load components #25266

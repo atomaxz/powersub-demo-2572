@@ -1506,3 +1506,4 @@
 30868. refactor: clean up auth middleware #30868
 24952. refactor: remove redundant code blocks #24952
 1564. feat: add export to CSV option #1564
+75608. fix: fix null pointer exception on login #75608

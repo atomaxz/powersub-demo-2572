@@ -500,3 +500,4 @@
 55190. style: remove trailing whitespace #55190
 25266. perf: lazy-load components #25266
 9845. test: add integration test for /submit endpoint #9845
+63080. fix: fix broken CSS in mobile view #63080

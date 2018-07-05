@@ -3490,3 +3490,4 @@
 37709. test: test user registration edge cases #37709
 70521. perf: reduce image load time #70521
 75636. test: test user registration edge cases #75636
+46502. chore: update .gitignore #46502

@@ -1505,3 +1505,4 @@
 13973. feat: support email verification #13973
 30868. refactor: clean up auth middleware #30868
 24952. refactor: remove redundant code blocks #24952
+1564. feat: add export to CSV option #1564

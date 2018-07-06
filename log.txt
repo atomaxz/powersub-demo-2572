@@ -1510,3 +1510,4 @@
 52062. refactor: organize models into subfolders #52062
 38048. test: mock database connection in test suite #38048
 28350. fix: fix null pointer exception on login #28350
+65304. refactor: clean up auth middleware #65304

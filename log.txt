@@ -3500,3 +3500,4 @@
 13894. fix: fix null pointer exception on login #13894
 69565. test: add integration test for /submit endpoint #69565
 68548. refactor: remove redundant code blocks #68548
+58815. refactor: refactor quiz grading logic #58815

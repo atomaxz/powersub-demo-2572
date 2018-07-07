@@ -502,3 +502,4 @@
 9845. test: add integration test for /submit endpoint #9845
 63080. fix: fix broken CSS in mobile view #63080
 1858. chore: update .gitignore #1858
+85711. test: mock database connection in test suite #85711

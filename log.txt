@@ -2511,3 +2511,4 @@
 56434. test: increase coverage on auth module #56434
 65347. fix: resolve issue with date parsing #65347
 81270. feat: implement quiz timer feature #81270
+36431. feat: support email verification #36431

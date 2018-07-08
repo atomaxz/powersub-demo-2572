@@ -503,3 +503,4 @@
 63080. fix: fix broken CSS in mobile view #63080
 1858. chore: update .gitignore #1858
 85711. test: mock database connection in test suite #85711
+87119. fix: prevent crash on empty input #87119

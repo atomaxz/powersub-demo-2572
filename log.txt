@@ -1519,3 +1519,4 @@
 71715. chore: bump dependencies #71715
 97835. fix: prevent crash on empty input #97835
 93428. docs: update README with setup steps #93428
+45490. docs: document token refresh logic #45490

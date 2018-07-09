@@ -505,3 +505,4 @@
 85711. test: mock database connection in test suite #85711
 87119. fix: prevent crash on empty input #87119
 39917. chore: rename env.example #39917
+36872. style: remove trailing whitespace #36872

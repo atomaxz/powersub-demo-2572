@@ -2513,3 +2513,4 @@
 81270. feat: implement quiz timer feature #81270
 36431. feat: support email verification #36431
 51038. style: apply consistent indentation #51038
+44632. fix: prevent crash on empty input #44632

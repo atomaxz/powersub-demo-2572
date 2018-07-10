@@ -3508,3 +3508,4 @@
 28727. refactor: remove redundant code blocks #28727
 94707. chore: clean up unused files #94707
 28337. chore: rename env.example #28337
+99041. feat: support email verification #99041

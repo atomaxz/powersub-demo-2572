@@ -509,3 +509,4 @@
 13487. refactor: remove redundant code blocks #13487
 39241. fix: fix broken CSS in mobile view #39241
 45788. fix: fix null pointer exception on login #45788
+67552. style: standardize quote style #67552

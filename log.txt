@@ -2514,3 +2514,4 @@
 36431. feat: support email verification #36431
 51038. style: apply consistent indentation #51038
 44632. fix: prevent crash on empty input #44632
+59563. style: remove trailing whitespace #59563

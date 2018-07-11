@@ -511,3 +511,4 @@
 45788. fix: fix null pointer exception on login #45788
 67552. style: standardize quote style #67552
 65324. fix: handle 500 error in quiz API #65324
+22049. fix: fix broken CSS in mobile view #22049

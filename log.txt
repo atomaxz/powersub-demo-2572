@@ -1526,3 +1526,4 @@
 21138. refactor: clean up auth middleware #21138
 43829. feat: add export to CSV option #43829
 15094. feat: enable dark mode toggle #15094
+25133. chore: update .gitignore #25133

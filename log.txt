@@ -512,3 +512,4 @@
 67552. style: standardize quote style #67552
 65324. fix: handle 500 error in quiz API #65324
 22049. fix: fix broken CSS in mobile view #22049
+23747. feat: support email verification #23747

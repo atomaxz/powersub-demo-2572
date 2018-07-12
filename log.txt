@@ -3512,3 +3512,4 @@
 87777. feat: add export to CSV option #87777
 35796. refactor: clean up auth middleware #35796
 78436. chore: add GitHub actions badge #78436
+56908. chore: rename env.example #56908

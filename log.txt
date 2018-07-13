@@ -3520,3 +3520,4 @@
 28469. chore: add GitHub actions badge #28469
 16066. refactor: split large controller into smaller functions #16066
 44655. docs: add API usage examples #44655
+85405. feat: enable dark mode toggle #85405

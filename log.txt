@@ -1530,3 +1530,4 @@
 71268. test: add unit test for quiz service #71268
 25428. chore: rename env.example #25428
 31449. refactor: split large controller into smaller functions #31449
+66239. perf: lazy-load components #66239

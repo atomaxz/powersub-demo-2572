@@ -3522,3 +3522,4 @@
 44655. docs: add API usage examples #44655
 85405. feat: enable dark mode toggle #85405
 21445. feat: create admin dashboard #21445
+6406. chore: add GitHub actions badge #6406

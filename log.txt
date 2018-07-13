@@ -2521,3 +2521,4 @@
 99317. refactor: remove redundant code blocks #99317
 54293. refactor: remove redundant code blocks #54293
 45031. feat: implement quiz timer feature #45031
+76238. test: increase coverage on auth module #76238

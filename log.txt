@@ -1535,3 +1535,4 @@
 9268. chore: bump dependencies #9268
 95772. feat: enable dark mode toggle #95772
 37382. chore: bump dependencies #37382
+51027. chore: rename env.example #51027

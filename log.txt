@@ -3524,3 +3524,4 @@
 21445. feat: create admin dashboard #21445
 6406. chore: add GitHub actions badge #6406
 53205. style: reformat files with black #53205
+28218. fix: fix null pointer exception on login #28218

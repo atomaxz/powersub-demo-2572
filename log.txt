@@ -521,3 +521,4 @@
 8543. style: remove trailing whitespace #8543
 40417. refactor: clean up auth middleware #40417
 58301. fix: fix broken CSS in mobile view #58301
+20293. style: reformat files with black #20293

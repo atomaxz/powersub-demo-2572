@@ -2535,3 +2535,4 @@
 77791. chore: update .gitignore #77791
 97251. docs: add API usage examples #97251
 72518. docs: update README with setup steps #72518
+75988. perf: cache repeated calculations #75988

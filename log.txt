@@ -1537,3 +1537,4 @@
 37382. chore: bump dependencies #37382
 51027. chore: rename env.example #51027
 4195. docs: update README with setup steps #4195
+36052. chore: rename env.example #36052

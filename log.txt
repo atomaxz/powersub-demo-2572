@@ -1543,3 +1543,4 @@
 65097. chore: clean up unused files #65097
 92087. style: reformat files with black #92087
 76124. fix: fix broken CSS in mobile view #76124
+2110. refactor: split large controller into smaller functions #2110

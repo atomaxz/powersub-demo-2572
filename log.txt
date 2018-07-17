@@ -3531,3 +3531,4 @@
 13297. test: add integration test for /submit endpoint #13297
 3485. test: add unit test for quiz service #3485
 26563. chore: clean up unused files #26563
+43233. test: increase coverage on auth module #43233

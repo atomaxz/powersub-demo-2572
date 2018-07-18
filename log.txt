@@ -526,3 +526,4 @@
 78178. refactor: split large controller into smaller functions #78178
 71501. test: increase coverage on auth module #71501
 71759. fix: correct typo in registration form #71759
+50444. style: remove trailing whitespace #50444

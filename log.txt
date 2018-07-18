@@ -2540,3 +2540,4 @@
 80525. test: add integration test for /submit endpoint #80525
 87734. chore: rename env.example #87734
 13107. chore: rename env.example #13107
+74963. fix: handle 500 error in quiz API #74963

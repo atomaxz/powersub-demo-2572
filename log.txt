@@ -528,3 +528,4 @@
 71759. fix: correct typo in registration form #71759
 50444. style: remove trailing whitespace #50444
 77953. feat: create admin dashboard #77953
+49449. perf: lazy-load components #49449

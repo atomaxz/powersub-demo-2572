@@ -1551,3 +1551,4 @@
 66169. docs: clarify environment setup #66169
 48877. test: increase coverage on auth module #48877
 44588. style: reformat files with black #44588
+70815. perf: optimize database query for quiz results #70815

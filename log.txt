@@ -531,3 +531,4 @@
 49449. perf: lazy-load components #49449
 22797. perf: cache repeated calculations #22797
 63467. chore: clean up unused files #63467
+59476. feat: create admin dashboard #59476

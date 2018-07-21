@@ -2542,3 +2542,4 @@
 13107. chore: rename env.example #13107
 74963. fix: handle 500 error in quiz API #74963
 96074. test: test user registration edge cases #96074
+41193. fix: prevent crash on empty input #41193

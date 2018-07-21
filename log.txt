@@ -1555,3 +1555,4 @@
 96579. docs: write FAQ section #96579
 22957. fix: correct typo in registration form #22957
 24799. perf: cache repeated calculations #24799
+5315. style: apply consistent indentation #5315

@@ -2544,3 +2544,4 @@
 96074. test: test user registration edge cases #96074
 41193. fix: prevent crash on empty input #41193
 87071. chore: clean up unused files #87071
+17162. feat: add user authentication #17162

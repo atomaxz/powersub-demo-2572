@@ -540,3 +540,4 @@
 29174. chore: bump dependencies #29174
 88621. feat: support email verification #88621
 57033. refactor: split large controller into smaller functions #57033
+1140. chore: bump dependencies #1140

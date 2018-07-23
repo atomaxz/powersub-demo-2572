@@ -2545,3 +2545,4 @@
 41193. fix: prevent crash on empty input #41193
 87071. chore: clean up unused files #87071
 17162. feat: add user authentication #17162
+1395. docs: document token refresh logic #1395

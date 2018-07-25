@@ -2551,3 +2551,4 @@
 6705. style: reformat files with black #6705
 44399. docs: improve code comments in utils #44399
 14928. style: reformat files with black #14928
+69623. fix: fix null pointer exception on login #69623

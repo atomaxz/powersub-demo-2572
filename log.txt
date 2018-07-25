@@ -2553,3 +2553,4 @@
 14928. style: reformat files with black #14928
 69623. fix: fix null pointer exception on login #69623
 36698. fix: resolve issue with date parsing #36698
+98074. perf: lazy-load components #98074

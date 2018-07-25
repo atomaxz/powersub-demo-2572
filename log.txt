@@ -549,3 +549,4 @@
 90579. docs: update README with setup steps #90579
 49294. feat: support email verification #49294
 81373. feat: create admin dashboard #81373
+4012. test: test user registration edge cases #4012

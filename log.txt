@@ -3552,3 +3552,4 @@
 38327. style: apply consistent indentation #38327
 42125. refactor: remove redundant code blocks #42125
 71982. fix: correct typo in registration form #71982
+58335. docs: add API usage examples #58335

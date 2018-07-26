@@ -3553,3 +3553,4 @@
 42125. refactor: remove redundant code blocks #42125
 71982. fix: correct typo in registration form #71982
 58335. docs: add API usage examples #58335
+64755. style: remove trailing whitespace #64755

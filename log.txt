@@ -1567,3 +1567,4 @@
 20848. chore: clean up unused files #20848
 20851. chore: rename env.example #20851
 62499. feat: implement quiz timer feature #62499
+62611. perf: optimize database query for quiz results #62611

@@ -1569,3 +1569,4 @@
 62499. feat: implement quiz timer feature #62499
 62611. perf: optimize database query for quiz results #62611
 10352. fix: correct typo in registration form #10352
+40382. refactor: refactor quiz grading logic #40382

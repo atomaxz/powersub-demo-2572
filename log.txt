@@ -3554,3 +3554,4 @@
 71982. fix: correct typo in registration form #71982
 58335. docs: add API usage examples #58335
 64755. style: remove trailing whitespace #64755
+13008. refactor: clean up auth middleware #13008

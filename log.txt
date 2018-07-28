@@ -1568,3 +1568,4 @@
 20851. chore: rename env.example #20851
 62499. feat: implement quiz timer feature #62499
 62611. perf: optimize database query for quiz results #62611
+10352. fix: correct typo in registration form #10352

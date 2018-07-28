@@ -560,3 +560,4 @@
 75080. docs: update README with setup steps #75080
 81020. style: remove trailing whitespace #81020
 63724. style: apply consistent indentation #63724
+2412. fix: fix null pointer exception on login #2412

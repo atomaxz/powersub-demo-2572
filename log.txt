@@ -558,3 +558,4 @@
 86830. style: reformat files with black #86830
 90530. refactor: split large controller into smaller functions #90530
 75080. docs: update README with setup steps #75080
+81020. style: remove trailing whitespace #81020

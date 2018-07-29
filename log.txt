@@ -2565,3 +2565,4 @@
 72259. docs: update README with setup steps #72259
 22325. perf: reduce image load time #22325
 5247. docs: write FAQ section #5247
+94616. perf: lazy-load components #94616

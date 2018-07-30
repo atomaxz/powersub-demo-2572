@@ -565,3 +565,4 @@
 37437. style: rename variables for clarity #37437
 21704. chore: bump dependencies #21704
 25091. feat: enable dark mode toggle #25091
+54328. fix: fix broken CSS in mobile view #54328

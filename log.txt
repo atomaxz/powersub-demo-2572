@@ -2571,3 +2571,4 @@
 85084. fix: handle 500 error in quiz API #85084
 85777. test: test user registration edge cases #85777
 90313. test: add unit test for quiz service #90313
+10973. docs: update README with setup steps #10973

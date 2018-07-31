@@ -572,3 +572,4 @@
 49163. refactor: clean up auth middleware #49163
 44359. refactor: refactor quiz grading logic #44359
 50800. feat: create admin dashboard #50800
+76994. test: increase coverage on auth module #76994

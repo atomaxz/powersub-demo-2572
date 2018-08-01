@@ -574,3 +574,4 @@
 50800. feat: create admin dashboard #50800
 76994. test: increase coverage on auth module #76994
 92917. fix: correct typo in registration form #92917
+66695. fix: prevent crash on empty input #66695

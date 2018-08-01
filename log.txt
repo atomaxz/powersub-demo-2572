@@ -1581,3 +1581,4 @@
 91922. test: add integration test for /submit endpoint #91922
 4630. test: test user registration edge cases #4630
 43157. chore: add GitHub actions badge #43157
+82755. test: add unit test for quiz service #82755

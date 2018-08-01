@@ -1582,3 +1582,4 @@
 4630. test: test user registration edge cases #4630
 43157. chore: add GitHub actions badge #43157
 82755. test: add unit test for quiz service #82755
+90501. style: remove trailing whitespace #90501

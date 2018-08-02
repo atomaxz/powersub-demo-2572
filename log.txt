@@ -2576,3 +2576,4 @@
 57283. test: increase coverage on auth module #57283
 61378. docs: clarify environment setup #61378
 49739. chore: add GitHub actions badge #49739
+81216. refactor: organize models into subfolders #81216

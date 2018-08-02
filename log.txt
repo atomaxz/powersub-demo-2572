@@ -576,3 +576,4 @@
 92917. fix: correct typo in registration form #92917
 66695. fix: prevent crash on empty input #66695
 74592. feat: add export to CSV option #74592
+74028. refactor: refactor quiz grading logic #74028

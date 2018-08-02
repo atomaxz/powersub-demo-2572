@@ -2575,3 +2575,4 @@
 41014. perf: lazy-load components #41014
 57283. test: increase coverage on auth module #57283
 61378. docs: clarify environment setup #61378
+49739. chore: add GitHub actions badge #49739

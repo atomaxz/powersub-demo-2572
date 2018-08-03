@@ -3564,3 +3564,4 @@
 58325. feat: create admin dashboard #58325
 37084. chore: bump dependencies #37084
 93839. fix: correct typo in registration form #93839
+22187. refactor: remove redundant code blocks #22187

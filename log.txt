@@ -581,3 +581,4 @@
 3160. test: test user registration edge cases #3160
 53371. perf: cache repeated calculations #53371
 40729. perf: cache repeated calculations #40729
+49932. fix: fix broken CSS in mobile view #49932

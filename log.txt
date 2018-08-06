@@ -585,3 +585,4 @@
 34365. fix: handle 500 error in quiz API #34365
 40530. fix: fix broken CSS in mobile view #40530
 41652. style: apply consistent indentation #41652
+88549. style: standardize quote style #88549

@@ -1593,3 +1593,4 @@
 46959. docs: document token refresh logic #46959
 89198. fix: fix broken CSS in mobile view #89198
 77962. test: mock database connection in test suite #77962
+83359. test: increase coverage on auth module #83359

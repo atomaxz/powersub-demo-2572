@@ -3570,3 +3570,4 @@
 63961. test: mock database connection in test suite #63961
 49553. chore: clean up unused files #49553
 49508. docs: write FAQ section #49508
+73310. docs: update README with setup steps #73310

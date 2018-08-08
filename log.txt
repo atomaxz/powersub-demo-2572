@@ -1598,3 +1598,4 @@
 55639. fix: prevent crash on empty input #55639
 52051. feat: create admin dashboard #52051
 56187. feat: implement quiz timer feature #56187
+96689. docs: update README with setup steps #96689

@@ -588,3 +588,4 @@
 88549. style: standardize quote style #88549
 79416. feat: add export to CSV option #79416
 5329. perf: optimize database query for quiz results #5329
+32358. fix: fix null pointer exception on login #32358

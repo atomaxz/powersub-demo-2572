@@ -1603,3 +1603,4 @@
 8788. fix: resolve issue with date parsing #8788
 33082. perf: lazy-load components #33082
 44293. refactor: split large controller into smaller functions #44293
+37958. style: remove trailing whitespace #37958

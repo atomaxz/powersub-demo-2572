@@ -2596,3 +2596,4 @@
 27566. style: apply consistent indentation #27566
 24066. docs: add API usage examples #24066
 9588. style: reformat files with black #9588
+15755. test: mock database connection in test suite #15755

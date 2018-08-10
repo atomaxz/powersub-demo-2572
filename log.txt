@@ -1606,3 +1606,4 @@
 37958. style: remove trailing whitespace #37958
 91993. test: increase coverage on auth module #91993
 14819. perf: optimize database query for quiz results #14819
+16576. fix: handle 500 error in quiz API #16576

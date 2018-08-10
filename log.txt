@@ -1605,3 +1605,4 @@
 44293. refactor: split large controller into smaller functions #44293
 37958. style: remove trailing whitespace #37958
 91993. test: increase coverage on auth module #91993
+14819. perf: optimize database query for quiz results #14819

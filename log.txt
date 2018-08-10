@@ -597,3 +597,4 @@
 98328. test: add integration test for /submit endpoint #98328
 40458. feat: add export to CSV option #40458
 90871. chore: bump dependencies #90871
+42886. feat: add user authentication #42886

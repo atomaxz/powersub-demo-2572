@@ -1604,3 +1604,4 @@
 33082. perf: lazy-load components #33082
 44293. refactor: split large controller into smaller functions #44293
 37958. style: remove trailing whitespace #37958
+91993. test: increase coverage on auth module #91993

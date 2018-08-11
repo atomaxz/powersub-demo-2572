@@ -1611,3 +1611,4 @@
 87496. feat: add user authentication #87496
 22353. feat: create admin dashboard #22353
 81208. fix: prevent crash on empty input #81208
+58640. fix: handle 500 error in quiz API #58640

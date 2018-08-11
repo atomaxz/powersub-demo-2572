@@ -3575,3 +3575,4 @@
 74238. refactor: remove redundant code blocks #74238
 68229. refactor: remove redundant code blocks #68229
 85993. refactor: organize models into subfolders #85993
+89975. fix: handle 500 error in quiz API #89975

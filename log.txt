@@ -2601,3 +2601,4 @@
 55357. test: increase coverage on auth module #55357
 38781. perf: cache repeated calculations #38781
 52091. refactor: clean up auth middleware #52091
+11875. feat: add user authentication #11875

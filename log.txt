@@ -2602,3 +2602,4 @@
 38781. perf: cache repeated calculations #38781
 52091. refactor: clean up auth middleware #52091
 11875. feat: add user authentication #11875
+73208. fix: prevent crash on empty input #73208

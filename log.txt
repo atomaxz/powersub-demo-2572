@@ -1613,3 +1613,4 @@
 81208. fix: prevent crash on empty input #81208
 58640. fix: handle 500 error in quiz API #58640
 6050. feat: add user authentication #6050
+37397. refactor: refactor quiz grading logic #37397

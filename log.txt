@@ -2605,3 +2605,4 @@
 73208. fix: prevent crash on empty input #73208
 50550. feat: support email verification #50550
 82621. style: standardize quote style #82621
+55720. chore: update .gitignore #55720

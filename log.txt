@@ -1614,3 +1614,4 @@
 58640. fix: handle 500 error in quiz API #58640
 6050. feat: add user authentication #6050
 37397. refactor: refactor quiz grading logic #37397
+26836. test: mock database connection in test suite #26836

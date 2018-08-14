@@ -607,3 +607,4 @@
 14984. refactor: clean up auth middleware #14984
 89157. style: reformat files with black #89157
 82301. test: test user registration edge cases #82301
+42458. test: add integration test for /submit endpoint #42458

@@ -1622,3 +1622,4 @@
 21662. refactor: organize models into subfolders #21662
 7418. feat: implement quiz timer feature #7418
 5934. refactor: organize models into subfolders #5934
+18969. fix: handle 500 error in quiz API #18969

@@ -3586,3 +3586,4 @@
 14720. style: remove trailing whitespace #14720
 69870. docs: document token refresh logic #69870
 96888. test: test user registration edge cases #96888
+13686. docs: clarify environment setup #13686

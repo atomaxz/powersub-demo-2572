@@ -3588,3 +3588,4 @@
 96888. test: test user registration edge cases #96888
 13686. docs: clarify environment setup #13686
 61092. perf: cache repeated calculations #61092
+62403. docs: add API usage examples #62403

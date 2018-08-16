@@ -613,3 +613,4 @@
 18000. refactor: organize models into subfolders #18000
 46155. test: add unit test for quiz service #46155
 84384. fix: resolve issue with date parsing #84384
+12290. test: mock database connection in test suite #12290

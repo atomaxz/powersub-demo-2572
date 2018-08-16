@@ -1629,3 +1629,4 @@
 40162. chore: rename env.example #40162
 78077. refactor: remove redundant code blocks #78077
 91289. perf: lazy-load components #91289
+81022. fix: fix broken CSS in mobile view #81022

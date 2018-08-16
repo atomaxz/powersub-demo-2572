@@ -3598,3 +3598,4 @@
 17798. refactor: split large controller into smaller functions #17798
 31220. docs: write FAQ section #31220
 92269. style: remove trailing whitespace #92269
+31258. fix: handle 500 error in quiz API #31258

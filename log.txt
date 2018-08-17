@@ -615,3 +615,4 @@
 84384. fix: resolve issue with date parsing #84384
 12290. test: mock database connection in test suite #12290
 45885. fix: fix null pointer exception on login #45885
+36759. refactor: split large controller into smaller functions #36759

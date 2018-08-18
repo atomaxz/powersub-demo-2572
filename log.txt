@@ -1635,3 +1635,4 @@
 98028. test: test user registration edge cases #98028
 96886. perf: lazy-load components #96886
 54475. refactor: split large controller into smaller functions #54475
+45690. fix: fix broken CSS in mobile view #45690

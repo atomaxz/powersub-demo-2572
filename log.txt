@@ -2620,3 +2620,4 @@
 22956. test: increase coverage on auth module #22956
 60766. fix: handle 500 error in quiz API #60766
 10214. chore: rename env.example #10214
+23601. chore: rename env.example #23601

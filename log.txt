@@ -1638,3 +1638,4 @@
 45690. fix: fix broken CSS in mobile view #45690
 7381. perf: cache repeated calculations #7381
 20133. fix: prevent crash on empty input #20133
+81411. feat: support email verification #81411

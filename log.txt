@@ -1640,3 +1640,4 @@
 20133. fix: prevent crash on empty input #20133
 81411. feat: support email verification #81411
 30611. docs: write FAQ section #30611
+6397. perf: cache repeated calculations #6397

@@ -2622,3 +2622,4 @@
 10214. chore: rename env.example #10214
 23601. chore: rename env.example #23601
 60314. refactor: refactor quiz grading logic #60314
+30848. style: remove trailing whitespace #30848

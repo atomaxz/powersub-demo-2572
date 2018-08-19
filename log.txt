@@ -619,3 +619,4 @@
 81090. test: mock database connection in test suite #81090
 40216. perf: lazy-load components #40216
 98587. perf: reduce image load time #98587
+52117. chore: clean up unused files #52117

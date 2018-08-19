@@ -2625,3 +2625,4 @@
 30848. style: remove trailing whitespace #30848
 65084. refactor: refactor quiz grading logic #65084
 31490. test: add integration test for /submit endpoint #31490
+4934. chore: add GitHub actions badge #4934

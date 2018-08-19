@@ -623,3 +623,4 @@
 63690. docs: add API usage examples #63690
 55367. perf: cache repeated calculations #55367
 52392. feat: add user authentication #52392
+26706. perf: optimize database query for quiz results #26706

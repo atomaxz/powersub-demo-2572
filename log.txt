@@ -3606,3 +3606,4 @@
 80191. style: rename variables for clarity #80191
 68033. style: apply consistent indentation #68033
 29322. fix: fix broken CSS in mobile view #29322
+92492. perf: reduce image load time #92492

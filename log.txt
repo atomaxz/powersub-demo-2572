@@ -3608,3 +3608,4 @@
 29322. fix: fix broken CSS in mobile view #29322
 92492. perf: reduce image load time #92492
 40701. style: reformat files with black #40701
+31461. docs: clarify environment setup #31461

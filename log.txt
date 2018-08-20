@@ -3610,3 +3610,4 @@
 40701. style: reformat files with black #40701
 31461. docs: clarify environment setup #31461
 14636. test: add integration test for /submit endpoint #14636
+86774. refactor: refactor quiz grading logic #86774

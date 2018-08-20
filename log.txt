@@ -1645,3 +1645,4 @@
 97588. perf: reduce image load time #97588
 66795. docs: write FAQ section #66795
 19083. style: apply consistent indentation #19083
+77981. docs: add API usage examples #77981

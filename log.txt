@@ -1641,3 +1641,4 @@
 81411. feat: support email verification #81411
 30611. docs: write FAQ section #30611
 6397. perf: cache repeated calculations #6397
+18393. refactor: organize models into subfolders #18393

@@ -3614,3 +3614,4 @@
 74301. feat: add user authentication #74301
 94518. refactor: remove redundant code blocks #94518
 2261. perf: cache repeated calculations #2261
+76417. fix: handle 500 error in quiz API #76417

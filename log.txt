@@ -632,3 +632,4 @@
 97141. perf: cache repeated calculations #97141
 11444. feat: add export to CSV option #11444
 80408. perf: lazy-load components #80408
+55979. perf: optimize database query for quiz results #55979

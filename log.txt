@@ -2629,3 +2629,4 @@
 4662. refactor: organize models into subfolders #4662
 3828. chore: bump dependencies #3828
 32301. chore: clean up unused files #32301
+35070. perf: optimize database query for quiz results #35070

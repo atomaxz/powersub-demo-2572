@@ -1648,3 +1648,4 @@
 77981. docs: add API usage examples #77981
 36610. docs: write FAQ section #36610
 47354. perf: lazy-load components #47354
+86875. docs: update README with setup steps #86875

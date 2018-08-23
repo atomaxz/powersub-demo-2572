@@ -1651,3 +1651,4 @@
 86875. docs: update README with setup steps #86875
 44938. style: standardize quote style #44938
 99907. feat: support email verification #99907
+61667. chore: update .gitignore #61667

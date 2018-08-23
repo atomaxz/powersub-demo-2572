@@ -635,3 +635,4 @@
 55979. perf: optimize database query for quiz results #55979
 72592. test: test user registration edge cases #72592
 22876. perf: reduce image load time #22876
+85589. feat: support email verification #85589

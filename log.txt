@@ -3622,3 +3622,4 @@
 59849. style: reformat files with black #59849
 82737. docs: add API usage examples #82737
 27866. chore: rename env.example #27866
+8325. perf: lazy-load components #8325

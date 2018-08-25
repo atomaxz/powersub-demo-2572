@@ -638,3 +638,4 @@
 85589. feat: support email verification #85589
 57043. perf: cache repeated calculations #57043
 9619. docs: write FAQ section #9619
+91964. perf: optimize database query for quiz results #91964

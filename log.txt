@@ -3626,3 +3626,4 @@
 96433. style: apply consistent indentation #96433
 20501. perf: cache repeated calculations #20501
 60810. test: test user registration edge cases #60810
+27101. perf: optimize database query for quiz results #27101

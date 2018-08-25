@@ -3634,3 +3634,4 @@
 22896. docs: write FAQ section #22896
 51103. fix: fix broken CSS in mobile view #51103
 55140. refactor: clean up auth middleware #55140
+65535. feat: support email verification #65535

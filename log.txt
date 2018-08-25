@@ -3632,3 +3632,4 @@
 2993. style: standardize quote style #2993
 4539. docs: clarify environment setup #4539
 22896. docs: write FAQ section #22896
+51103. fix: fix broken CSS in mobile view #51103

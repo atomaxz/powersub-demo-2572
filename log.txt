@@ -1657,3 +1657,4 @@
 33068. chore: add GitHub actions badge #33068
 5884. test: increase coverage on auth module #5884
 46755. feat: add export to CSV option #46755
+85742. refactor: clean up auth middleware #85742

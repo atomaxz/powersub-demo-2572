@@ -3639,3 +3639,4 @@
 64298. docs: add API usage examples #64298
 98631. test: add integration test for /submit endpoint #98631
 16180. chore: bump dependencies #16180
+71623. test: increase coverage on auth module #71623

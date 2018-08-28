@@ -1661,3 +1661,4 @@
 90942. refactor: refactor quiz grading logic #90942
 24078. chore: clean up unused files #24078
 92314. docs: improve code comments in utils #92314
+88956. test: increase coverage on auth module #88956

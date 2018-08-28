@@ -3641,3 +3641,4 @@
 16180. chore: bump dependencies #16180
 71623. test: increase coverage on auth module #71623
 98060. feat: add user authentication #98060
+23392. feat: add export to CSV option #23392

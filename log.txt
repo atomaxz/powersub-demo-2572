@@ -647,3 +647,4 @@
 71090. chore: clean up unused files #71090
 8509. feat: implement quiz timer feature #8509
 18477. refactor: remove redundant code blocks #18477
+25363. perf: lazy-load components #25363

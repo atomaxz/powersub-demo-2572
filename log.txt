@@ -2645,3 +2645,4 @@
 97528. refactor: remove redundant code blocks #97528
 52576. perf: reduce image load time #52576
 24245. docs: write FAQ section #24245
+65200. chore: update .gitignore #65200

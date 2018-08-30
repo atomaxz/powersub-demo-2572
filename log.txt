@@ -2650,3 +2650,4 @@
 5539. docs: clarify environment setup #5539
 11144. style: remove trailing whitespace #11144
 17364. refactor: organize models into subfolders #17364
+39574. feat: enable dark mode toggle #39574

@@ -1667,3 +1667,4 @@
 93650. style: reformat files with black #93650
 4862. refactor: remove redundant code blocks #4862
 91459. perf: lazy-load components #91459
+28436. style: apply consistent indentation #28436

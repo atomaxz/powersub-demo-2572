@@ -652,3 +652,4 @@
 34263. fix: fix null pointer exception on login #34263
 73808. test: add integration test for /submit endpoint #73808
 11091. fix: prevent crash on empty input #11091
+82141. test: test user registration edge cases #82141

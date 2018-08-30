@@ -3643,3 +3643,4 @@
 98060. feat: add user authentication #98060
 23392. feat: add export to CSV option #23392
 2184. refactor: split large controller into smaller functions #2184
+83859. chore: bump dependencies #83859

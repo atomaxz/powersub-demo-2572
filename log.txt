@@ -3649,3 +3649,4 @@
 26103. refactor: remove redundant code blocks #26103
 42377. refactor: refactor quiz grading logic #42377
 12257. feat: create admin dashboard #12257
+51334. fix: prevent crash on empty input #51334

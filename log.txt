@@ -1677,3 +1677,4 @@
 81921. chore: rename env.example #81921
 45200. fix: handle 500 error in quiz API #45200
 39979. refactor: split large controller into smaller functions #39979
+69131. chore: bump dependencies #69131

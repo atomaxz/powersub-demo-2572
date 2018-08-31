@@ -2652,3 +2652,4 @@
 17364. refactor: organize models into subfolders #17364
 39574. feat: enable dark mode toggle #39574
 85046. test: mock database connection in test suite #85046
+31278. fix: prevent crash on empty input #31278

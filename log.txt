@@ -1675,3 +1675,4 @@
 48516. style: rename variables for clarity #48516
 22951. style: apply consistent indentation #22951
 81921. chore: rename env.example #81921
+45200. fix: handle 500 error in quiz API #45200

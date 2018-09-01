@@ -656,3 +656,4 @@
 36684. feat: add export to CSV option #36684
 62614. chore: rename env.example #62614
 20400. style: apply consistent indentation #20400
+10319. test: increase coverage on auth module #10319

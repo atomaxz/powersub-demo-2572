@@ -3657,3 +3657,4 @@
 8004. docs: improve code comments in utils #8004
 83689. chore: rename env.example #83689
 1720. test: mock database connection in test suite #1720
+40129. test: test user registration edge cases #40129

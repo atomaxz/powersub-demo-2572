@@ -657,3 +657,4 @@
 62614. chore: rename env.example #62614
 20400. style: apply consistent indentation #20400
 10319. test: increase coverage on auth module #10319
+75756. fix: correct typo in registration form #75756

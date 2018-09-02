@@ -1680,3 +1680,4 @@
 69131. chore: bump dependencies #69131
 25004. feat: add user authentication #25004
 8196. test: add integration test for /submit endpoint #8196
+86771. feat: add user authentication #86771

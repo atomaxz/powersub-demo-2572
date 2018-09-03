@@ -2668,3 +2668,4 @@
 52936. refactor: split large controller into smaller functions #52936
 82995. refactor: remove redundant code blocks #82995
 80654. style: reformat files with black #80654
+56847. feat: create admin dashboard #56847

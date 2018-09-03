@@ -2663,3 +2663,4 @@
 14196. chore: bump dependencies #14196
 61714. perf: optimize database query for quiz results #61714
 68406. docs: write FAQ section #68406
+52281. fix: correct typo in registration form #52281

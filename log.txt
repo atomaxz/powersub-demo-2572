@@ -2669,3 +2669,4 @@
 82995. refactor: remove redundant code blocks #82995
 80654. style: reformat files with black #80654
 56847. feat: create admin dashboard #56847
+26368. test: mock database connection in test suite #26368

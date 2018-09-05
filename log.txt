@@ -2671,3 +2671,4 @@
 56847. feat: create admin dashboard #56847
 26368. test: mock database connection in test suite #26368
 89689. test: mock database connection in test suite #89689
+87748. style: apply consistent indentation #87748

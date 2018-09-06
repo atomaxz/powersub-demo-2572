@@ -664,3 +664,4 @@
 65157. test: add unit test for quiz service #65157
 53743. docs: update README with setup steps #53743
 44076. perf: cache repeated calculations #44076
+26825. refactor: clean up auth middleware #26825

@@ -2682,3 +2682,4 @@
 71296. docs: write FAQ section #71296
 98141. test: increase coverage on auth module #98141
 29155. feat: create admin dashboard #29155
+31789. refactor: clean up auth middleware #31789

@@ -2679,3 +2679,4 @@
 19936. perf: optimize database query for quiz results #19936
 71846. refactor: clean up auth middleware #71846
 8898. feat: add user authentication #8898
+71296. docs: write FAQ section #71296

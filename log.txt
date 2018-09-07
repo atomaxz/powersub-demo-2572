@@ -668,3 +668,4 @@
 50942. chore: rename env.example #50942
 8635. feat: add user authentication #8635
 83786. feat: enable dark mode toggle #83786
+81763. style: remove trailing whitespace #81763

@@ -666,3 +666,4 @@
 44076. perf: cache repeated calculations #44076
 26825. refactor: clean up auth middleware #26825
 50942. chore: rename env.example #50942
+8635. feat: add user authentication #8635

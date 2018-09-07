@@ -667,3 +667,4 @@
 26825. refactor: clean up auth middleware #26825
 50942. chore: rename env.example #50942
 8635. feat: add user authentication #8635
+83786. feat: enable dark mode toggle #83786

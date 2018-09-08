@@ -670,3 +670,4 @@
 83786. feat: enable dark mode toggle #83786
 81763. style: remove trailing whitespace #81763
 32109. style: standardize quote style #32109
+82813. docs: update README with setup steps #82813

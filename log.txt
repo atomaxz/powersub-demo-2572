@@ -1699,3 +1699,4 @@
 9707. perf: reduce image load time #9707
 86708. chore: bump dependencies #86708
 80364. style: standardize quote style #80364
+17520. refactor: organize models into subfolders #17520

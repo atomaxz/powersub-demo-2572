@@ -671,3 +671,4 @@
 81763. style: remove trailing whitespace #81763
 32109. style: standardize quote style #32109
 82813. docs: update README with setup steps #82813
+7599. perf: optimize database query for quiz results #7599

@@ -2685,3 +2685,4 @@
 31789. refactor: clean up auth middleware #31789
 33743. feat: enable dark mode toggle #33743
 1720. test: mock database connection in test suite #1720
+96354. fix: fix broken CSS in mobile view #96354

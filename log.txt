@@ -3672,3 +3672,4 @@
 87879. docs: add API usage examples #87879
 53597. refactor: remove redundant code blocks #53597
 52943. style: apply consistent indentation #52943
+81287. feat: create admin dashboard #81287

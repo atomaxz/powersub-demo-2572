@@ -673,3 +673,4 @@
 82813. docs: update README with setup steps #82813
 7599. perf: optimize database query for quiz results #7599
 88728. feat: add export to CSV option #88728
+66348. feat: add user authentication #66348

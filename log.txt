@@ -1703,3 +1703,4 @@
 7074. style: reformat files with black #7074
 16144. test: add integration test for /submit endpoint #16144
 74288. fix: prevent crash on empty input #74288
+66685. fix: handle 500 error in quiz API #66685

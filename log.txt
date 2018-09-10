@@ -2688,3 +2688,4 @@
 96354. fix: fix broken CSS in mobile view #96354
 96557. docs: clarify environment setup #96557
 69129. test: test user registration edge cases #69129
+31328. test: add unit test for quiz service #31328

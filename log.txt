@@ -3673,3 +3673,4 @@
 53597. refactor: remove redundant code blocks #53597
 52943. style: apply consistent indentation #52943
 81287. feat: create admin dashboard #81287
+36617. fix: fix null pointer exception on login #36617

@@ -680,3 +680,4 @@
 62173. refactor: split large controller into smaller functions #62173
 56998. refactor: refactor quiz grading logic #56998
 9513. perf: lazy-load components #9513
+96337. perf: reduce image load time #96337

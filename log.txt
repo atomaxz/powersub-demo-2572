@@ -2687,3 +2687,4 @@
 1720. test: mock database connection in test suite #1720
 96354. fix: fix broken CSS in mobile view #96354
 96557. docs: clarify environment setup #96557
+69129. test: test user registration edge cases #69129

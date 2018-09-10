@@ -1705,3 +1705,4 @@
 74288. fix: prevent crash on empty input #74288
 66685. fix: handle 500 error in quiz API #66685
 76948. refactor: split large controller into smaller functions #76948
+96593. style: remove trailing whitespace #96593

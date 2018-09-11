@@ -2694,3 +2694,4 @@
 58136. docs: document token refresh logic #58136
 9896. feat: enable dark mode toggle #9896
 70013. fix: fix broken CSS in mobile view #70013
+25225. test: test user registration edge cases #25225

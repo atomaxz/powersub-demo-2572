@@ -682,3 +682,4 @@
 9513. perf: lazy-load components #9513
 96337. perf: reduce image load time #96337
 28723. feat: enable dark mode toggle #28723
+55864. perf: optimize database query for quiz results #55864

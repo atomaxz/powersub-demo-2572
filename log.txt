@@ -2689,3 +2689,4 @@
 96557. docs: clarify environment setup #96557
 69129. test: test user registration edge cases #69129
 31328. test: add unit test for quiz service #31328
+35296. refactor: organize models into subfolders #35296

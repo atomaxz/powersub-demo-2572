@@ -1706,3 +1706,4 @@
 66685. fix: handle 500 error in quiz API #66685
 76948. refactor: split large controller into smaller functions #76948
 96593. style: remove trailing whitespace #96593
+26072. perf: lazy-load components #26072

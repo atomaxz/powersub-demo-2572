@@ -2696,3 +2696,4 @@
 70013. fix: fix broken CSS in mobile view #70013
 25225. test: test user registration edge cases #25225
 45063. fix: fix null pointer exception on login #45063
+5392. feat: support email verification #5392

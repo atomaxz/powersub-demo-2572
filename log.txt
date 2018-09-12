@@ -3677,3 +3677,4 @@
 92749. style: rename variables for clarity #92749
 87156. fix: handle 500 error in quiz API #87156
 73724. chore: update .gitignore #73724
+2936. feat: support email verification #2936

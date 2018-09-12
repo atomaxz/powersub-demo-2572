@@ -3676,3 +3676,4 @@
 36617. fix: fix null pointer exception on login #36617
 92749. style: rename variables for clarity #92749
 87156. fix: handle 500 error in quiz API #87156
+73724. chore: update .gitignore #73724

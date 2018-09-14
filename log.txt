@@ -1711,3 +1711,4 @@
 76074. feat: enable dark mode toggle #76074
 13991. style: standardize quote style #13991
 83894. docs: add API usage examples #83894
+18084. perf: reduce image load time #18084

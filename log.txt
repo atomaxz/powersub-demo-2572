@@ -2702,3 +2702,4 @@
 20691. chore: add GitHub actions badge #20691
 17648. chore: clean up unused files #17648
 99790. perf: optimize database query for quiz results #99790
+6182. perf: cache repeated calculations #6182

@@ -2706,3 +2706,4 @@
 81679. perf: cache repeated calculations #81679
 2288. feat: add user authentication #2288
 47237. chore: rename env.example #47237
+82078. docs: write FAQ section #82078

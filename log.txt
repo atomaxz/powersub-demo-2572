@@ -689,3 +689,4 @@
 53352. feat: add export to CSV option #53352
 49483. chore: update .gitignore #49483
 48939. perf: cache repeated calculations #48939
+30569. docs: update README with setup steps #30569

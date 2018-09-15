@@ -3685,3 +3685,4 @@
 63861. refactor: refactor quiz grading logic #63861
 21476. perf: cache repeated calculations #21476
 19085. chore: update .gitignore #19085
+76681. refactor: clean up auth middleware #76681

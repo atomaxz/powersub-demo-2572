@@ -3688,3 +3688,4 @@
 76681. refactor: clean up auth middleware #76681
 21605. fix: resolve issue with date parsing #21605
 34745. test: test user registration edge cases #34745
+58646. fix: prevent crash on empty input #58646

@@ -2712,3 +2712,4 @@
 98315. fix: resolve issue with date parsing #98315
 26773. refactor: organize models into subfolders #26773
 57439. feat: create admin dashboard #57439
+22586. feat: support email verification #22586

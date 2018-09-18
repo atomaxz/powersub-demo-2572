@@ -2716,3 +2716,4 @@
 98207. refactor: remove redundant code blocks #98207
 84746. test: add unit test for quiz service #84746
 27023. feat: implement quiz timer feature #27023
+10966. fix: fix broken CSS in mobile view #10966

@@ -695,3 +695,4 @@
 20308. feat: create admin dashboard #20308
 82687. fix: handle 500 error in quiz API #82687
 91588. test: test user registration edge cases #91588
+52426. style: reformat files with black #52426

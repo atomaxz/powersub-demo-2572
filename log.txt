@@ -1716,3 +1716,4 @@
 97315. style: standardize quote style #97315
 0499. fix: handle 500 error in quiz API #499
 8379. feat: add user authentication #8379
+59755. feat: enable dark mode toggle #59755

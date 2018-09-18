@@ -697,3 +697,4 @@
 91588. test: test user registration edge cases #91588
 52426. style: reformat files with black #52426
 84039. style: rename variables for clarity #84039
+68479. feat: support email verification #68479

@@ -3693,3 +3693,4 @@
 70625. perf: cache repeated calculations #70625
 53013. docs: add API usage examples #53013
 21252. refactor: remove redundant code blocks #21252
+11604. fix: prevent crash on empty input #11604

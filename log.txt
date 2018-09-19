@@ -700,3 +700,4 @@
 68479. feat: support email verification #68479
 8771. refactor: refactor quiz grading logic #8771
 14748. test: add integration test for /submit endpoint #14748
+38620. refactor: clean up auth middleware #38620

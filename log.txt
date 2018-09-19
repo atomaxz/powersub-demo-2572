@@ -2719,3 +2719,4 @@
 10966. fix: fix broken CSS in mobile view #10966
 83074. refactor: remove redundant code blocks #83074
 47201. feat: create admin dashboard #47201
+12516. fix: resolve issue with date parsing #12516

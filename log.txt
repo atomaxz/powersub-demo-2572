@@ -1719,3 +1719,4 @@
 59755. feat: enable dark mode toggle #59755
 7338. refactor: clean up auth middleware #7338
 82623. perf: lazy-load components #82623
+49823. docs: document token refresh logic #49823

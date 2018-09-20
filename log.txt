@@ -704,3 +704,4 @@
 81239. style: remove trailing whitespace #81239
 73101. refactor: organize models into subfolders #73101
 52971. perf: cache repeated calculations #52971
+98850. test: test user registration edge cases #98850

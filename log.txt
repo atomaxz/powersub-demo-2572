@@ -3700,3 +3700,4 @@
 60711. fix: prevent crash on empty input #60711
 7015. fix: correct typo in registration form #7015
 37303. docs: add API usage examples #37303
+56569. test: increase coverage on auth module #56569

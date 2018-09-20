@@ -2722,3 +2722,4 @@
 12516. fix: resolve issue with date parsing #12516
 68542. test: add unit test for quiz service #68542
 72641. chore: rename env.example #72641
+68333. fix: fix broken CSS in mobile view #68333

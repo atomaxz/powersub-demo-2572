@@ -701,3 +701,4 @@
 8771. refactor: refactor quiz grading logic #8771
 14748. test: add integration test for /submit endpoint #14748
 38620. refactor: clean up auth middleware #38620
+81239. style: remove trailing whitespace #81239

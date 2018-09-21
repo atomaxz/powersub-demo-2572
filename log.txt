@@ -706,3 +706,4 @@
 52971. perf: cache repeated calculations #52971
 98850. test: test user registration edge cases #98850
 9937. fix: resolve issue with date parsing #9937
+3893. perf: optimize database query for quiz results #3893

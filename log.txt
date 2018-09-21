@@ -2726,3 +2726,4 @@
 44048. fix: fix null pointer exception on login #44048
 89028. feat: add export to CSV option #89028
 9419. style: remove trailing whitespace #9419
+56533. fix: fix broken CSS in mobile view #56533

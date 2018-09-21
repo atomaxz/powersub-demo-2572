@@ -1727,3 +1727,4 @@
 70456. fix: fix null pointer exception on login #70456
 14707. feat: enable dark mode toggle #14707
 99256. refactor: split large controller into smaller functions #99256
+56706. style: standardize quote style #56706

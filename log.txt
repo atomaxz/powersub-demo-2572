@@ -2724,3 +2724,4 @@
 72641. chore: rename env.example #72641
 68333. fix: fix broken CSS in mobile view #68333
 44048. fix: fix null pointer exception on login #44048
+89028. feat: add export to CSV option #89028

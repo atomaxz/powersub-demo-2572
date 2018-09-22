@@ -3705,3 +3705,4 @@
 43211. test: increase coverage on auth module #43211
 92290. feat: enable dark mode toggle #92290
 72608. feat: enable dark mode toggle #72608
+41608. test: test user registration edge cases #41608

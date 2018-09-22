@@ -2729,3 +2729,4 @@
 56533. fix: fix broken CSS in mobile view #56533
 60775. fix: prevent crash on empty input #60775
 73243. chore: update .gitignore #73243
+2539. chore: update .gitignore #2539

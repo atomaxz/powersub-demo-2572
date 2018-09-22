@@ -3706,3 +3706,4 @@
 92290. feat: enable dark mode toggle #92290
 72608. feat: enable dark mode toggle #72608
 41608. test: test user registration edge cases #41608
+87714. chore: clean up unused files #87714

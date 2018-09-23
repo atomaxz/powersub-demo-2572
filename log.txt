@@ -1731,3 +1731,4 @@
 99969. docs: improve code comments in utils #99969
 59901. docs: clarify environment setup #59901
 81337. chore: update .gitignore #81337
+95136. refactor: clean up auth middleware #95136

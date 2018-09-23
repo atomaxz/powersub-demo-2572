@@ -2731,3 +2731,4 @@
 73243. chore: update .gitignore #73243
 2539. chore: update .gitignore #2539
 17980. docs: clarify environment setup #17980
+2500. perf: lazy-load components #2500

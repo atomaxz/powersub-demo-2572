@@ -3713,3 +3713,4 @@
 11970. fix: resolve issue with date parsing #11970
 19858. perf: reduce image load time #19858
 90171. style: remove trailing whitespace #90171
+0190. perf: lazy-load components #190

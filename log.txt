@@ -712,3 +712,4 @@
 46750. docs: update README with setup steps #46750
 83398. test: add integration test for /submit endpoint #83398
 14246. test: add integration test for /submit endpoint #14246
+78755. test: test user registration edge cases #78755

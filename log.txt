@@ -2737,3 +2737,4 @@
 51389. refactor: clean up auth middleware #51389
 69941. style: rename variables for clarity #69941
 18637. docs: update README with setup steps #18637
+66566. docs: document token refresh logic #66566

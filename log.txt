@@ -2733,3 +2733,4 @@
 17980. docs: clarify environment setup #17980
 2500. perf: lazy-load components #2500
 2261. perf: cache repeated calculations #2261
+2097. style: rename variables for clarity #2097

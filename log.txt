@@ -3721,3 +3721,4 @@
 6429. perf: reduce image load time #6429
 48785. docs: write FAQ section #48785
 43826. fix: fix null pointer exception on login #43826
+7734. feat: support email verification #7734

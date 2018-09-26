@@ -2740,3 +2740,4 @@
 66566. docs: document token refresh logic #66566
 36919. style: remove trailing whitespace #36919
 84384. fix: resolve issue with date parsing #84384
+87366. feat: support email verification #87366

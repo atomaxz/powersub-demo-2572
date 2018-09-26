@@ -3722,3 +3722,4 @@
 48785. docs: write FAQ section #48785
 43826. fix: fix null pointer exception on login #43826
 7734. feat: support email verification #7734
+84632. fix: handle 500 error in quiz API #84632

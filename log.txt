@@ -1743,3 +1743,4 @@
 77847. docs: add API usage examples #77847
 47362. feat: support email verification #47362
 62923. style: rename variables for clarity #62923
+77166. perf: cache repeated calculations #77166

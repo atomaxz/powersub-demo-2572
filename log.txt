@@ -1745,3 +1745,4 @@
 62923. style: rename variables for clarity #62923
 77166. perf: cache repeated calculations #77166
 17832. fix: prevent crash on empty input #17832
+58433. perf: cache repeated calculations #58433

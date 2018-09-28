@@ -1748,3 +1748,4 @@
 58433. perf: cache repeated calculations #58433
 74720. test: increase coverage on auth module #74720
 68339. test: add unit test for quiz service #68339
+3808. docs: add API usage examples #3808

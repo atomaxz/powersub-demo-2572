@@ -723,3 +723,4 @@
 15110. docs: improve code comments in utils #15110
 52172. fix: prevent crash on empty input #52172
 11977. fix: fix broken CSS in mobile view #11977
+11903. test: increase coverage on auth module #11903

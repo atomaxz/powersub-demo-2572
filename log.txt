@@ -1747,3 +1747,4 @@
 17832. fix: prevent crash on empty input #17832
 58433. perf: cache repeated calculations #58433
 74720. test: increase coverage on auth module #74720
+68339. test: add unit test for quiz service #68339

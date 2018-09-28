@@ -724,3 +724,4 @@
 52172. fix: prevent crash on empty input #52172
 11977. fix: fix broken CSS in mobile view #11977
 11903. test: increase coverage on auth module #11903
+74055. fix: handle 500 error in quiz API #74055

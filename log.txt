@@ -2743,3 +2743,4 @@
 87366. feat: support email verification #87366
 43932. test: add integration test for /submit endpoint #43932
 87190. docs: improve code comments in utils #87190
+45684. test: test user registration edge cases #45684

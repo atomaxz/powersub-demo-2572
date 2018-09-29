@@ -2748,3 +2748,4 @@
 67151. docs: document token refresh logic #67151
 79888. perf: cache repeated calculations #79888
 35525. docs: add API usage examples #35525
+89153. fix: correct typo in registration form #89153

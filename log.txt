@@ -1751,3 +1751,4 @@
 3808. docs: add API usage examples #3808
 45144. refactor: organize models into subfolders #45144
 90455. perf: reduce image load time #90455
+69122. style: reformat files with black #69122

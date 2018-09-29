@@ -1752,3 +1752,4 @@
 45144. refactor: organize models into subfolders #45144
 90455. perf: reduce image load time #90455
 69122. style: reformat files with black #69122
+22219. fix: fix broken CSS in mobile view #22219

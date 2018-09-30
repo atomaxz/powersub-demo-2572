@@ -726,3 +726,4 @@
 11903. test: increase coverage on auth module #11903
 74055. fix: handle 500 error in quiz API #74055
 84663. test: add unit test for quiz service #84663
+45501. perf: cache repeated calculations #45501

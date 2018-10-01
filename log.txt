@@ -2753,3 +2753,4 @@
 16965. refactor: refactor quiz grading logic #16965
 27170. docs: update README with setup steps #27170
 21010. docs: improve code comments in utils #21010
+25200. perf: lazy-load components #25200

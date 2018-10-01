@@ -2751,3 +2751,4 @@
 89153. fix: correct typo in registration form #89153
 70456. fix: fix null pointer exception on login #70456
 16965. refactor: refactor quiz grading logic #16965
+27170. docs: update README with setup steps #27170

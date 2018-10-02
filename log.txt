@@ -734,3 +734,4 @@
 36765. docs: clarify environment setup #36765
 42403. refactor: refactor quiz grading logic #42403
 29893. perf: lazy-load components #29893
+71020. test: test user registration edge cases #71020

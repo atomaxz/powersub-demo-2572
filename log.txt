@@ -1758,3 +1758,4 @@
 66407. docs: add API usage examples #66407
 39627. fix: resolve issue with date parsing #39627
 74340. feat: add export to CSV option #74340
+51662. perf: optimize database query for quiz results #51662

@@ -736,3 +736,4 @@
 29893. perf: lazy-load components #29893
 71020. test: test user registration edge cases #71020
 71688. docs: clarify environment setup #71688
+57678. fix: prevent crash on empty input #57678

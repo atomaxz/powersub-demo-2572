@@ -2758,3 +2758,4 @@
 92600. fix: resolve issue with date parsing #92600
 92277. docs: improve code comments in utils #92277
 17213. perf: lazy-load components #17213
+37276. perf: reduce image load time #37276

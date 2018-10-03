@@ -1760,3 +1760,4 @@
 74340. feat: add export to CSV option #74340
 51662. perf: optimize database query for quiz results #51662
 97564. style: standardize quote style #97564
+50324. feat: support email verification #50324

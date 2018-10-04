@@ -1766,3 +1766,4 @@
 58023. fix: prevent crash on empty input #58023
 19300. feat: add user authentication #19300
 91762. chore: clean up unused files #91762
+74788. feat: enable dark mode toggle #74788

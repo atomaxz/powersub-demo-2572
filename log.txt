@@ -739,3 +739,4 @@
 57678. fix: prevent crash on empty input #57678
 94377. perf: optimize database query for quiz results #94377
 60687. fix: handle 500 error in quiz API #60687
+19105. docs: clarify environment setup #19105

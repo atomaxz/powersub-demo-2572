@@ -3737,3 +3737,4 @@
 78206. test: add integration test for /submit endpoint #78206
 73127. chore: add GitHub actions badge #73127
 81670. docs: document token refresh logic #81670
+24628. feat: add user authentication #24628

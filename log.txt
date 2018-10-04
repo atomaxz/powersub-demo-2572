@@ -1767,3 +1767,4 @@
 19300. feat: add user authentication #19300
 91762. chore: clean up unused files #91762
 74788. feat: enable dark mode toggle #74788
+72928. feat: create admin dashboard #72928

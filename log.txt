@@ -1764,3 +1764,4 @@
 13065. refactor: organize models into subfolders #13065
 86978. feat: create admin dashboard #86978
 58023. fix: prevent crash on empty input #58023
+19300. feat: add user authentication #19300

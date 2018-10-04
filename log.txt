@@ -2761,3 +2761,4 @@
 37276. perf: reduce image load time #37276
 58689. test: add integration test for /submit endpoint #58689
 3989. chore: clean up unused files #3989
+62365. feat: create admin dashboard #62365

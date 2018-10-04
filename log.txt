@@ -737,3 +737,4 @@
 71020. test: test user registration edge cases #71020
 71688. docs: clarify environment setup #71688
 57678. fix: prevent crash on empty input #57678
+94377. perf: optimize database query for quiz results #94377

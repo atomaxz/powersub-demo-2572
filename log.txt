@@ -3742,3 +3742,4 @@
 18543. feat: enable dark mode toggle #18543
 22819. style: apply consistent indentation #22819
 38945. feat: add export to CSV option #38945
+86284. perf: reduce image load time #86284

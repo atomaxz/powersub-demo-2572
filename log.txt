@@ -1770,3 +1770,4 @@
 72928. feat: create admin dashboard #72928
 51646. style: rename variables for clarity #51646
 13309. refactor: split large controller into smaller functions #13309
+43767. style: standardize quote style #43767

@@ -741,3 +741,4 @@
 60687. fix: handle 500 error in quiz API #60687
 19105. docs: clarify environment setup #19105
 30480. chore: update .gitignore #30480
+55446. fix: fix null pointer exception on login #55446

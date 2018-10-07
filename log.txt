@@ -1779,3 +1779,4 @@
 31384. feat: create admin dashboard #31384
 60415. perf: reduce image load time #60415
 52979. style: standardize quote style #52979
+40592. docs: update README with setup steps #40592

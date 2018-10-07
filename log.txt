@@ -1780,3 +1780,4 @@
 60415. perf: reduce image load time #60415
 52979. style: standardize quote style #52979
 40592. docs: update README with setup steps #40592
+87718. feat: enable dark mode toggle #87718

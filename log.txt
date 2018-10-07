@@ -748,3 +748,4 @@
 31597. test: increase coverage on auth module #31597
 72372. style: rename variables for clarity #72372
 88236. chore: update .gitignore #88236
+68429. refactor: clean up auth middleware #68429

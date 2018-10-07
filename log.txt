@@ -2767,3 +2767,4 @@
 78431. test: mock database connection in test suite #78431
 20370. fix: fix broken CSS in mobile view #20370
 93099. chore: add GitHub actions badge #93099
+75389. chore: update .gitignore #75389

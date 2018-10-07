@@ -745,3 +745,4 @@
 18780. refactor: split large controller into smaller functions #18780
 22893. refactor: organize models into subfolders #22893
 11078. perf: optimize database query for quiz results #11078
+31597. test: increase coverage on auth module #31597

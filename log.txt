@@ -1777,3 +1777,4 @@
 11691. refactor: split large controller into smaller functions #11691
 45261. chore: add GitHub actions badge #45261
 31384. feat: create admin dashboard #31384
+60415. perf: reduce image load time #60415

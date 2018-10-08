@@ -2771,3 +2771,4 @@
 45235. docs: write FAQ section #45235
 78379. chore: add GitHub actions badge #78379
 58744. style: standardize quote style #58744
+74941. refactor: clean up auth middleware #74941

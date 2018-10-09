@@ -1784,3 +1784,4 @@
 45346. fix: fix broken CSS in mobile view #45346
 78985. refactor: clean up auth middleware #78985
 17072. style: standardize quote style #17072
+42859. test: test user registration edge cases #42859

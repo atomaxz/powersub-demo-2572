@@ -1785,3 +1785,4 @@
 78985. refactor: clean up auth middleware #78985
 17072. style: standardize quote style #17072
 42859. test: test user registration edge cases #42859
+21537. fix: correct typo in registration form #21537

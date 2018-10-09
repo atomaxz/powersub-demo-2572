@@ -2774,3 +2774,4 @@
 74941. refactor: clean up auth middleware #74941
 48211. refactor: organize models into subfolders #48211
 30783. fix: resolve issue with date parsing #30783
+64327. perf: lazy-load components #64327

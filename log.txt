@@ -1786,3 +1786,4 @@
 17072. style: standardize quote style #17072
 42859. test: test user registration edge cases #42859
 21537. fix: correct typo in registration form #21537
+77749. fix: prevent crash on empty input #77749

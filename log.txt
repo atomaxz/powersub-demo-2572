@@ -1790,3 +1790,4 @@
 70119. fix: prevent crash on empty input #70119
 13277. feat: enable dark mode toggle #13277
 24360. docs: improve code comments in utils #24360
+1548. fix: correct typo in registration form #1548

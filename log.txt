@@ -1788,3 +1788,4 @@
 21537. fix: correct typo in registration form #21537
 77749. fix: prevent crash on empty input #77749
 70119. fix: prevent crash on empty input #70119
+13277. feat: enable dark mode toggle #13277

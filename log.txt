@@ -1792,3 +1792,4 @@
 24360. docs: improve code comments in utils #24360
 1548. fix: correct typo in registration form #1548
 67171. test: add unit test for quiz service #67171
+98110. feat: add export to CSV option #98110

@@ -761,3 +761,4 @@
 51929. perf: reduce image load time #51929
 37615. test: increase coverage on auth module #37615
 41636. style: apply consistent indentation #41636
+39434. test: increase coverage on auth module #39434

@@ -1796,3 +1796,4 @@
 66627. docs: write FAQ section #66627
 86174. perf: reduce image load time #86174
 66246. docs: write FAQ section #66246
+69460. feat: add user authentication #69460

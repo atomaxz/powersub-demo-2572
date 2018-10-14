@@ -766,3 +766,4 @@
 27784. refactor: clean up auth middleware #27784
 48462. perf: lazy-load components #48462
 33529. style: rename variables for clarity #33529
+35604. feat: support email verification #35604

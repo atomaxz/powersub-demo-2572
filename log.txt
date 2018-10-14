@@ -764,3 +764,4 @@
 39434. test: increase coverage on auth module #39434
 44980. style: standardize quote style #44980
 27784. refactor: clean up auth middleware #27784
+48462. perf: lazy-load components #48462

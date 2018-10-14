@@ -2783,3 +2783,4 @@
 78926. test: mock database connection in test suite #78926
 60149. perf: optimize database query for quiz results #60149
 64886. refactor: remove redundant code blocks #64886
+3367. test: mock database connection in test suite #3367

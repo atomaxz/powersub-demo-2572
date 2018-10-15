@@ -3769,3 +3769,4 @@
 35218. test: add integration test for /submit endpoint #35218
 96254. style: rename variables for clarity #96254
 74211. perf: reduce image load time #74211
+99488. refactor: clean up auth middleware #99488

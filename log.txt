@@ -3770,3 +3770,4 @@
 96254. style: rename variables for clarity #96254
 74211. perf: reduce image load time #74211
 99488. refactor: clean up auth middleware #99488
+10188. chore: bump dependencies #10188

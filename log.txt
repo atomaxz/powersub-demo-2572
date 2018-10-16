@@ -3774,3 +3774,4 @@
 58756. test: test user registration edge cases #58756
 9252. test: increase coverage on auth module #9252
 76745. perf: cache repeated calculations #76745
+97818. style: apply consistent indentation #97818

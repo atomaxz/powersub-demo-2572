@@ -1801,3 +1801,4 @@
 96952. feat: add user authentication #96952
 41100. feat: add user authentication #41100
 10201. style: remove trailing whitespace #10201
+5963. perf: optimize database query for quiz results #5963

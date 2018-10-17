@@ -772,3 +772,4 @@
 82717. fix: resolve issue with date parsing #82717
 80519. docs: clarify environment setup #80519
 58268. fix: handle 500 error in quiz API #58268
+85120. docs: document token refresh logic #85120

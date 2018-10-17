@@ -1804,3 +1804,4 @@
 5963. perf: optimize database query for quiz results #5963
 67203. docs: clarify environment setup #67203
 39139. chore: clean up unused files #39139
+93408. perf: optimize database query for quiz results #93408

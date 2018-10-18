@@ -779,3 +779,4 @@
 52890. docs: clarify environment setup #52890
 77538. docs: document token refresh logic #77538
 76721. chore: bump dependencies #76721
+0840. docs: update README with setup steps #840

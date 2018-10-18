@@ -1810,3 +1810,4 @@
 42325. refactor: split large controller into smaller functions #42325
 12652. test: mock database connection in test suite #12652
 95506. docs: clarify environment setup #95506
+65245. docs: document token refresh logic #65245

@@ -2796,3 +2796,4 @@
 58616. style: rename variables for clarity #58616
 70518. perf: reduce image load time #70518
 70383. feat: enable dark mode toggle #70383
+96511. docs: document token refresh logic #96511

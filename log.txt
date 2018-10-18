@@ -3781,3 +3781,4 @@
 42279. refactor: split large controller into smaller functions #42279
 27674. docs: update README with setup steps #27674
 48862. chore: clean up unused files #48862
+75346. feat: enable dark mode toggle #75346

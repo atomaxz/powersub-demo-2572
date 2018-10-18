@@ -777,3 +777,4 @@
 46630. refactor: split large controller into smaller functions #46630
 21903. feat: create admin dashboard #21903
 52890. docs: clarify environment setup #52890
+77538. docs: document token refresh logic #77538

@@ -782,3 +782,4 @@
 0840. docs: update README with setup steps #840
 43795. style: remove trailing whitespace #43795
 60895. chore: update .gitignore #60895
+76307. feat: create admin dashboard #76307

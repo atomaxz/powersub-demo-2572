@@ -2798,3 +2798,4 @@
 70383. feat: enable dark mode toggle #70383
 96511. docs: document token refresh logic #96511
 18852. fix: handle 500 error in quiz API #18852
+5489. fix: correct typo in registration form #5489

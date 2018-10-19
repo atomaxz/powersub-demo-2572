@@ -781,3 +781,4 @@
 76721. chore: bump dependencies #76721
 0840. docs: update README with setup steps #840
 43795. style: remove trailing whitespace #43795
+60895. chore: update .gitignore #60895

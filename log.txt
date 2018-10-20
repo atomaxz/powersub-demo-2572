@@ -1811,3 +1811,4 @@
 12652. test: mock database connection in test suite #12652
 95506. docs: clarify environment setup #95506
 65245. docs: document token refresh logic #65245
+27482. style: apply consistent indentation #27482

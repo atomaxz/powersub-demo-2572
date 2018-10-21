@@ -786,3 +786,4 @@
 58084. style: reformat files with black #58084
 8847. docs: write FAQ section #8847
 61784. style: remove trailing whitespace #61784
+35639. perf: reduce image load time #35639

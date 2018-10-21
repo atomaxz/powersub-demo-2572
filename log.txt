@@ -2801,3 +2801,4 @@
 5489. fix: correct typo in registration form #5489
 37627. chore: update .gitignore #37627
 17507. chore: clean up unused files #17507
+53123. style: reformat files with black #53123

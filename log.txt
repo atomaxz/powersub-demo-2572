@@ -784,3 +784,4 @@
 60895. chore: update .gitignore #60895
 76307. feat: create admin dashboard #76307
 58084. style: reformat files with black #58084
+8847. docs: write FAQ section #8847

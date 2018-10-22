@@ -2806,3 +2806,4 @@
 55108. chore: clean up unused files #55108
 38984. style: standardize quote style #38984
 28624. chore: rename env.example #28624
+89128. fix: fix null pointer exception on login #89128

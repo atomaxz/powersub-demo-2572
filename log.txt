@@ -787,3 +787,4 @@
 8847. docs: write FAQ section #8847
 61784. style: remove trailing whitespace #61784
 35639. perf: reduce image load time #35639
+82311. feat: add export to CSV option #82311

@@ -1815,3 +1815,4 @@
 18936. style: rename variables for clarity #18936
 92940. perf: optimize database query for quiz results #92940
 7369. perf: cache repeated calculations #7369
+60659. docs: document token refresh logic #60659

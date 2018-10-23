@@ -3798,3 +3798,4 @@
 84100. chore: bump dependencies #84100
 52236. docs: document token refresh logic #52236
 64329. docs: update README with setup steps #64329
+45631. refactor: split large controller into smaller functions #45631

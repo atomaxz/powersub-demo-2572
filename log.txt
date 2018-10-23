@@ -3792,3 +3792,4 @@
 97902. style: rename variables for clarity #97902
 90367. refactor: remove redundant code blocks #90367
 79627. test: add integration test for /submit endpoint #79627
+45293. test: add unit test for quiz service #45293

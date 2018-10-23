@@ -2807,3 +2807,4 @@
 38984. style: standardize quote style #38984
 28624. chore: rename env.example #28624
 89128. fix: fix null pointer exception on login #89128
+92514. refactor: clean up auth middleware #92514

@@ -3796,3 +3796,4 @@
 54821. perf: lazy-load components #54821
 52452. test: increase coverage on auth module #52452
 84100. chore: bump dependencies #84100
+52236. docs: document token refresh logic #52236

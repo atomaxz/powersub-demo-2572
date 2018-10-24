@@ -790,3 +790,4 @@
 82311. feat: add export to CSV option #82311
 98260. chore: add GitHub actions badge #98260
 71092. docs: write FAQ section #71092
+77536. test: increase coverage on auth module #77536

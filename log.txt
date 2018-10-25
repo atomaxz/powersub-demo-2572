@@ -1824,3 +1824,4 @@
 19834. test: mock database connection in test suite #19834
 54377. chore: add GitHub actions badge #54377
 46570. feat: add user authentication #46570
+66655. fix: handle 500 error in quiz API #66655

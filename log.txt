@@ -2813,3 +2813,4 @@
 55515. docs: add API usage examples #55515
 90218. test: add unit test for quiz service #90218
 46649. chore: update .gitignore #46649
+85452. test: increase coverage on auth module #85452

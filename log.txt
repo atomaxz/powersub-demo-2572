@@ -794,3 +794,4 @@
 72270. refactor: split large controller into smaller functions #72270
 39349. test: test user registration edge cases #39349
 15376. test: add integration test for /submit endpoint #15376
+35311. feat: add export to CSV option #35311

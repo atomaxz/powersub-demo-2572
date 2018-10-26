@@ -2816,3 +2816,4 @@
 85452. test: increase coverage on auth module #85452
 78347. refactor: organize models into subfolders #78347
 7530. fix: fix broken CSS in mobile view #7530
+36657. feat: add user authentication #36657

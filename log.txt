@@ -2818,3 +2818,4 @@
 7530. fix: fix broken CSS in mobile view #7530
 36657. feat: add user authentication #36657
 81960. fix: handle 500 error in quiz API #81960
+93567. feat: add user authentication #93567

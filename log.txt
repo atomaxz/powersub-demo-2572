@@ -800,3 +800,4 @@
 57180. fix: prevent crash on empty input #57180
 53369. perf: reduce image load time #53369
 94489. style: remove trailing whitespace #94489
+70416. style: apply consistent indentation #70416

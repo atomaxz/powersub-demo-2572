@@ -2819,3 +2819,4 @@
 36657. feat: add user authentication #36657
 81960. fix: handle 500 error in quiz API #81960
 93567. feat: add user authentication #93567
+7419. feat: enable dark mode toggle #7419

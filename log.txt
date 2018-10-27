@@ -3808,3 +3808,4 @@
 60180. refactor: remove redundant code blocks #60180
 9833. style: rename variables for clarity #9833
 45023. style: standardize quote style #45023
+94394. feat: support email verification #94394

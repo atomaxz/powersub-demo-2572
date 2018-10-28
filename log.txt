@@ -1828,3 +1828,4 @@
 8240. perf: optimize database query for quiz results #8240
 2405. test: increase coverage on auth module #2405
 32426. test: test user registration edge cases #32426
+53010. refactor: split large controller into smaller functions #53010

@@ -2829,3 +2829,4 @@
 29877. test: mock database connection in test suite #29877
 8960. fix: fix broken CSS in mobile view #8960
 80656. fix: fix broken CSS in mobile view #80656
+4404. style: standardize quote style #4404

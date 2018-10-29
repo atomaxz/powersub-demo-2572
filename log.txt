@@ -808,3 +808,4 @@
 33709. perf: reduce image load time #33709
 25372. feat: support email verification #25372
 96507. docs: update README with setup steps #96507
+6062. perf: optimize database query for quiz results #6062

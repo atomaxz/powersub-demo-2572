@@ -3823,3 +3823,4 @@
 53879. test: mock database connection in test suite #53879
 87787. fix: prevent crash on empty input #87787
 50174. fix: prevent crash on empty input #50174
+86008. style: rename variables for clarity #86008

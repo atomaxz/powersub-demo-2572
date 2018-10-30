@@ -1836,3 +1836,4 @@
 60785. perf: cache repeated calculations #60785
 72319. refactor: refactor quiz grading logic #72319
 31744. style: standardize quote style #31744
+85362. test: test user registration edge cases #85362

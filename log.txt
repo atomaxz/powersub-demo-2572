@@ -3822,3 +3822,4 @@
 78698. style: reformat files with black #78698
 53879. test: mock database connection in test suite #53879
 87787. fix: prevent crash on empty input #87787
+50174. fix: prevent crash on empty input #50174

@@ -3831,3 +3831,4 @@
 84383. feat: create admin dashboard #84383
 64710. perf: cache repeated calculations #64710
 45140. perf: reduce image load time #45140
+84590. chore: clean up unused files #84590

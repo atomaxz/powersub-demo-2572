@@ -3825,3 +3825,4 @@
 50174. fix: prevent crash on empty input #50174
 86008. style: rename variables for clarity #86008
 77819. style: remove trailing whitespace #77819
+34958. refactor: clean up auth middleware #34958

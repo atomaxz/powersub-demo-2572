@@ -2836,3 +2836,4 @@
 91860. feat: enable dark mode toggle #91860
 19918. chore: update .gitignore #19918
 76595. refactor: split large controller into smaller functions #76595
+81681. perf: optimize database query for quiz results #81681

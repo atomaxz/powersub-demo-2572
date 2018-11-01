@@ -2837,3 +2837,4 @@
 19918. chore: update .gitignore #19918
 76595. refactor: split large controller into smaller functions #76595
 81681. perf: optimize database query for quiz results #81681
+90151. test: mock database connection in test suite #90151

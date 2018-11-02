@@ -1847,3 +1847,4 @@
 92651. refactor: remove redundant code blocks #92651
 11430. docs: add API usage examples #11430
 20426. chore: clean up unused files #20426
+93992. perf: cache repeated calculations #93992

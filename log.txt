@@ -3837,3 +3837,4 @@
 49502. refactor: clean up auth middleware #49502
 15872. chore: update .gitignore #15872
 50738. perf: lazy-load components #50738
+76740. docs: write FAQ section #76740

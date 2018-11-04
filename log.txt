@@ -822,3 +822,4 @@
 55180. fix: correct typo in registration form #55180
 91547. docs: add API usage examples #91547
 41452. test: increase coverage on auth module #41452
+91459. perf: lazy-load components #91459

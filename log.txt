@@ -2844,3 +2844,4 @@
 93351. feat: support email verification #93351
 91988. chore: clean up unused files #91988
 98837. fix: resolve issue with date parsing #98837
+19080. style: remove trailing whitespace #19080

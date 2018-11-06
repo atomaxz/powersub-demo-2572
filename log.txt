@@ -827,3 +827,4 @@
 17787. style: remove trailing whitespace #17787
 17069. fix: handle 500 error in quiz API #17069
 30355. refactor: remove redundant code blocks #30355
+39502. style: remove trailing whitespace #39502

@@ -829,3 +829,4 @@
 30355. refactor: remove redundant code blocks #30355
 39502. style: remove trailing whitespace #39502
 96099. feat: implement quiz timer feature #96099
+37636. fix: fix broken CSS in mobile view #37636

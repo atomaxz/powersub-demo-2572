@@ -3848,3 +3848,4 @@
 70777. style: apply consistent indentation #70777
 83961. style: reformat files with black #83961
 30278. fix: correct typo in registration form #30278
+6486. chore: bump dependencies #6486

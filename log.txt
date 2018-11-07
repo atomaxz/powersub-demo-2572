@@ -2847,3 +2847,4 @@
 19080. style: remove trailing whitespace #19080
 3211. perf: optimize database query for quiz results #3211
 92366. feat: support email verification #92366
+3657. refactor: remove redundant code blocks #3657

@@ -2848,3 +2848,4 @@
 3211. perf: optimize database query for quiz results #3211
 92366. feat: support email verification #92366
 3657. refactor: remove redundant code blocks #3657
+83818. feat: enable dark mode toggle #83818

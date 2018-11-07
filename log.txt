@@ -2846,3 +2846,4 @@
 98837. fix: resolve issue with date parsing #98837
 19080. style: remove trailing whitespace #19080
 3211. perf: optimize database query for quiz results #3211
+92366. feat: support email verification #92366

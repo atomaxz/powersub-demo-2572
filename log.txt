@@ -835,3 +835,4 @@
 50040. docs: document token refresh logic #50040
 63003. style: apply consistent indentation #63003
 20871. style: standardize quote style #20871
+68567. perf: reduce image load time #68567

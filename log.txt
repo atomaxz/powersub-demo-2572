@@ -3850,3 +3850,4 @@
 30278. fix: correct typo in registration form #30278
 6486. chore: bump dependencies #6486
 76132. test: add unit test for quiz service #76132
+59347. test: mock database connection in test suite #59347

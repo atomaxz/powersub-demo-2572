@@ -837,3 +837,4 @@
 20871. style: standardize quote style #20871
 68567. perf: reduce image load time #68567
 8456. chore: clean up unused files #8456
+43366. docs: write FAQ section #43366

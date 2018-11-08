@@ -3852,3 +3852,4 @@
 76132. test: add unit test for quiz service #76132
 59347. test: mock database connection in test suite #59347
 17272. docs: write FAQ section #17272
+22653. perf: optimize database query for quiz results #22653

@@ -840,3 +840,4 @@
 43366. docs: write FAQ section #43366
 88821. refactor: split large controller into smaller functions #88821
 75950. fix: correct typo in registration form #75950
+53636. test: test user registration edge cases #53636

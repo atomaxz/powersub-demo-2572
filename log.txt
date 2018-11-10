@@ -841,3 +841,4 @@
 88821. refactor: split large controller into smaller functions #88821
 75950. fix: correct typo in registration form #75950
 53636. test: test user registration edge cases #53636
+1822. fix: prevent crash on empty input #1822

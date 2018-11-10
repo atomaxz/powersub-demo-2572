@@ -2859,3 +2859,4 @@
 50582. fix: correct typo in registration form #50582
 71120. style: remove trailing whitespace #71120
 3387. style: apply consistent indentation #3387
+11618. fix: fix null pointer exception on login #11618

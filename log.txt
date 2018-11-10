@@ -845,3 +845,4 @@
 11051. refactor: organize models into subfolders #11051
 92112. docs: clarify environment setup #92112
 3476. chore: add GitHub actions badge #3476
+69112. feat: enable dark mode toggle #69112

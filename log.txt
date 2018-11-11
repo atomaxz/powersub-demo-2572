@@ -849,3 +849,4 @@
 16264. docs: improve code comments in utils #16264
 13638. fix: fix null pointer exception on login #13638
 16167. docs: add API usage examples #16167
+13061. perf: cache repeated calculations #13061

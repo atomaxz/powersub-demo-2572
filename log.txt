@@ -851,3 +851,4 @@
 16167. docs: add API usage examples #16167
 13061. perf: cache repeated calculations #13061
 8201. fix: correct typo in registration form #8201
+12044. perf: lazy-load components #12044

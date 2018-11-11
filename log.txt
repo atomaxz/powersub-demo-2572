@@ -3867,3 +3867,4 @@
 61069. chore: bump dependencies #61069
 66904. perf: reduce image load time #66904
 24809. feat: add user authentication #24809
+2972. fix: prevent crash on empty input #2972

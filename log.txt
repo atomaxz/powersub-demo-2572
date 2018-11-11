@@ -3865,3 +3865,4 @@
 53623. test: test user registration edge cases #53623
 83850. docs: update README with setup steps #83850
 61069. chore: bump dependencies #61069
+66904. perf: reduce image load time #66904

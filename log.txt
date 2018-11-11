@@ -2864,3 +2864,4 @@
 91314. feat: add export to CSV option #91314
 28055. chore: rename env.example #28055
 56601. docs: write FAQ section #56601
+64605. docs: document token refresh logic #64605

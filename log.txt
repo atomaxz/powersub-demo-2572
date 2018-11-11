@@ -847,3 +847,4 @@
 3476. chore: add GitHub actions badge #3476
 69112. feat: enable dark mode toggle #69112
 16264. docs: improve code comments in utils #16264
+13638. fix: fix null pointer exception on login #13638

@@ -852,3 +852,4 @@
 13061. perf: cache repeated calculations #13061
 8201. fix: correct typo in registration form #8201
 12044. perf: lazy-load components #12044
+63542. docs: write FAQ section #63542

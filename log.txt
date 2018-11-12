@@ -2868,3 +2868,4 @@
 75345. style: reformat files with black #75345
 39240. refactor: clean up auth middleware #39240
 22157. chore: add GitHub actions badge #22157
+42464. docs: document token refresh logic #42464

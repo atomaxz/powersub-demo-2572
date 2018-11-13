@@ -2869,3 +2869,4 @@
 39240. refactor: clean up auth middleware #39240
 22157. chore: add GitHub actions badge #22157
 42464. docs: document token refresh logic #42464
+48866. fix: fix broken CSS in mobile view #48866

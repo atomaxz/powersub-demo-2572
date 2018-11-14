@@ -3876,3 +3876,4 @@
 64102. refactor: split large controller into smaller functions #64102
 81169. perf: cache repeated calculations #81169
 10343. test: add unit test for quiz service #10343
+67979. docs: document token refresh logic #67979

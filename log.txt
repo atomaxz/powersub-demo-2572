@@ -857,3 +857,4 @@
 41953. test: increase coverage on auth module #41953
 1250. style: apply consistent indentation #1250
 3365. perf: optimize database query for quiz results #3365
+42571. fix: prevent crash on empty input #42571

@@ -2873,3 +2873,4 @@
 12343. refactor: refactor quiz grading logic #12343
 53752. style: standardize quote style #53752
 30313. chore: update .gitignore #30313
+4417. fix: fix broken CSS in mobile view #4417

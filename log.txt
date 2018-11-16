@@ -1879,3 +1879,4 @@
 99532. style: rename variables for clarity #99532
 53281. test: test user registration edge cases #53281
 47690. test: test user registration edge cases #47690
+89033. refactor: clean up auth middleware #89033

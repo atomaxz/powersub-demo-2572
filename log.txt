@@ -2880,3 +2880,4 @@
 33589. perf: lazy-load components #33589
 24558. style: reformat files with black #24558
 80625. refactor: clean up auth middleware #80625
+83417. fix: prevent crash on empty input #83417

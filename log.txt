@@ -866,3 +866,4 @@
 5542. refactor: organize models into subfolders #5542
 58412. perf: cache repeated calculations #58412
 19358. feat: enable dark mode toggle #19358
+97650. feat: create admin dashboard #97650

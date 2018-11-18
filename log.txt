@@ -3885,3 +3885,4 @@
 37024. style: apply consistent indentation #37024
 51328. chore: clean up unused files #51328
 33342. chore: clean up unused files #33342
+89571. refactor: clean up auth middleware #89571

@@ -1884,3 +1884,4 @@
 57549. style: reformat files with black #57549
 29985. docs: add API usage examples #29985
 79595. perf: lazy-load components #79595
+50012. feat: create admin dashboard #50012

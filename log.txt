@@ -1886,3 +1886,4 @@
 79595. perf: lazy-load components #79595
 50012. feat: create admin dashboard #50012
 87951. perf: cache repeated calculations #87951
+56356. refactor: clean up auth middleware #56356

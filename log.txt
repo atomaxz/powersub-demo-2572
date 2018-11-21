@@ -3897,3 +3897,4 @@
 46459. style: apply consistent indentation #46459
 79871. feat: add user authentication #79871
 39161. style: standardize quote style #39161
+37835. perf: optimize database query for quiz results #37835

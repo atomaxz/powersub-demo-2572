@@ -3893,3 +3893,4 @@
 10242. style: rename variables for clarity #10242
 45190. test: mock database connection in test suite #45190
 0057. feat: support email verification #57
+8302. chore: clean up unused files #8302

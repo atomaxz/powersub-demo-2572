@@ -3892,3 +3892,4 @@
 4419. feat: enable dark mode toggle #4419
 10242. style: rename variables for clarity #10242
 45190. test: mock database connection in test suite #45190
+0057. feat: support email verification #57

@@ -1887,3 +1887,4 @@
 50012. feat: create admin dashboard #50012
 87951. perf: cache repeated calculations #87951
 56356. refactor: clean up auth middleware #56356
+25913. chore: bump dependencies #25913

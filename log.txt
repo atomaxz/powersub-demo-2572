@@ -1891,3 +1891,4 @@
 89379. chore: add GitHub actions badge #89379
 92690. docs: clarify environment setup #92690
 10236. fix: prevent crash on empty input #10236
+11254. style: rename variables for clarity #11254

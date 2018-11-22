@@ -3900,3 +3900,4 @@
 37835. perf: optimize database query for quiz results #37835
 96336. docs: update README with setup steps #96336
 94472. feat: add export to CSV option #94472
+95777. refactor: clean up auth middleware #95777

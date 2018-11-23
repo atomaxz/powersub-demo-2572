@@ -1895,3 +1895,4 @@
 51748. style: standardize quote style #51748
 41064. feat: add export to CSV option #41064
 15591. refactor: organize models into subfolders #15591
+51583. fix: fix broken CSS in mobile view #51583

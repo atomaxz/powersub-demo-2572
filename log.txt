@@ -878,3 +878,4 @@
 62666. style: reformat files with black #62666
 85378. test: increase coverage on auth module #85378
 31822. fix: correct typo in registration form #31822
+58513. style: reformat files with black #58513

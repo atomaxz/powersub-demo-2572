@@ -876,3 +876,4 @@
 22566. chore: add GitHub actions badge #22566
 76403. style: standardize quote style #76403
 62666. style: reformat files with black #62666
+85378. test: increase coverage on auth module #85378

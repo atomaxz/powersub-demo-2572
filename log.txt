@@ -2895,3 +2895,4 @@
 99673. fix: correct typo in registration form #99673
 10828. test: test user registration edge cases #10828
 37426. test: increase coverage on auth module #37426
+47464. feat: create admin dashboard #47464

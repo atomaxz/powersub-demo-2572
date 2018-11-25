@@ -3904,3 +3904,4 @@
 28683. feat: enable dark mode toggle #28683
 72800. feat: add export to CSV option #72800
 34117. refactor: remove redundant code blocks #34117
+4990. feat: enable dark mode toggle #4990

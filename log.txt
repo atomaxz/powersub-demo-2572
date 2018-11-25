@@ -2898,3 +2898,4 @@
 47464. feat: create admin dashboard #47464
 36951. docs: update README with setup steps #36951
 85428. feat: enable dark mode toggle #85428
+99449. fix: prevent crash on empty input #99449

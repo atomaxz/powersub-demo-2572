@@ -2900,3 +2900,4 @@
 85428. feat: enable dark mode toggle #85428
 99449. fix: prevent crash on empty input #99449
 82696. refactor: clean up auth middleware #82696
+69097. fix: correct typo in registration form #69097

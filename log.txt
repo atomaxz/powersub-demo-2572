@@ -882,3 +882,4 @@
 61746. feat: implement quiz timer feature #61746
 36329. feat: enable dark mode toggle #36329
 4765. docs: clarify environment setup #4765
+70250. test: mock database connection in test suite #70250

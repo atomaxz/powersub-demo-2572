@@ -886,3 +886,4 @@
 47737. style: standardize quote style #47737
 8586. fix: handle 500 error in quiz API #8586
 48318. chore: bump dependencies #48318
+97798. refactor: clean up auth middleware #97798

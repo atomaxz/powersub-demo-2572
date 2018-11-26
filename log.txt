@@ -1899,3 +1899,4 @@
 49258. fix: handle 500 error in quiz API #49258
 67995. refactor: clean up auth middleware #67995
 92355. style: rename variables for clarity #92355
+32887. test: increase coverage on auth module #32887

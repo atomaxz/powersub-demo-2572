@@ -2912,3 +2912,4 @@
 6971. refactor: refactor quiz grading logic #6971
 54893. refactor: remove redundant code blocks #54893
 14838. docs: write FAQ section #14838
+68335. perf: cache repeated calculations #68335

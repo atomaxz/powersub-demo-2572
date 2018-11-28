@@ -3907,3 +3907,4 @@
 4990. feat: enable dark mode toggle #4990
 23178. perf: lazy-load components #23178
 7296. perf: reduce image load time #7296
+86621. docs: add API usage examples #86621

@@ -1902,3 +1902,4 @@
 32887. test: increase coverage on auth module #32887
 7938. test: add unit test for quiz service #7938
 50020. style: standardize quote style #50020
+40000. chore: update .gitignore #40000

@@ -1905,3 +1905,4 @@
 40000. chore: update .gitignore #40000
 75989. docs: update README with setup steps #75989
 23815. style: remove trailing whitespace #23815
+11084. refactor: organize models into subfolders #11084

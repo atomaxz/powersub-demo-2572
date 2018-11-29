@@ -1904,3 +1904,4 @@
 50020. style: standardize quote style #50020
 40000. chore: update .gitignore #40000
 75989. docs: update README with setup steps #75989
+23815. style: remove trailing whitespace #23815

@@ -1906,3 +1906,4 @@
 75989. docs: update README with setup steps #75989
 23815. style: remove trailing whitespace #23815
 11084. refactor: organize models into subfolders #11084
+4063. fix: fix broken CSS in mobile view #4063

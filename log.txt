@@ -2920,3 +2920,4 @@
 59502. test: add integration test for /submit endpoint #59502
 73054. feat: add export to CSV option #73054
 29629. style: apply consistent indentation #29629
+67584. fix: fix broken CSS in mobile view #67584

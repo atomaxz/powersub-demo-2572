@@ -895,3 +895,4 @@
 12514. refactor: refactor quiz grading logic #12514
 91781. perf: reduce image load time #91781
 0685. fix: prevent crash on empty input #685
+17918. fix: handle 500 error in quiz API #17918

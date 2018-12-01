@@ -897,3 +897,4 @@
 0685. fix: prevent crash on empty input #685
 17918. fix: handle 500 error in quiz API #17918
 73343. docs: clarify environment setup #73343
+49056. test: add unit test for quiz service #49056

@@ -899,3 +899,4 @@
 73343. docs: clarify environment setup #73343
 49056. test: add unit test for quiz service #49056
 36164. docs: update README with setup steps #36164
+26939. refactor: clean up auth middleware #26939

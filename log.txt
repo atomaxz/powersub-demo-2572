@@ -2922,3 +2922,4 @@
 29629. style: apply consistent indentation #29629
 67584. fix: fix broken CSS in mobile view #67584
 23984. docs: add API usage examples #23984
+91298. feat: add user authentication #91298

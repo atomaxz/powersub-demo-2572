@@ -3919,3 +3919,4 @@
 82730. docs: clarify environment setup #82730
 27343. perf: lazy-load components #27343
 37717. refactor: split large controller into smaller functions #37717
+7723. fix: correct typo in registration form #7723

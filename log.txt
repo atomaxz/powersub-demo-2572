@@ -2924,3 +2924,4 @@
 23984. docs: add API usage examples #23984
 91298. feat: add user authentication #91298
 48912. test: add integration test for /submit endpoint #48912
+14007. feat: add user authentication #14007

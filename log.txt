@@ -905,3 +905,4 @@
 48812. refactor: clean up auth middleware #48812
 57584. refactor: refactor quiz grading logic #57584
 36823. style: standardize quote style #36823
+45357. test: mock database connection in test suite #45357

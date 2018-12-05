@@ -3921,3 +3921,4 @@
 37717. refactor: split large controller into smaller functions #37717
 7723. fix: correct typo in registration form #7723
 93531. style: rename variables for clarity #93531
+53973. feat: create admin dashboard #53973

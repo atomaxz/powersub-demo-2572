@@ -909,3 +909,4 @@
 20336. fix: fix null pointer exception on login #20336
 93837. style: apply consistent indentation #93837
 91353. fix: fix null pointer exception on login #91353
+58736. chore: rename env.example #58736

@@ -2936,3 +2936,4 @@
 97425. style: reformat files with black #97425
 22942. perf: optimize database query for quiz results #22942
 28644. fix: fix null pointer exception on login #28644
+75855. fix: fix null pointer exception on login #75855

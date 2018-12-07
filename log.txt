@@ -1928,3 +1928,4 @@
 32729. feat: enable dark mode toggle #32729
 51273. chore: rename env.example #51273
 80028. style: rename variables for clarity #80028
+69363. test: increase coverage on auth module #69363

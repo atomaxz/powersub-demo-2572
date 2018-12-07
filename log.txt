@@ -2938,3 +2938,4 @@
 28644. fix: fix null pointer exception on login #28644
 75855. fix: fix null pointer exception on login #75855
 36692. feat: implement quiz timer feature #36692
+39493. fix: prevent crash on empty input #39493

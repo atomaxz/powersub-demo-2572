@@ -2942,3 +2942,4 @@
 53413. chore: rename env.example #53413
 38259. docs: add API usage examples #38259
 98519. style: reformat files with black #98519
+70600. chore: add GitHub actions badge #70600

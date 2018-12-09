@@ -3929,3 +3929,4 @@
 5951. test: add unit test for quiz service #5951
 80047. docs: clarify environment setup #80047
 15065. feat: add export to CSV option #15065
+29393. fix: handle 500 error in quiz API #29393

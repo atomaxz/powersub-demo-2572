@@ -914,3 +914,4 @@
 86114. chore: update .gitignore #86114
 66226. docs: add API usage examples #66226
 30325. perf: reduce image load time #30325
+27454. test: test user registration edge cases #27454

@@ -924,3 +924,4 @@
 45029. style: reformat files with black #45029
 39572. refactor: remove redundant code blocks #39572
 23305. refactor: organize models into subfolders #23305
+13266. fix: fix broken CSS in mobile view #13266

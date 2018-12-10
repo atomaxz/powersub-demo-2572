@@ -2944,3 +2944,4 @@
 98519. style: reformat files with black #98519
 70600. chore: add GitHub actions badge #70600
 69791. fix: fix broken CSS in mobile view #69791
+36575. refactor: clean up auth middleware #36575

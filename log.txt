@@ -3932,3 +3932,4 @@
 29393. fix: handle 500 error in quiz API #29393
 73093. refactor: refactor quiz grading logic #73093
 98096. perf: lazy-load components #98096
+96191. perf: cache repeated calculations #96191

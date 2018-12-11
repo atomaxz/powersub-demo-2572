@@ -3938,3 +3938,4 @@
 36997. test: increase coverage on auth module #36997
 58447. test: mock database connection in test suite #58447
 98119. feat: support email verification #98119
+3434. refactor: refactor quiz grading logic #3434

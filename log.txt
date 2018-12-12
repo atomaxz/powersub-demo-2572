@@ -935,3 +935,4 @@
 25228. style: remove trailing whitespace #25228
 24838. chore: update .gitignore #24838
 57704. perf: cache repeated calculations #57704
+29824. perf: lazy-load components #29824

@@ -1941,3 +1941,4 @@
 20800. refactor: refactor quiz grading logic #20800
 96113. chore: clean up unused files #96113
 73036. test: add integration test for /submit endpoint #73036
+13957. test: increase coverage on auth module #13957

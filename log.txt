@@ -932,3 +932,4 @@
 84967. refactor: organize models into subfolders #84967
 76788. docs: add API usage examples #76788
 17480. test: mock database connection in test suite #17480
+25228. style: remove trailing whitespace #25228

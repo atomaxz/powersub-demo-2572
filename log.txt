@@ -1943,3 +1943,4 @@
 73036. test: add integration test for /submit endpoint #73036
 13957. test: increase coverage on auth module #13957
 61062. perf: cache repeated calculations #61062
+10959. fix: correct typo in registration form #10959

@@ -3945,3 +3945,4 @@
 12709. style: reformat files with black #12709
 80062. chore: bump dependencies #80062
 81491. fix: fix null pointer exception on login #81491
+66161. refactor: clean up auth middleware #66161

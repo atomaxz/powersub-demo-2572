@@ -2950,3 +2950,4 @@
 11731. docs: update README with setup steps #11731
 13412. style: rename variables for clarity #13412
 16855. refactor: organize models into subfolders #16855
+44829. test: test user registration edge cases #44829

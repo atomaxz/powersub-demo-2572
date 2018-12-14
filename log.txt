@@ -1945,3 +1945,4 @@
 61062. perf: cache repeated calculations #61062
 10959. fix: correct typo in registration form #10959
 66216. chore: bump dependencies #66216
+76427. perf: reduce image load time #76427

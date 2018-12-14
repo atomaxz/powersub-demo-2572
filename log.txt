@@ -1947,3 +1947,4 @@
 66216. chore: bump dependencies #66216
 76427. perf: reduce image load time #76427
 23463. chore: update .gitignore #23463
+26403. style: standardize quote style #26403

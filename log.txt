@@ -2956,3 +2956,4 @@
 0340. docs: write FAQ section #340
 51029. fix: fix broken CSS in mobile view #51029
 90033. fix: correct typo in registration form #90033
+89609. refactor: split large controller into smaller functions #89609

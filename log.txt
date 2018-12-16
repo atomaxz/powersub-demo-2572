@@ -2958,3 +2958,4 @@
 90033. fix: correct typo in registration form #90033
 89609. refactor: split large controller into smaller functions #89609
 17044. docs: update README with setup steps #17044
+96828. docs: write FAQ section #96828

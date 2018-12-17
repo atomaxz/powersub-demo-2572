@@ -3954,3 +3954,4 @@
 42977. perf: reduce image load time #42977
 14819. perf: optimize database query for quiz results #14819
 44460. chore: bump dependencies #44460
+46847. feat: add user authentication #46847

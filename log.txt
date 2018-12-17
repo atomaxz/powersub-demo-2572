@@ -948,3 +948,4 @@
 6069. fix: fix null pointer exception on login #6069
 70370. style: apply consistent indentation #70370
 28428. fix: resolve issue with date parsing #28428
+53818. refactor: refactor quiz grading logic #53818

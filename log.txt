@@ -949,3 +949,4 @@
 70370. style: apply consistent indentation #70370
 28428. fix: resolve issue with date parsing #28428
 53818. refactor: refactor quiz grading logic #53818
+11742. perf: optimize database query for quiz results #11742

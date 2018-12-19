@@ -2962,3 +2962,4 @@
 96357. perf: lazy-load components #96357
 64008. test: increase coverage on auth module #64008
 30758. refactor: split large controller into smaller functions #30758
+58484. refactor: clean up auth middleware #58484

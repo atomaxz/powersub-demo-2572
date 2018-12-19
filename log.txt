@@ -1960,3 +1960,4 @@
 91374. perf: reduce image load time #91374
 12400. chore: clean up unused files #12400
 35279. test: test user registration edge cases #35279
+18674. fix: fix broken CSS in mobile view #18674

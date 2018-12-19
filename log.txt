@@ -954,3 +954,4 @@
 75342. fix: fix broken CSS in mobile view #75342
 46008. perf: cache repeated calculations #46008
 35806. fix: prevent crash on empty input #35806
+79645. chore: rename env.example #79645

@@ -1963,3 +1963,4 @@
 18674. fix: fix broken CSS in mobile view #18674
 4828. test: mock database connection in test suite #4828
 39496. test: increase coverage on auth module #39496
+22405. perf: optimize database query for quiz results #22405

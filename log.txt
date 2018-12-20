@@ -3959,3 +3959,4 @@
 32836. test: test user registration edge cases #32836
 10768. feat: implement quiz timer feature #10768
 10020. feat: add export to CSV option #10020
+65498. fix: resolve issue with date parsing #65498

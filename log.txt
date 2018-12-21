@@ -1968,3 +1968,4 @@
 65272. fix: handle 500 error in quiz API #65272
 29121. refactor: split large controller into smaller functions #29121
 65407. test: mock database connection in test suite #65407
+37246. style: standardize quote style #37246

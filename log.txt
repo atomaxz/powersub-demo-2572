@@ -3963,3 +3963,4 @@
 80969. test: add unit test for quiz service #80969
 52554. feat: create admin dashboard #52554
 97682. perf: optimize database query for quiz results #97682
+48825. fix: fix broken CSS in mobile view #48825

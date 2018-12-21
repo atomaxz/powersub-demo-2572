@@ -964,3 +964,4 @@
 73575. refactor: refactor quiz grading logic #73575
 14626. docs: improve code comments in utils #14626
 97418. docs: update README with setup steps #97418
+10908. chore: bump dependencies #10908

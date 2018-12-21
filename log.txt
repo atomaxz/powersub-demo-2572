@@ -2967,3 +2967,4 @@
 41813. style: reformat files with black #41813
 41663. style: apply consistent indentation #41663
 94358. chore: add GitHub actions badge #94358
+14322. test: increase coverage on auth module #14322

@@ -3967,3 +3967,4 @@
 24693. test: mock database connection in test suite #24693
 2281. feat: enable dark mode toggle #2281
 91999. perf: lazy-load components #91999
+30541. fix: fix broken CSS in mobile view #30541

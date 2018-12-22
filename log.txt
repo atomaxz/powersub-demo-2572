@@ -2971,3 +2971,4 @@
 2402. test: test user registration edge cases #2402
 56415. feat: support email verification #56415
 28405. fix: correct typo in registration form #28405
+5747. refactor: clean up auth middleware #5747

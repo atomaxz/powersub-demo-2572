@@ -1970,3 +1970,4 @@
 65407. test: mock database connection in test suite #65407
 37246. style: standardize quote style #37246
 77176. chore: clean up unused files #77176
+47979. docs: clarify environment setup #47979

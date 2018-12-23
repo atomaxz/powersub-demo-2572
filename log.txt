@@ -2972,3 +2972,4 @@
 56415. feat: support email verification #56415
 28405. fix: correct typo in registration form #28405
 5747. refactor: clean up auth middleware #5747
+7113. style: remove trailing whitespace #7113

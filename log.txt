@@ -1976,3 +1976,4 @@
 65856. perf: cache repeated calculations #65856
 0391. chore: clean up unused files #391
 4868. test: mock database connection in test suite #4868
+63545. perf: lazy-load components #63545

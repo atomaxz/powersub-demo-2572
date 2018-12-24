@@ -2974,3 +2974,4 @@
 5747. refactor: clean up auth middleware #5747
 7113. style: remove trailing whitespace #7113
 5016. docs: add API usage examples #5016
+95774. fix: handle 500 error in quiz API #95774

@@ -3978,3 +3978,4 @@
 7013. docs: update README with setup steps #7013
 44506. feat: add export to CSV option #44506
 76260. test: increase coverage on auth module #76260
+73256. style: remove trailing whitespace #73256

@@ -1978,3 +1978,4 @@
 4868. test: mock database connection in test suite #4868
 63545. perf: lazy-load components #63545
 95359. test: test user registration edge cases #95359
+8873. refactor: clean up auth middleware #8873

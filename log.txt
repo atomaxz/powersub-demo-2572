@@ -1982,3 +1982,4 @@
 66583. fix: prevent crash on empty input #66583
 13107. chore: rename env.example #13107
 50727. chore: bump dependencies #50727
+27114. feat: add user authentication #27114

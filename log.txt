@@ -2977,3 +2977,4 @@
 95774. fix: handle 500 error in quiz API #95774
 18296. test: mock database connection in test suite #18296
 95772. feat: enable dark mode toggle #95772
+72506. chore: clean up unused files #72506

@@ -987,3 +987,4 @@
 11709. feat: implement quiz timer feature #11709
 49450. feat: add user authentication #49450
 36294. feat: enable dark mode toggle #36294
+4414. test: increase coverage on auth module #4414

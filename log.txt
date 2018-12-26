@@ -2983,3 +2983,4 @@
 12818. refactor: remove redundant code blocks #12818
 99259. chore: add GitHub actions badge #99259
 16036. refactor: split large controller into smaller functions #16036
+8356. docs: document token refresh logic #8356

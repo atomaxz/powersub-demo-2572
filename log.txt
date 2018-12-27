@@ -2984,3 +2984,4 @@
 99259. chore: add GitHub actions badge #99259
 16036. refactor: split large controller into smaller functions #16036
 8356. docs: document token refresh logic #8356
+25424. fix: fix broken CSS in mobile view #25424

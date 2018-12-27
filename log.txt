@@ -3980,3 +3980,4 @@
 76260. test: increase coverage on auth module #76260
 73256. style: remove trailing whitespace #73256
 16371. fix: correct typo in registration form #16371
+56231. fix: resolve issue with date parsing #56231

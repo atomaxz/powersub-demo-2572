@@ -1987,3 +1987,4 @@
 76272. style: apply consistent indentation #76272
 49739. chore: add GitHub actions badge #49739
 66270. style: rename variables for clarity #66270
+91878. style: remove trailing whitespace #91878

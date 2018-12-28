@@ -1990,3 +1990,4 @@
 91878. style: remove trailing whitespace #91878
 91281. refactor: clean up auth middleware #91281
 12806. feat: create admin dashboard #12806
+0605. fix: fix null pointer exception on login #605

@@ -2991,3 +2991,4 @@
 48951. docs: clarify environment setup #48951
 78437. docs: document token refresh logic #78437
 61052. test: add unit test for quiz service #61052
+11287. chore: add GitHub actions badge #11287

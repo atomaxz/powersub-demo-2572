@@ -1991,3 +1991,4 @@
 91281. refactor: clean up auth middleware #91281
 12806. feat: create admin dashboard #12806
 0605. fix: fix null pointer exception on login #605
+58972. perf: optimize database query for quiz results #58972

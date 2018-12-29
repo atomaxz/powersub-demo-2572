@@ -2994,3 +2994,4 @@
 11287. chore: add GitHub actions badge #11287
 1307. fix: correct typo in registration form #1307
 65077. docs: add API usage examples #65077
+10962. docs: clarify environment setup #10962

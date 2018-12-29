@@ -1992,3 +1992,4 @@
 12806. feat: create admin dashboard #12806
 0605. fix: fix null pointer exception on login #605
 58972. perf: optimize database query for quiz results #58972
+62067. refactor: split large controller into smaller functions #62067

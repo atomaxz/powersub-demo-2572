@@ -3985,3 +3985,4 @@
 28581. feat: enable dark mode toggle #28581
 2591. style: standardize quote style #2591
 38771. refactor: clean up auth middleware #38771
+23829. perf: lazy-load components #23829

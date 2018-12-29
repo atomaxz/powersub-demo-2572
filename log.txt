@@ -992,3 +992,4 @@
 76474. style: reformat files with black #76474
 31137. fix: resolve issue with date parsing #31137
 35597. docs: document token refresh logic #35597
+13443. fix: correct typo in registration form #13443

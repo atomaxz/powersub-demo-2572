@@ -995,3 +995,4 @@
 13443. fix: correct typo in registration form #13443
 29831. docs: add API usage examples #29831
 34083. style: apply consistent indentation #34083
+54771. perf: optimize database query for quiz results #54771

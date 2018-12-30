@@ -3989,3 +3989,4 @@
 73716. perf: lazy-load components #73716
 93112. refactor: clean up auth middleware #93112
 32549. chore: update .gitignore #32549
+88067. docs: document token refresh logic #88067

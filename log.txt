@@ -3995,3 +3995,4 @@
 87399. perf: reduce image load time #87399
 91729. refactor: split large controller into smaller functions #91729
 15402. perf: cache repeated calculations #15402
+25166. perf: reduce image load time #25166

@@ -997,3 +997,4 @@
 34083. style: apply consistent indentation #34083
 54771. perf: optimize database query for quiz results #54771
 20306. feat: create admin dashboard #20306
+94333. refactor: clean up auth middleware #94333
